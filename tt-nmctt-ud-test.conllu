@@ -1,4 +1,6 @@
 # sent_id = 5840560_0
+# link = https://tatar-inform.tatar/news/health/08-10-2021/mishustin-koronavirustan-t-p-saklanu-charasy-vaktsinatsiya-bashka-yul-yuk-5840560
+# genre = health
 # text = Коронавирустан саклануның төп ысулы вакцинация булып тора — башка юл юк.
 1	Коронавирустан	коронавирус	NOUN	_	Case=Abl|Number=Sing	2	obl	_	CSPoint=Коронавирус§тан|LangID=MIXED[RU§TT]
 2	саклануның	сакла	VERB	_	Case=Gen|Number=Sing|VerbForm=Vnoun|Voice=Pass	4	nmod	_	LangID=TT
@@ -14,6 +16,8 @@
 12	.	.	PUNCT	_	_	11	punct	_	LangID=OTHER
 
 # sent_id = 5840560_1
+# link = https://tatar-inform.tatar/news/health/08-10-2021/mishustin-koronavirustan-t-p-saklanu-charasy-vaktsinatsiya-bashka-yul-yuk-5840560
+# genre = health
 # text = Бу хакта РФ Премьер-министры Михаил Мишустин Курск өлкәсе хастаханәсенең йогышлы авырулар корпусын караганда әйтте.
 1	Бу	бу	DET	_	_	2	det	_	LangID=TT
 2	хакта	хак	NOUN	_	Case=Loc|Number=Sing	14	obl	_	LangID=TT
@@ -32,6 +36,8 @@
 15	.	.	PUNCT	_	_	14	punct	_	LangID=OTHER
 
 # sent_id = 5840560_2
+# link = https://tatar-inform.tatar/news/health/08-10-2021/mishustin-koronavirustan-t-p-saklanu-charasy-vaktsinatsiya-bashka-yul-yuk-5840560
+# genre = health
 # text = «Курскта яшәүчеләр дә, бөтен ил халкының да ковидтан саклануның төп юлы — вакцинация икәнен аңлаулары бик мөһим», — дип китерелә Мишустин сүзләре ил Хөкүмәтенең телеграм-каналында.
 1	«	«	PUNCT	_	_	19	punct	_	LangID=OTHER
 2	Курскта	Курск	NOUN	_	Case=Loc|Number=Sing	3	obl	_	CSPoint=Курск§та|LangID=MIXED[RU§TT]
@@ -65,6 +71,8 @@
 30	.	.	PUNCT	_	_	0	punct	_	LangID=OTHER
 
 # sent_id = 5840560_3
+# link = https://tatar-inform.tatar/news/health/08-10-2021/mishustin-koronavirustan-t-p-saklanu-charasy-vaktsinatsiya-bashka-yul-yuk-5840560
+# genre = health
 # text = Премьер сүзләренчә, Курск өлкәсе тулысынча препаратлар белән тәэмин ителгән һәм вакцинация кампаниясен уздыру өчен бернинди каршылыклар да юк.
 1	Премьер	премьер	NOUN	_	Case=Nom|Number=Sing	2	nmod	_	LangID=RU
 2	сүзләренчә	сүз	NOUN	_	Case=Equ|Number=Plur|Person[psor]=3	9	advmod	_	LangID=TT
@@ -88,6 +96,8 @@
 20	.	.	PUNCT	_	_	19	punct	_	LangID=OTHER
 
 # sent_id = 5840560_4
+# link = https://tatar-inform.tatar/news/health/08-10-2021/mishustin-koronavirustan-t-p-saklanu-charasy-vaktsinatsiya-bashka-yul-yuk-5840560
+# genre = health
 # text = Хәзер кешеләрне ничек җәлеп итү һәм аңлату эшләрен ничек алып бару мәсьәләсен хәл итәргә кирәк.
 1	Хәзер	хәзер	ADV	_	_	15	advmod	_	LangID=TT
 2	кешеләрне	кеше	NOUN	_	Case=Acc|Number=Plur	4	obj	_	LangID=TT
@@ -107,6 +117,8 @@
 16	.	.	PUNCT	_	_	15	punct	_	LangID=OTHER
 
 # sent_id = 5840560_5
+# link = https://tatar-inform.tatar/news/health/08-10-2021/mishustin-koronavirustan-t-p-saklanu-charasy-vaktsinatsiya-bashka-yul-yuk-5840560
+# genre = health
 # text = Россия президенты Владимир Путин күп тапкыр Covid-19дан вакцина ясарга чакырды.
 1	Россия	Россия	PRON	_	Case=Nom|Number=Sing	2	nmod	_	LangID=RU
 2	президенты	президент	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	10	nmod	_	CSPoint=президент§ы|LangID=MIXED[RU§TT]
@@ -121,6 +133,8 @@
 11	.	.	PUNCT	_	_	10	punct	_	LangID=OTHER
 
 # sent_id = 5840560_6
+# link = https://tatar-inform.tatar/news/health/08-10-2021/mishustin-koronavirustan-t-p-saklanu-charasy-vaktsinatsiya-bashka-yul-yuk-5840560
+# genre = health
 # text = Дәүләт башлыгы процедураның мөһимлеген ассызыклый һәм Россиянең барлык вакциналарының куркынычсыз һәм ышанычлы булуын билгеләп үтә.
 1	Дәүләт	дәүләт	NOUN	_	Case=Nom|Number=Sing	2	nmod	_	LangID=TT
 2	башлыгы	башлык	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	5	nsubj	_	LangID=TT
@@ -140,6 +154,8 @@
 16	.	.	PUNCT	_	_	14	punct	_	LangID=OTHER
 
 # sent_id = 5840560_7
+# link = https://tatar-inform.tatar/news/health/08-10-2021/mishustin-koronavirustan-t-p-saklanu-charasy-vaktsinatsiya-bashka-yul-yuk-5840560
+# genre = health
 # text = «Татар-информ» мәгълүмат агентлыгы хәбәр иткәнчә, Татарстанда эпидемия вазгыяте начарлану сәбәпле, ковидка каршы чаралар катгыйланды.
 1	«	«	PUNCT	_	_	2	punct	_	LangID=OTHER
 2	Татар-информ	Татар-информ	PROPN	_	Case=Nom|Number=Sing	5	nmod	_	LangID=RU
@@ -162,6 +178,8 @@
 19	.	.	PUNCT	_	_	18	punct	_	LangID=OTHER
 
 # sent_id = 5840560_8
+# link = https://tatar-inform.tatar/news/health/08-10-2021/mishustin-koronavirustan-t-p-saklanu-charasy-vaktsinatsiya-bashka-yul-yuk-5840560
+# genre = health
 # text = Яңа чикләүләр 11 октябрьдә гамәлгә кертеләчәк.
 1	Яңа	яңа	ADJ	_	_	2	amod	_	LangID=TT
 2	чикләүләр	чиклә	VERB	_	Case=Nom|Number=Plur|VerbForm=Vnoun	6	nsubj	_	LangID=TT
@@ -172,6 +190,8 @@
 7	.	.	PUNCT	_	_	6	punct	_	LangID=OTHER
 
 # sent_id = 5840561_0
+# link = https://tatar-inform.tatar/news/religion/08-10-2021/t-m-nd-tatar-avtorlary-kitaplaryn-t-k-dim-ittel-r-5840561
+# genre = religion
 # text = Төмән китапханәсендә татар язучылары һәм фәнни эшлеклеләренең өлкә хөкүмәте ярдәме белән чыгарылган китапларын тәкъдим иттеләр.
 1	Төмән	Төмән	PROPN	_	Case=Nom|Number=Sing	2	nmod	_	LangID=TT
 2	китапханәсендә	китапханә	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	14	obl	_	LangID=TT
@@ -191,6 +211,8 @@
 16	.	.	PUNCT	_	_	14	punct	_	LangID=OTHER
 
 # sent_id = 5840561_1
+# link = https://tatar-inform.tatar/news/religion/08-10-2021/t-m-nd-tatar-avtorlary-kitaplaryn-t-k-dim-ittel-r-5840561
+# genre = religion
 # text = Яңа китаплар арасында себер татары шагыйрәсе һәм фольклорчысы Клара Кучковскаяның «Туганнар» хикәяләр җыентыгы, Россия Фәннәр академиясенең Себер бүлегенең Төмән фәнни үзәге Төньякны үзләштерү проблемалары институты өлкән фәнни хезмәткәре Гөлсифа Бакиеваның «Бөек Ватан сугышы геройлары» белешмәсе, «Төмән өлкәсендә мөселман берләшмәләре һәм мәдәни объектлары» дигән иллюстрацияләнгән белешмә бар, соңгысы фән эшлеклеләре, журналистлар, мөселман руханилары вәкилләренең озак вакытлы эше нәтиҗәсе булып тора.
 1	Яңа	яңа	ADJ	_	_	2	advcl	_	LangID=TT
 2	китаплар	китап	NOUN	_	Case=Nom|Number=Plur	3	nmod	_	LangID=TT
@@ -265,6 +287,8 @@
 71	.	.	PUNCT	_	_	69	punct	_	LangID=OTHER
 
 # sent_id = 5840561_2
+# link = https://tatar-inform.tatar/news/religion/08-10-2021/t-m-nd-tatar-avtorlary-kitaplaryn-t-k-dim-ittel-r-5840561
+# genre = religion
 # text = Мөфти Зиннәт хәзрәт Садыйков Төмән өлкәсенең мөселман дини берләшмәләре турында белешмәлек чыгаруга көч куйган редакция коллегиясе әгъзаларына рәхмәт белдерде.
 1	Мөфти	мөфти	NOUN	_	Case=Nom|Number=Sing	19	nsubj	_	LangID=TT
 2	Зиннәт	Зиннәт	PROPN	_	Case=Nom|Number=Sing	1	flat	_	LangID=TT
@@ -288,6 +312,8 @@
 20	.	.	PUNCT	_	_	19	punct	_	LangID=OTHER
 
 # sent_id = 5840561_3
+# link = https://tatar-inform.tatar/news/religion/08-10-2021/t-m-nd-tatar-avtorlary-kitaplaryn-t-k-dim-ittel-r-5840561
+# genre = religion
 # text = Мөфти шулай ук мәгърифәтчелек характерындагы уртак чаралар уздырганда дини кагыйдәләрне үтәүнең кирәклеге турында искәртте.
 1	Мөфти	Мөфти	NOUN	_	Case=Nom|Number=Sing	14	nsubj	_	LangID=TT
 2	шулай	шулай	ADV	_	_	14	advmod	_	LangID=TT
@@ -306,6 +332,8 @@
 15	.	.	PUNCT	_	_	14	punct	_	LangID=OTHER
 
 # sent_id = 5840561_4
+# link = https://tatar-inform.tatar/news/religion/08-10-2021/t-m-nd-tatar-avtorlary-kitaplaryn-t-k-dim-ittel-r-5840561
+# genre = religion
 # text = «Мөселман берләшмәләре һәм Төмән өлкәсендә дини объектлар» белешмәлеге турында «Төмән өлкәсе мөселманнарының өч үзәкләштерелгән дини оешмасы катнашында чыгарылган уникаль басмада Көнбатыш Себернең көньягында ислам таралышының тәфсилле тарихы бәян ителгән, төбәктәге һәрбер мөселман мәхәлләсе турында мәгълүмат бирелгән.
 1	«	«	PUNCT	_	_	3	punct	_	LangID=OTHER
 2	Мөселман	Мөселман	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	LangID=TT
@@ -350,6 +378,8 @@
 41	.	.	PUNCT	_	_	40	punct	_	LangID=OTHER
 
 # sent_id = 5840561_5
+# link = https://tatar-inform.tatar/news/religion/08-10-2021/t-m-nd-tatar-avtorlary-kitaplaryn-t-k-dim-ittel-r-5840561
+# genre = religion
 # text = Эчтәлек шулай ук мөселман дини структуралары эшчәнлегенең тасвирламасын да үз эченә ала.
 1	Эчтәлек	эчтәлек	NOUN	_	Case=Nom|Number=Sing	12	nsubj	_	LangID=TT
 2	шулай	шулай	ADV	_	_	12	advmod	_	LangID=TT
@@ -366,6 +396,8 @@
 13	.	.	PUNCT	_	_	12	punct	_	LangID=OTHER
 
 # sent_id = 5840561_6
+# link = https://tatar-inform.tatar/news/religion/08-10-2021/t-m-nd-tatar-avtorlary-kitaplaryn-t-k-dim-ittel-r-5840561
+# genre = religion
 # text = Белешмәлекне Төмән өлкәсендә дини вәзгыятьне өйрәнү белән шөгыльләнүче белгечләргә ислам объектларында эшләүчеләр куллана ала.
 1	Белешмәлекне	белешмәлек	NOUN	_	Case=Acc|Number=Sing	13	obj	_	LangID=TT
 2	Төмән	Төмән	PROPN	_	Case=Nom|Number=Sing	3	nmod	_	LangID=TT
@@ -384,6 +416,8 @@
 15	.	.	PUNCT	_	_	13	punct	_	LangID=OTHER
 
 # sent_id = 5840562_0
+# link = https://tatar-inform.tatar/news/science/08-10-2021/ilsur-adiullin-ukytuchylarny-totyp-kalu-chen-halyk-tarafynnan-yahshy-m-n-s-b-t-kir-k-5840562
+# genre = science
 # text = Татарстанның мәгариф һәм фән министры Илсур Һадиуллин әйтүенчә, укытучыларны мәктәпләрдә тотып калу өчен, халык тарафыннан яхшы мөнәсәбәт кирәк.
 1	Татарстанның	Татарстан	PROPN	_	Case=Gen|Number=Sing	5	nmod	_	LangID=TT
 2	мәгариф	мәгариф	NOUN	_	Case=Nom|Number=Sing	5	nmod	_	LangID=TT
@@ -408,6 +442,8 @@
 21	.	.	PUNCT	_	_	20	punct	_	LangID=OTHER
 
 # sent_id = 5840562_1
+# link = https://tatar-inform.tatar/news/science/08-10-2021/ilsur-adiullin-ukytuchylarny-totyp-kalu-chen-halyk-tarafynnan-yahshy-m-n-s-b-t-kir-k-5840562
+# genre = science
 # text = Бу фикерен ул Татарстан Президенты Рөстәм Миңнеханов Дәүләт Советына еллык юллама белән чыгышыннан соң әйтте.
 1	Бу	бу	DET	_	_	2	det	_	LangID=TT
 2	фикерен	фикер	NOUN	_	Case=Acc|Number=Sing	15	obj	_	LangID=TT
@@ -427,6 +463,8 @@
 16	.	.	PUNCT	_	_	15	punct	_	LangID=OTHER
 
 # sent_id = 5840562_2
+# link = https://tatar-inform.tatar/news/science/08-10-2021/ilsur-adiullin-ukytuchylarny-totyp-kalu-chen-halyk-tarafynnan-yahshy-m-n-s-b-t-kir-k-5840562
+# genre = science
 # text = «Укытучыларны тотып калу өчен иң беренче укытучыга, гомумән, мәгариф системасына мөнәсәбәтне үзгәртергә кирәк.
 1	«	«	PUNCT	_	_	16	punct	_	LangID=OTHER
 2	Укытучыларны	укы	VERB	_	Case=Acc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Cau	3	obj	_	LangID=TT
@@ -447,6 +485,8 @@
 17	.	.	PUNCT	_	_	16	punct	_	LangID=OTHER
 
 # sent_id = 5840562_3
+# link = https://tatar-inform.tatar/news/science/08-10-2021/ilsur-adiullin-ukytuchylarny-totyp-kalu-chen-halyk-tarafynnan-yahshy-m-n-s-b-t-kir-k-5840562
+# genre = science
 # text = Бу мөнәсәбәт ул Хөкүмәт, Президент тарафыннан бик яхшы.
 1	Бу	бу	DET	_	_	2	det	_	LangID=TT
 2	мөнәсәбәт	мөнәсәбәт	NOUN	_	Case=Nom|Number=Sing	9	nsubj	_	LangID=TT
@@ -460,6 +500,8 @@
 10	.	.	PUNCT	_	_	9	punct	_	LangID=OTHER
 
 # sent_id = 5840562_4
+# link = https://tatar-inform.tatar/news/science/08-10-2021/ilsur-adiullin-ukytuchylarny-totyp-kalu-chen-halyk-tarafynnan-yahshy-m-n-s-b-t-kir-k-5840562
+# genre = science
 # text = Дәүләт дәрәҗәсендә борчылып сөйлиләр, ә менә халык, массакүләм мәгълүмат чаралары, башка оешмалар тарафыннан әгәр аларга яхшы караш булмаса, ул бик катлаулы», — диде министр «Татар-информ» хәбәрчесенә.
 1	Дәүләт	дәүләт	NOUN	_	Case=Nom|Number=Sing	2	nmod	_	LangID=TT
 2	дәрәҗәсендә	дәрәҗә	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	4	obl	_	LangID=TT
@@ -498,6 +540,8 @@
 35	.	.	PUNCT	_	_	29	punct	_	LangID=OTHER
 
 # sent_id = 5840562_6
+# link = https://tatar-inform.tatar/news/science/08-10-2021/ilsur-adiullin-ukytuchylarny-totyp-kalu-chen-halyk-tarafynnan-yahshy-m-n-s-b-t-kir-k-5840562
+# genre = science
 # text = Министр сүзләренчә, быел укырга керүчеләрнең исемлеген карасаң, күп кенә педагогик белгечлекләргә чит телләр дә керә.
 1	Министр	министр	NOUN	_	Case=Nom|Number=Sing	2	nmod	_	LangID=RU
 2	сүзләренчә	сүз	NOUN	_	Case=Equ|Number=Plur|Person[psor]=3	17	advmod	_	LangID=TT
@@ -519,6 +563,8 @@
 18	.	.	PUNCT	_	_	17	punct	_	LangID=OTHER
 
 # sent_id = 5840562_7
+# link = https://tatar-inform.tatar/news/science/08-10-2021/ilsur-adiullin-ukytuchylarny-totyp-kalu-chen-halyk-tarafynnan-yahshy-m-n-s-b-t-kir-k-5840562
+# genre = science
 # text = «Математика һәм чит тел, тарих һәм чит тел буенча белем алган белгечләр мәктәпләргә кирәк, алар төпләнеп калыр дип өметләнәбез», — дип белдерде ул.
 1	«	«	PUNCT	_	_	16	punct	_	LangID=OTHER
 2	Математика	Математика	NOUN	_	Case=Nom|Number=Sing	13	obl	_	LangID=RU
@@ -551,6 +597,8 @@
 29	.	.	PUNCT	_	_	27	punct	_	LangID=OTHER
 
 # sent_id = 5840564_0
+# link = https://tatar-inform.tatar/news/tatar_world/08-10-2021/marat-hm-tov-telsez-halyk-akrynlap-mill-ten-d-yugaltyrga-m-mkin-5840564
+# genre = tatar_world
 # text = Татарстан Дәүләт Советы Рәисе урынбасары Марат Әхмәтов телсез халыкның милләтен дә югалта алуы турында кисәтте.
 1	Татарстан	Татарстан	PROPN	_	Case=Nom|Number=Sing	3	nmod	_	LangID=TT
 2	Дәүләт	дәүләт	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	LangID=TT
@@ -570,6 +618,8 @@
 16	.	.	PUNCT	_	_	15	punct	_	LangID=OTHER
 
 # sent_id = 5840564_1
+# link = https://tatar-inform.tatar/news/tatar_world/08-10-2021/marat-hm-tov-telsez-halyk-akrynlap-mill-ten-d-yugaltyrga-m-mkin-5840564
+# genre = tatar_world
 # text = «Милләтебезне телебез белән турыдан-туры бәйлим, чөнки телсез халык акрынлап милләтен дә югалтырга мөмкин.
 1	«	«	PUNCT	_	_	6	punct	_	LangID=TT
 2	Милләтебезне	милләт	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Plur|Person[psor]=1	6	obj	_	LangID=TT
@@ -589,6 +639,8 @@
 16	.	.	PUNCT	_	_	15	punct	_	LangID=OTHER
 
 # sent_id = 5840564_10
+# link = https://tatar-inform.tatar/news/tatar_world/08-10-2021/marat-hm-tov-telsez-halyk-akrynlap-mill-ten-d-yugaltyrga-m-mkin-5840564
+# genre = tatar_world
 # text = Республикабызда туган телнең торышы мактанырлык булмаса да, безгә аңлашырга мөмкинлек бирде.
 1	Республикабызда	республика	NOUN	_	Case=Loc|Number=Sing|Number[psor]=Plur|Person[psor]=1	6	obl	_	CSPoint=Республика§бызда|LangID=MIXED[RU§TT]
 2	туган	туган	ADJ	_	_	3	amod	_	LangID=TT
@@ -605,6 +657,8 @@
 13	.	.	PUNCT	_	_	12	punct	_	LangID=OTHER
 
 # sent_id = 5840564_11
+# link = https://tatar-inform.tatar/news/tatar_world/08-10-2021/marat-hm-tov-telsez-halyk-akrynlap-mill-ten-d-yugaltyrga-m-mkin-5840564
+# genre = tatar_world
 # text = Безнең күп төрле җәмәгать оешмалары, матбугат чаралары, сәнгать учреждениеләре белән уртак проектлар гамәлдә.
 1	Безнең	без	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	5	nmod	_	LangID=TT
 2	күп	күп	ADJ	_	_	3	amod	_	LangID=TT
@@ -624,6 +678,8 @@
 16	.	.	PUNCT	_	_	15	punct	_	LangID=OTHER
 
 # sent_id = 5840564_12
+# link = https://tatar-inform.tatar/news/tatar_world/08-10-2021/marat-hm-tov-telsez-halyk-akrynlap-mill-ten-d-yugaltyrga-m-mkin-5840564
+# genre = tatar_world
 # text = Алар халкыбызның туган телебезгә рухи ихтыяҗын үстерү мәсьәләсендә безгә хәйран булышыр дип өметләнәм.
 1	Алар	ул	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	LangID=TT
 2	халкыбызның	халык	NOUN	_	Case=Gen|Number=Sing|Number[psor]=Plur|Person[psor]=1	4	nmod	_	LangID=TT
@@ -641,6 +697,8 @@
 14	.	.	PUNCT	_	_	13	punct	_	LangID=OTHER
 
 # sent_id = 5840564_13
+# link = https://tatar-inform.tatar/news/tatar_world/08-10-2021/marat-hm-tov-telsez-halyk-akrynlap-mill-ten-d-yugaltyrga-m-mkin-5840564
+# genre = tatar_world
 # text = Президентыбызга рәхмәт, һәр мөрәҗәгать яклау табып килә», — диде.
 1	Президентыбызга	президент	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Plur|Person[psor]=1	2	obl	_	CSPoint=Президент§ыбызга|LangID=MIXED[RU§TT]
 2	рәхмәт	рәхмәт	NOUN	_	Case=Nom|Number=Sing	7	parataxis	_	LangID=TT
@@ -657,6 +715,8 @@
 13	.	.	PUNCT	_	_	12	punct	_	LangID=OTHER
 
 # sent_id = 5840564_2
+# link = https://tatar-inform.tatar/news/tatar_world/08-10-2021/marat-hm-tov-telsez-halyk-akrynlap-mill-ten-d-yugaltyrga-m-mkin-5840564
+# genre = tatar_world
 # text = Ә милләтле халык телле булырга тиеш.
 1	Ә	ә	CCONJ	_	_	6	cc	_	LangID=TT
 2	милләтле	милләтле	ADJ	_	_	3	amod	_	LangID=TT
@@ -667,6 +727,8 @@
 7	.	.	PUNCT	_	_	6	punct	_	LangID=OTHER
 
 # sent_id = 5840564_3
+# link = https://tatar-inform.tatar/news/tatar_world/08-10-2021/marat-hm-tov-telsez-halyk-akrynlap-mill-ten-d-yugaltyrga-m-mkin-5840564
+# genre = tatar_world
 # text = Татар теле ул дәүләтле, дәүләте булган тел», — диде Марат Әхмәтов «Татар-информ» хәбәрчесенә.
 1	Татар	татар	PROPN	_	Case=Nom|Number=Sing	2	nmod	_	LangID=TT
 2	теле	тел	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	8	nsubj	_	LangID=TT
@@ -689,6 +751,8 @@
 19	.	.	PUNCT	_	_	12	punct	_	LangID=OTHER
 
 # sent_id = 5840564_4
+# link = https://tatar-inform.tatar/news/tatar_world/08-10-2021/marat-hm-tov-telsez-halyk-akrynlap-mill-ten-d-yugaltyrga-m-mkin-5840564
+# genre = tatar_world
 # text = Ул халык санын алу бик мөһим, җаваплы чор булганын искәртте.
 1	Ул	ул	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	LangID=TT
 2	халык	халык	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	LangID=TT
@@ -704,6 +768,8 @@
 12	.	.	PUNCT	_	_	11	punct	_	LangID=OTHER
 
 # sent_id = 5840564_5
+# link = https://tatar-inform.tatar/news/tatar_world/08-10-2021/marat-hm-tov-telsez-halyk-akrynlap-mill-ten-d-yugaltyrga-m-mkin-5840564
+# genre = tatar_world
 # text = «Ил күләмендә татарларның саны кимемәсен иде дип теләр идем.
 1	«	«	PUNCT	_	_	9	punct	_	LangID=OTHER
 2	Ил	ил	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	LangID=TT
@@ -718,6 +784,8 @@
 11	.	.	PUNCT	_	_	9	punct	_	LangID=OTHER
 
 # sent_id = 5840564_6
+# link = https://tatar-inform.tatar/news/tatar_world/08-10-2021/marat-hm-tov-telsez-halyk-akrynlap-mill-ten-d-yugaltyrga-m-mkin-5840564
+# genre = tatar_world
 # text = Үрчү сәләте ягыннан татар милләте болай да утрак, төпле гаиләле халык.
 1	Үрчү	үрче	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	2	nmod	_	LangID=TT
 2	сәләте	сәләт	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	3	nmod	_	LangID=TT
@@ -734,6 +802,8 @@
 13	.	.	PUNCT	_	_	8	punct	_	LangID=OTHER
 
 # sent_id = 5840564_7
+# link = https://tatar-inform.tatar/news/tatar_world/08-10-2021/marat-hm-tov-telsez-halyk-akrynlap-mill-ten-d-yugaltyrga-m-mkin-5840564
+# genre = tatar_world
 # text = Безгә үзебезне саклап, яклап, рухи ныклыгыбызны танытып, төрле төбәкләрдәге милләттәшләребез белән ныклы элемтәдә бер айлык сынауны уңышлы үтәргә кирәк», — диде.
 1	Безгә	без	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	22	obl	_	LangID=TT
 2	үзебезне	үз	PRON	_	Case=Acc|Number[psor]=Plur|Person[psor]=1|Reflex=Yes	3	obj	_	LangID=TT
@@ -764,6 +834,8 @@
 27	.	.	PUNCT	_	_	26	punct	_	LangID=OTHER
 
 # sent_id = 5840564_8
+# link = https://tatar-inform.tatar/news/tatar_world/08-10-2021/marat-hm-tov-telsez-halyk-akrynlap-mill-ten-d-yugaltyrga-m-mkin-5840564
+# genre = tatar_world
 # text = Марат Әхмәтов Туган телләр елы кысаларында матур эшләргә өндәде.
 1	Марат	Марат	PROPN	_	Case=Nom|Number=Sing	9	nsubj	_	LangID=TT
 2	Әхмәтов	Әхмәтов	PROPN	_	Case=Nom|Number=Sing	1	flat	_	CSPoint=Әхмәт§ов|LangID=MIXED[TT§RU]
@@ -777,6 +849,8 @@
 10	.	.	PUNCT	_	_	9	punct	_	LangID=OTHER
 
 # sent_id = 5840564_9
+# link = https://tatar-inform.tatar/news/tatar_world/08-10-2021/marat-hm-tov-telsez-halyk-akrynlap-mill-ten-d-yugaltyrga-m-mkin-5840564
+# genre = tatar_world
 # text = «Комиссия эшчәнлегендә елны шулай итеп игълан итү безгә бик тупланып эшләргә ярдәм итте.
 1	«	«	PUNCT	_	_	13	punct	_	LangID=TT
 2	Комиссия	комиссия	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	LangID=RU
@@ -795,6 +869,8 @@
 15	.	.	PUNCT	_	_	13	punct	_	LangID=OTHER
 
 # sent_id = 5840565_0
+# link = https://tatar-inform.tatar/news/health/08-10-2021/tatarstanda-s-d-z-kl-rend-11-oktyabrg-kad-r-vaktsinatsiya-yasatyrga-m-mkin-5840565
+# genre = health
 # text = Татарстанда коронавирустан беренче прививканы 11 октябрьгә кадәр сәүдә үзәкләрендә ясатырга мөмкин.
 1	Татарстанда	Татарстан	PROPN	_	Case=Loc|Number=Sing	11	obl	_	LangID=TT
 2	коронавирустан	коронавирус	NOUN	_	Case=Abl|Number=Sing	4	nmod	_	CSPoint=коронавирус§тан|LangID=MIXED[RU§TT]
@@ -810,6 +886,8 @@
 12	.	.	PUNCT	_	_	11	punct	_	LangID=OTHER
 
 # sent_id = 5840565_1
+# link = https://tatar-inform.tatar/news/health/08-10-2021/tatarstanda-s-d-z-kl-rend-11-oktyabrg-kad-r-vaktsinatsiya-yasatyrga-m-mkin-5840565
+# genre = health
 # text = Татарстан Сәламәтлек саклау министрлыгы матбугат хезмәтендә мобиль вакцинация пунктларының эш тәртибен аңлаттылар.
 1	Татарстан	Татарстан	PROPN	_	Case=Nom|Number=Sing	4	nmod	_	LangID=TT
 2	Сәламәтлек	сәламәтлек	NOUN	_	Case=Nom|Number=Sing	3	obj	_	LangID=TT
@@ -826,6 +904,8 @@
 13	.	.	PUNCT	_	_	12	punct	_	LangID=OTHER
 
 # sent_id = 5840565_10
+# link = https://tatar-inform.tatar/news/health/08-10-2021/tatarstanda-s-d-z-kl-rend-11-oktyabrg-kad-r-vaktsinatsiya-yasatyrga-m-mkin-5840565
+# genre = health
 # text = Моннан тыш, Covid-19 инфекциясеннән прививканы яшәү урыны буенча поликлиникада ясатырга мөмкин.
 1	Моннан	бу	PRON	_	Case=Abl|Number=Sing|PronType=Dem	14	advmod	_	LangID=TT
 2	тыш	тыш	ADP	_	_	1	case	_	LangID=TT
@@ -842,6 +922,8 @@
 13	.	.	PUNCT	_	_	12	punct	_	LangID=OTHER
 
 # sent_id = 5840565_7
+# link = https://tatar-inform.tatar/news/health/08-10-2021/tatarstanda-s-d-z-kl-rend-11-oktyabrg-kad-r-vaktsinatsiya-yasatyrga-m-mkin-5840565
+# genre = health
 # text = Әмма сәүдә үзәгендә вакцинация пунктына аерым керү урыны оештырылса, ул барлык теләүчеләр өчен эшне дәвам итәчәк.
 1	Әмма	әмма	CCONJ	_	_	9	cc	_	LangID=TT
 2	сәүдә	сәүдә	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	LangID=TT
@@ -863,6 +945,8 @@
 18	.	.	PUNCT	_	_	16	punct	_	LangID=OTHER
 
 # sent_id = 5840565_8
+# link = https://tatar-inform.tatar/news/health/08-10-2021/tatarstanda-s-d-z-kl-rend-11-oktyabrg-kad-r-vaktsinatsiya-yasatyrga-m-mkin-5840565
+# genre = health
 # text = Хәзер Татарстанда стационар һәм мобиль бригадалар өчен 163 вакцинация пункты эшли.
 1	Хәзер	хәзер	ADV	_	_	11	advmod	_	LangID=TT
 2	Татарстанда	Татарстан	PROPN	_	Case=Loc|Number=Sing	11	obl	_	LangID=TT
@@ -878,6 +962,8 @@
 12	.	.	PUNCT	_	_	11	punct	_	LangID=OTHER
 
 # sent_id = 5840565_9
+# link = https://tatar-inform.tatar/news/health/08-10-2021/tatarstanda-s-d-z-kl-rend-11-oktyabrg-kad-r-vaktsinatsiya-yasatyrga-m-mkin-5840565
+# genre = health
 # text = Ихтыяҗ булса, аларның саны арттырылачак.
 1	Ихтыяҗ	ихтыяҗ	ADJ	_	_	2	xcomp	_	LangID=TT
 2	булса	бул	VERB	_	Person=3|Mood=Cnd	6	advcl	_	LangID=TT
@@ -888,6 +974,8 @@
 7	.	.	PUNCT	_	_	6	punct	_	LangID=OTHER
 
 # sent_id = 5840566_0
+# link = https://tatar-inform.tatar/news/incident/08-10-2021/kazanda-bilgesez-keshe-ir-atny-yulga-etep-chygargannan-so-inayat-eshe-kuzgatyldy-5840566
+# genre = incident
 # text = Социаль челтәрдә Казанда Тукай урамында низаг вакытында билгесез кеше ир-атны юлга этеп чыгарган һәм аны автомобиль таптаткан.
 1	Социаль	социаль	ADJ	_	_	2	amod	_	LangID=RU
 2	челтәрдә	челтәр	NOUN	_	Case=Loc|Number=Sing	14	obl	_	LangID=TT
@@ -909,6 +997,8 @@
 18	.	.	PUNCT	_	_	17	punct	_	LangID=OTHER
 
 # sent_id = 5840566_1
+# link = https://tatar-inform.tatar/news/incident/08-10-2021/kazanda-bilgesez-keshe-ir-atny-yulga-etep-chygargannan-so-inayat-eshe-kuzgatyldy-5840566
+# genre = incident
 # text = Тикшерү ачыклаганча, бу хәл 5 октябрьдә кич булган.
 1	Тикшерү	тикшер	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	2	nsubj	_	LangID=TT
 2	ачыклаганча	ачыкла	VERB	_	Case=Equ|Tense=Past|VerbForm=Part	9	advcl	_	LangID=TT
@@ -922,6 +1012,8 @@
 10	.	.	PUNCT	_	_	9	punct	_	LangID=OTHER
 
 # sent_id = 5840566_2
+# link = https://tatar-inform.tatar/news/incident/08-10-2021/kazanda-bilgesez-keshe-ir-atny-yulga-etep-chygargannan-so-inayat-eshe-kuzgatyldy-5840566
+# genre = incident
 # text = Әлегә билгесез кеше 27 яшьлек ир-атны Skoda автомобиле тәгәрмәче астына эткән.
 1	Әлегә	әле	ADV	_	_	13	advmod	_	LangID=TT
 2	билгесез	билгесез	ADJ	_	_	3	amod	_	LangID=TT
@@ -937,6 +1029,8 @@
 12	.	.	PUNCT	_	_	11	punct	_	LangID=OTHER
 
 # sent_id = 5840566_3
+# link = https://tatar-inform.tatar/news/incident/08-10-2021/kazanda-bilgesez-keshe-ir-atny-yulga-etep-chygargannan-so-inayat-eshe-kuzgatyldy-5840566
+# genre = incident
 # text = Хәзер имгәнгән кеше хастаханәдә ята.
 1	Хәзер	хәзер	ADV	_	_	5	advmod	_	LangID=TT
 2	имгәнгән	имгән	VERB	_	Tense=Past|VerbForm=Part	3	amod	_	LangID=TT
@@ -946,6 +1040,8 @@
 6	.	.	PUNCT	_	_	5	punct	_	LangID=OTHER
 
 # sent_id = 5840566_4
+# link = https://tatar-inform.tatar/news/incident/08-10-2021/kazanda-bilgesez-keshe-ir-atny-yulga-etep-chygargannan-so-inayat-eshe-kuzgatyldy-5840566
+# genre = incident
 # text = «Үтерергә омтылу» маддәсе буенча җинаять эше кузгатылган.
 1	«	«	PUNCT	_	_	3	punct	_	LangID=OTHER
 2	Үтерергә	үтер	VERB	_	VerbForm=Inf	3	advcl	_	LangID=TT
@@ -959,6 +1055,8 @@
 10	.	.	PUNCT	_	_	9	punct	_	LangID=OTHER
 
 # sent_id = 5840566_5
+# link = https://tatar-inform.tatar/news/incident/08-10-2021/kazanda-bilgesez-keshe-ir-atny-yulga-etep-chygargannan-so-inayat-eshe-kuzgatyldy-5840566
+# genre = incident
 # text = Хәзер тикшерүчеләр бу хәл килеп чыгу сәбәпләрен ачыклый, шулай ук ир-атны юлга этеп чыгарган кешене эзлиләр, дип хәбәр итте Россия Тикшерү идарәсенең Татарстан буенча Тикшерү идарәсе җитәкчесенең өлкән ярдәмчесе Андрей Шептицкий.
 1	Хәзер	хәзер	VERB	_	_	8	advmod	_	LangID=TT
 2	тикшерүчеләр	тикшер	VERB	_	Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part	8	nsubj	_	LangID=TT
@@ -996,6 +1094,8 @@
 34	.	.	PUNCT	_	_	20	punct	_	LangID=OTHER
 
 # sent_id = 5840581_0
+# link = https://tatar-inform.tatar/news/ecology/08-10-2021/tatarstanda-toman-m-7-gradus-salkyn-k-tel-5840581
+# genre = ecology
 # text = Татарстанда томан төшәчәк, күз күреме 500 метр яки кимрәк булырга мөмкин.
 1	Татарстанда	Татарстан	PROPN	_	Case=Loc|Number=Sing	3	obl	_	LangID=TT
 2	томан	томан	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	LangID=TT
@@ -1012,6 +1112,8 @@
 13	.	.	_	_	_	12	punct	_	LangID=OTHER
 
 # sent_id = 5840581_1
+# link = https://tatar-inform.tatar/news/ecology/08-10-2021/tatarstanda-toman-m-7-gradus-salkyn-k-tel-5840581
+# genre = ecology
 # text = Татарстан Гидрометеорология һәм әйләнә-тирә мохитне күзәтү үзәге хәбәр иткәнчә, һава торышы болытлы һәм коры булачак.
 1	Татарстан	Татарстан	PROPN	_	Case=Nom|Number=Sing	7	nmod	_	LangID=TT
 2	Гидрометеорология	Гидрометеорология	NOUN	_	Case=Nom|Number=Sing	7	nmod	_	LangID=RU
@@ -1032,6 +1134,8 @@
 17	.	.	_	_	_	16	punct	_	LangID=OTHER
 
 # sent_id = 5840581_2
+# link = https://tatar-inform.tatar/news/ecology/08-10-2021/tatarstanda-toman-m-7-gradus-salkyn-k-tel-5840581
+# genre = ecology
 # text = Җил көнбатыш һәм төньяк-көнбатыштан уртача тизлектә фаразлана.
 1	Җил	җил	NOUN	_	Case=Nom|Number=Sing	7	nsubj	_	LangID=TT
 2	көнбатыш	көнбатыш	NOUN	_	Case=Nom|Number=Sing	7	obl	_	LangID=TT
@@ -1043,6 +1147,8 @@
 8	.	.	PUNCT	_	_	7	punct	_	LangID=OTHER
 
 # sent_id = 5840591_0
+# link = https://tatar-inform.tatar/news/society/08-10-2021/t-b-n-kama-eztabarlary-sugyshta-lak-bulgan-soldatny-s-den-tugannaryna-tapshyrdy-5840591
+# genre = society
 # text = Түбән Каманың «Татнефть-поиск» эзләнү отряды вәкилләре Кырымда Хәтер вахтасында катнашып, сугыш вакытында һәлак булган Чиләбе кешесе Василий Архипович Ломановның җәсәден табалар.
 1	Түбән	Түбән	ADJ	_	_	2	amod	_	LangID=TT
 2	Каманың	Кама	PROPN	_	Case=Gen|Number=Sing	9	nmod	_	LangID=TT
@@ -1073,6 +1179,8 @@
 27	.	.	PUNCT	_	_	26	punct	_	LangID=OTHER
 
 # sent_id = 5840591_1
+# link = https://tatar-inform.tatar/news/society/08-10-2021/t-b-n-kama-eztabarlary-sugyshta-lak-bulgan-soldatny-s-den-tugannaryna-tapshyrdy-5840591
+# genre = society
 # text = Бүген Василий Ломановның туганнары һәм Чиләбе хакимияте вәкилләренә аның җәсәден тапшырдылар.
 1	Бүген	бүген	ADV	_	_	11	advmod	_	LangID=TT
 2	Василий	Василий	PROPN	_	Case=Nom|Number=Sing	4	nmod	_	LangID=RU
@@ -1088,6 +1196,8 @@
 12	.	.	PUNCT	_	_	11	punct	_	LangID=OTHER
 
 # sent_id = 5840591_2
+# link = https://tatar-inform.tatar/news/society/08-10-2021/t-b-n-kama-eztabarlary-sugyshta-lak-bulgan-soldatny-s-den-tugannaryna-tapshyrdy-5840591
+# genre = society
 # text = 1942 елда Кырым Республикасының Владиславовка авылы янында һәлак булган Василий Ломанов тумышы белән Чиләбе өлкәсенең Кыштым шәһәреннән.
 1	1942	1942	NUM	_	NumType=Ord	2	nummod	_	LangID=TT
 2	елда	ел	NOUN	_	Case=Loc|Number=Sing	9	obl	_	LangID=TT
@@ -1109,6 +1219,8 @@
 18	.	.	PUNCT	_	_	17	punct	_	LangID=OTHER
 
 # sent_id = 5840591_3
+# link = https://tatar-inform.tatar/news/society/08-10-2021/t-b-n-kama-eztabarlary-sugyshta-lak-bulgan-soldatny-s-den-tugannaryna-tapshyrdy-5840591
+# genre = society
 # text = Сугыш башлангач, шәһәрдә яшәүчеләр кебек үк, ул фронтка алына.
 1	Сугыш	сугыш	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	LangID=TT
 2	башлангач	башла	VERB	_	Aspect=Perf|VerbForm=Conv|Voice=Pass	11	advcl	_	LangID=TT
@@ -1124,6 +1236,8 @@
 12	.	.	PUNCT	_	_	11	punct	_	LangID=OTHER
 
 # sent_id = 5840591_4
+# link = https://tatar-inform.tatar/news/society/08-10-2021/t-b-n-kama-eztabarlary-sugyshta-lak-bulgan-soldatny-s-den-tugannaryna-tapshyrdy-5840591
+# genre = society
 # text = Аның фронт юлы турындагы мәгълүматларның күбесе югалган.
 1	Аның	ул	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	3	nmod	_	LangID=TT
 2	фронт	фронт	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	LangID=RU
@@ -1135,6 +1249,8 @@
 8	.	.	PUNCT	_	_	7	punct	_	LangID=OTHER
 
 # sent_id = 5840591_5
+# link = https://tatar-inform.tatar/news/society/08-10-2021/t-b-n-kama-eztabarlary-sugyshta-lak-bulgan-soldatny-s-den-tugannaryna-tapshyrdy-5840591
+# genre = society
 # text = Бу турыда Түбән Кама муниципаль районы рәсми сайтында хәбәр ителә.
 1	Бу	бу	PRON	_	PronType=Dem	9	obl	_	LangID=TT
 2	турыда	турыда	ADP	_	_	1	case	_	LangID=TT
@@ -1149,6 +1265,8 @@
 11	.	.	PUNCT	_	_	9	punct	_	LangID=OTHER
 
 # sent_id = 5840591_6
+# link = https://tatar-inform.tatar/news/society/08-10-2021/t-b-n-kama-eztabarlary-sugyshta-lak-bulgan-soldatny-s-den-tugannaryna-tapshyrdy-5840591
+# genre = society
 # text = Агымдагы елның сентябрендә Түбән Кама эзтабарлары Кырымнан килгән хезмәттәшләре белән берлектә сугыш узган урыннарда казу эшләре оештырган.
 1	Агымдагы	агымдагы	ADJ	_	_	2	amod	_	LangID=TT
 2	елның	ел	NOUN	_	Case=Gen|Number=Sing	3	nmod	_	LangID=TT
@@ -1170,6 +1288,8 @@
 18	.	.	PUNCT	_	_	17	punct	_	LangID=OTHER
 
 # sent_id = 5840591_7
+# link = https://tatar-inform.tatar/news/society/08-10-2021/t-b-n-kama-eztabarlary-sugyshta-lak-bulgan-soldatny-s-den-tugannaryna-tapshyrdy-5840591
+# genre = society
 # text = Һәлак булган сугышчының сөякләре янында медальоны да табылган, шуның буенча аның шәхесен ачыклый алганнар.
 1	Һәлак	һәлак	NOUN	_	Case=Nom|Number=Sing	2	xcomp	_	LangID=TT
 2	булган	бул	VERB	_	Tense=Past|VerbForm=Part	3	amod	_	LangID=TT
@@ -1189,6 +1309,8 @@
 16	.	.	PUNCT	_	_	14	punct	_	LangID=OTHER
 
 # sent_id = 5840591_8
+# link = https://tatar-inform.tatar/news/society/08-10-2021/t-b-n-kama-eztabarlary-sugyshta-lak-bulgan-soldatny-s-den-tugannaryna-tapshyrdy-5840591
+# genre = society
 # text = Чарада солдатның туганнары, Чиләбе өлкәсенең Кыштым шәһәре хакимияте вәкилләре, Түбән Кама предприятиеләре һәм учреждениеләре вәкилләре, мәктәп укучылары һәм студентлар катнашты.
 1	Чарада	чара	NOUN	_	Case=Loc|Number=Sing	23	obl	_	LangID=TT
 2	солдатның	солдат	NOUN	_	Case=Gen|Number=Sing	3	nmod	_	CSPoint=солдат§ның|LangID=MIXED[RU§TT]
@@ -1216,6 +1338,8 @@
 24	.	.	PUNCT	_	_	23	punct	_	LangID=OTHER
 
 # sent_id = 5840591_9
+# link = https://tatar-inform.tatar/news/society/08-10-2021/t-b-n-kama-eztabarlary-sugyshta-lak-bulgan-soldatny-s-den-tugannaryna-tapshyrdy-5840591
+# genre = society
 # text = Бөек Ватан сугышында һәлак булган батырларны бер минут тынлык белән искә алдылар һәм Җиңү Монументына чәчәкләр куйдылар.
 1	Бөек	бөек	ADJ	_	_	3	amod	_	LangID=TT
 2	Ватан	ватан	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	LangID=TT
@@ -1237,6 +1361,8 @@
 18	.	.	PUNCT	_	_	17	punct	_	LangID=OTHER
 
 # sent_id = 5840595_0
+# link = https://tatar-inform.tatar/news/incident/09-10-2021/ger-ed-ba-adir-sportchy-anton-shushpanov-bel-n-hushlashalar-5840595
+# genre = incident
 # text = Әгерҗедә спортчы, Чечня Республикасы территориясендә хәрби конфликтта катнашкан хәрби хәрәкәтләр ветераны Антон Шушпанов вафат.
 1	Әгерҗедә	Әгерҗе	PROPN	_	Case=Loc|Number=Sing	15	obl	_	LangID=TT
 2	спортчы	спортчы	NOUN	_	Case=Nom|Number=Sing	15	nsubj	_	CSPoint=спорт§чы|LangID=MIXED[RU§TT]
@@ -1256,6 +1382,8 @@
 16	.	.	PUNCT	_	_	15	punct	_	LangID=OTHER
 
 # sent_id = 5840595_1
+# link = https://tatar-inform.tatar/news/incident/09-10-2021/ger-ed-ba-adir-sportchy-anton-shushpanov-bel-n-hushlashalar-5840595
+# genre = incident
 # text = Кызганычка, төрле ярышларда күп тапкырлар җиңү яулаган район баһадиры пневмонияне җиңә алмады.
 1	Кызганычка	кызганыч	NOUN	_	Case=Dat|Number=Sing	12	advmod	_	LangID=TT
 2	,	,	PUNCT	_	_	1	punct	_	LangID=OTHER
@@ -1273,6 +1401,8 @@
 14	.	.	PUNCT	_	_	12	punct	_	LangID=OTHER
 
 # sent_id = 5840595_2
+# link = https://tatar-inform.tatar/news/incident/09-10-2021/ger-ed-ba-adir-sportchy-anton-shushpanov-bel-n-hushlashalar-5840595
+# genre = incident
 # text = Аның белән хушлашу шимбә көнне сәгать көндезге 12дә Чапаев урамы, 5 йорт ишегалдында узачак.
 1	Аның	ул	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	3	obl	_	LangID=TT
 2	белән	белән	ADP	_	_	1	case	_	LangID=TT
@@ -1292,6 +1422,8 @@
 16	.	.	PUNCT	_	_	15	punct	_	LangID=OTHER
 
 # sent_id = 5840595_3
+# link = https://tatar-inform.tatar/news/incident/09-10-2021/ger-ed-ba-adir-sportchy-anton-shushpanov-bel-n-hushlashalar-5840595
+# genre = incident
 # text = Антон шат күңелле дус һәм иптәш, ышанычлы көрәштәш, намуслы хезмәттәш, гадел һәм яхшы кеше буларак истә калыр.
 1	Антон	Антон	PROPN	_	Case=Nom|Number=Sing	20	nsubj	_	LangID=RU
 2	шат	шат	ADJ	_	_	3	compound	_	LangID=TT
@@ -1314,3 +1446,4 @@
 19	истә	ис	NOUN	_	Case=Loc|Number=Sing	20	obl	_	LangID=TT
 20	калыр	кал	VERB	_	Mood=Irr|Number=Sing|Person=3|Tense=Fut|VerbForm=Part	0	_	_	LangID=TT
 21	.	.	PUNCT	_	_	20	punct	_	LangID=OTHER
+git 
