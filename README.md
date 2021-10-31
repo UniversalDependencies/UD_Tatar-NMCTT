@@ -1,20 +1,28 @@
 # Summary
 
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ...
+UD Tatar-NMCTT is a manually annotated corpus of the Tatar language based on the text from Tatar-Inform (tatar-inform.tatar),
+an online news website.
 
 
 # Introduction
 
-...
+UD Tatar-NMCTT is a corpus of the Tatar language, manually annotated by Chihiro Taguchi
+under the project "NAIST Multilingual Corpus" at Nara Institute of Science and Technology, Japan.
+The text is taken from the online news website Tatar-Inform.
+The articles contain a wide variety of genres, including politics, health, incidents, etc.
+Upon citing the text, it is recommended to show the source link of the article,
+given the Russian federal law stipulating that all mass medias citing an article have to show the link to the corresponding source article.
+The link is available as meta data in the corpus.
 
 
 # Acknowledgments
 
-...
+This contribution to UD were never possible without generous cooperation by Zilya Mubarakshina (Tatar-Inform).
+The building of this corpus is funded by CICP of Nara Institute of Science and Technology.
 
 ## References
 
-* (citation)
+* Tatar-Inform. URL: https://www.tatar-inform.tatar/
 
 
 # Changelog
