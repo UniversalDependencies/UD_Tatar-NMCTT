@@ -1123,7 +1123,7 @@
 6	күзәтү	күзәтү	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	2	conj	_	LangID=TT
 7	үзәге	үзәге	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	8	nsubj	_	LangID=TT
 8	хәбәр	хәбәр	NOUN	_	Case=Nom|Number=Sing	9	compound:lvc	_	LangID=TT
-9	иткәнчә	иткәнчә	VERB	_	Case=Equ|Tense=Past|VerbForm=Part	16 	advcl	_	LangID=TT|SpaceAfter=No
+9	иткәнчә	иткәнчә	VERB	_	Case=Equ|Tense=Past|VerbForm=Part	16	advcl	_	LangID=TT|SpaceAfter=No
 10	,	,	PUNCT	_	_	8	punct	_	LangID=OTHER
 11	һава	һава	NOUN	_	Case=Nom|Number=Sing	12	nmod	_	LangID=TT
 12	торышы	торышы	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	16	nsubj	_	LangID=TT
@@ -1260,7 +1260,7 @@
 6	районы	район	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	8	nmod	_	LangID=TT
 7	рәсми	рәсми	ADJ	_	_	8	amod	_	LangID=TT
 8	сайтында	сайт	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	9	obl	_	CSPoint=сайт§ында|LangID=MIXED[RU§TT]
-9	хәбәр	хәбәр	NOUN	_	Case=Nom|Number=Sing	10  compound:lvc	_	LangID=TT
+9	хәбәр	хәбәр	NOUN	_	Case=Nom|Number=Sing	10	compound:lvc	_	LangID=TT
 10	ителә	ит	VERB	_	Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	0	root	_	LangID=TT|SpaceAfter=No
 11	.	.	PUNCT	_	_	9	punct	_	LangID=OTHER
 
