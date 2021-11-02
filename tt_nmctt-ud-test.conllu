@@ -857,7 +857,7 @@
 3	эшчәнлегендә	эшчәнлек	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	7	obl	_	LangID=TT
 4	елны	ел	NOUN	_	Case=Acc|Number=Sing	7	obj	_	LangID=TT
 5	шулай	шулай	ADV	_	_	6	compound:lvc	_	LangID=TT
-6	итеп	ит	VERB	_	VerbForm=Conv	8   advcl	_	LangID=TT
+6	итеп	ит	VERB	_	VerbForm=Conv	8	advcl	_	LangID=TT
 7	игълан	игълан	NOUN	_	_	8	compound:lvc	_	LangID=TT
 8	итү	ит	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	14	nsubj	_	LangID=TT
 9	безгә	без	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	13	obl	_	LangID=TT
