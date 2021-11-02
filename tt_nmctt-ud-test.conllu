@@ -206,7 +206,7 @@
 11	белән	белән	ADP	_	_	10	case	_	LangID=TT
 12	чыгарылган	чык	VERB	_	Tense=Past|VerbForm=Part|Voice=CauPass	13	amod	_	LangID=TT
 13	китапларын	китап	NOUN	_	Case=Acc|Number=Plur|Person[psor]=3	15	obj	_	LangID=TT
-14	тәкъдим	тәкъдим	NOUN	_	Case=Nom|Number=Sing	14	compound:lvc	_	LangID=TT
+14	тәкъдим	тәкъдим	NOUN	_	Case=Nom|Number=Sing	15	compound:lvc	_	LangID=TT
 15	иттеләр	ит	VERB	_	Number=Plur|Person=3|Tense=Past	0	root	_	LangID=TT|SpaceAfter=No
 16	.	.	PUNCT	_	_	14	punct	_	LangID=OTHER
 
@@ -691,10 +691,10 @@
 8	мәсьәләсендә	мәсьәлә	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	11	obl	_	LangID=TT
 9	безгә	без	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	11	obl	_	LangID=TT
 10	хәйран	хәйран	ADJ	_	_	11	advmod	_	LangID=TT
-11	булышыр	булыш	VERB	_	Mood=Irr|Number=Sing|Person=3|Tense=Fut|VerbForm=Part	13	conj	_	LangID=TT
-12	дип	дип	SCONJ	_	_	11	cc	_	LangID=TT
-13	өметләнәм	өметлән	VERB	_	Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	LangID=TT|SpaceAfter=No
-14	.	.	PUNCT	_	_	13	punct	_	LangID=OTHER
+11	булышыр	булыш	VERB	_	Mood=Irr|Number=Sing|Person=3|Tense=Fut|VerbForm=Part	0	root	_	LangID=TT
+12	дип	дип	SCONJ	_	_	13	cc	_	LangID=TT
+13	өметләнәм	өметлән	VERB	_	Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	conj	_	LangID=TT|SpaceAfter=No
+14	.	.	PUNCT	_	_	11	punct	_	LangID=OTHER
 
 # sent_id = 5840564_13
 # link = https://tatar-inform.tatar/news/tatar_world/08-10-2021/marat-hm-tov-telsez-halyk-akrynlap-mill-ten-d-yugaltyrga-m-mkin-5840564
