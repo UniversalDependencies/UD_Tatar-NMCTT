@@ -29,7 +29,7 @@
 8	өлкәсе	өлкә	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	9	nmod	_	LangID=TT
 9	хастаханәсенең	хастаханә	NOUN	_	Case=Gen|Number=Sing|Person[psor]=3	12	nmod	_	LangID=TT
 10	йогышлы	йогышлы	ADJ	_	_	11	amod	_	LangID=TT
-11	авырулар	авыр	NOUN	_	Case=Nom|Number=Plur|VerbForm=Vnoun	12	nmod	_	LangID=TT
+11	авырулар	авыр	VERB	_	Case=Nom|Number=Plur|VerbForm=Vnoun	12	nmod	_	LangID=TT
 12	корпусын	корпус	NOUN	_	Case=Acc|Number=Sing|Person[psor]=3	13	obj	_	LangID=TT
 13	караганда	кара	VERB	_	Case=Loc|Tense=Past|VerbForm=Part	14	advcl	_	LangID=TT
 14	әйтте	әйт	VERB	_	Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	LangID=TT|SpaceAfter=No
@@ -706,7 +706,7 @@
 4	һәр	һәр	DET	_	_	5	det	_	LangID=TT
 5	мөрәҗәгать	мөрәҗәгать	NOUN	_	Case=Nom|Number=Sing	7	nsubj	_	LangID=TT
 6	яклау	якла	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	7	obj	_	LangID=TT
-7	табып	тап	NOUN	_	VerbForm=Conv	0	root	_	LangID=TT
+7	табып	тап	VERB	_	VerbForm=Conv	0	root	_	LangID=TT
 8	килә	кил	AUX	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	LangID=TT|SpaceAfter=No
 9	»	»	PUNCT	_	_	7	punct	_	LangID=OTHER|SpaceAfter=No
 10	,	,	PUNCT	_	_	12	punct	_	LangID=OTHER
