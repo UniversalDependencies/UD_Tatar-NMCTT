@@ -18,7 +18,7 @@
 # sent_id = 5840560_1
 # link = https://tatar-inform.tatar/news/health/08-10-2021/mishustin-koronavirustan-t-p-saklanu-charasy-vaktsinatsiya-bashka-yul-yuk-5840560
 # genre = health
-# text = Бу хакта РФ Премьер-министры Михаил Мишустин Курск өлкәсе хастаханәсенең йогышлы авырулар корпусын караганда әйтте.
+# text = Бу хакта РФ Премьер-министры Михаил Мишустин Курск өлкәсе хастаханәсенең йогышлы авырулар корпусын караганда әйтте.
 1	Бу	бу	DET	_	_	2	det	_	LangID=TT
 2	хакта	хак	NOUN	_	Case=Loc|Number=Sing	14	obl	_	LangID=TT
 3	РФ	РФ	PROPN	_	Case=Nom|Number=Sing	4	nmod	_	LangID=RU
@@ -28,7 +28,7 @@
 7	Курск	Курск	PROPN	_	Case=Nom|Number=Sing	8	nmod	_	LangID=RU
 8	өлкәсе	өлкә	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	9	nmod	_	LangID=TT
 9	хастаханәсенең	хастаханә	NOUN	_	Case=Gen|Number=Sing|Person[psor]=3	12	nmod	_	LangID=TT
-10	йогышлы	йогышлы	ADJ	_	_	11	amod	_	LangID=TT
+10	йогышлы	йогышлы	ADJ	_	_	11	amod	_	LangID=TT
 11	авырулар	авыр	NOUN	_	Case=Nom|Number=Plur|VerbForm=Vnoun	12	nmod	_	LangID=TT
 12	корпусын	корпус	NOUN	_	Case=Acc|Number=Sing|Person[psor]=3	13	obj	_	LangID=TT
 13	караганда	кара	VERB	_	Case=Loc|Tense=Past|VerbForm=Part	14	advcl	_	LangID=TT
@@ -213,7 +213,7 @@
 # sent_id = 5840561_1
 # link = https://tatar-inform.tatar/news/religion/08-10-2021/t-m-nd-tatar-avtorlary-kitaplaryn-t-k-dim-ittel-r-5840561
 # genre = religion
-# text = Яңа китаплар арасында себер татары шагыйрәсе һәм фольклорчысы Клара Кучковскаяның «Туганнар» хикәяләр җыентыгы, Россия Фәннәр академиясенең Себер бүлегенең Төмән фәнни үзәге Төньякны үзләштерү проблемалары институты өлкән фәнни хезмәткәре Гөлсифа Бакиеваның «Бөек Ватан сугышы геройлары» белешмәсе, «Төмән өлкәсендә мөселман берләшмәләре һәм мәдәни объектлары» дигән иллюстрацияләнгән белешмә бар, соңгысы фән эшлеклеләре, журналистлар, мөселман руханилары вәкилләренең озак вакытлы эше нәтиҗәсе булып тора.
+# text = Яңа китаплар арасында себер татары шагыйрәсе һәм фольклорчысы Клара Кучковскаяның «Туганнар» хикәяләр җыентыгы, Россия Фәннәр академиясенең Себер бүлегенең Төмән фәнни үзәге Төньякны үзләштерү проблемалары институты өлкән фәнни хезмәткәре Гөлсифа Бакиеваның «Бөек Ватан сугышы геройлары» белешмәсе, «Төмән өлкәсендә мөселман берләшмәләре һәм мәдәни объектлары» дигән иллюстрацияләнгән белешмә бар, соңгысы фән эшлеклеләре, журналистлар, мөселман руханилары вәкилләренең озак вакытлы эше нәтиҗәсе булып тора.
 1	Яңа	яңа	ADJ	_	_	2	advcl	_	LangID=TT
 2	китаплар	китап	NOUN	_	Case=Nom|Number=Plur	3	nmod	_	LangID=TT
 3	арасында	ара	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	54	obl	_	LangID=TT
@@ -251,7 +251,7 @@
 35	Бөек	бөек	ADJ	_	_	37	amod	_	LangID=TT
 36	Ватан	ватан	NOUN	_	Case=Nom|Number=Sing	37	nmod	_	LangID=TT
 37	сугышы	сугыш	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	38	nmod	_	LangID=TT
-38	геройлары	герой	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	40	nmod	_	CSPoint=герой§лары|LangID=MIXED[RU§TT]|SpaceAfter=No
+38	геройлары	герой	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	40	nmod	_	CSPoint=герой§лары|LangID=MIXED[RU§TT]|SpaceAfter=No
 39	»	»	PUNCT	_	_	38	punct	_	LangID=OTHER
 40	белешмәсе	белешмә	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	15	conj	_	LangID=OTHER|SpaceAfter=No
 41	,	,	PUNCT	_	_	53	punct	_	LangID=OTHER
@@ -418,7 +418,7 @@
 # sent_id = 5840562_0
 # link = https://tatar-inform.tatar/news/science/08-10-2021/ilsur-adiullin-ukytuchylarny-totyp-kalu-chen-halyk-tarafynnan-yahshy-m-n-s-b-t-kir-k-5840562
 # genre = science
-# text = Татарстанның мәгариф һәм фән министры Илсур Һадиуллин әйтүенчә, укытучыларны мәктәпләрдә тотып калу өчен, халык тарафыннан яхшы мөнәсәбәт кирәк.
+# text = Татарстанның мәгариф һәм фән министры Илсур Һадиуллин әйтүенчә, укытучыларны мәктәпләрдә тотып калу өчен, халык тарафыннан яхшы мөнәсәбәт кирәк.
 1	Татарстанның	Татарстан	PROPN	_	Case=Gen|Number=Sing	5	nmod	_	LangID=TT
 2	мәгариф	мәгариф	NOUN	_	Case=Nom|Number=Sing	5	nmod	_	LangID=TT
 3	һәм	һәм	CCONJ	_	_	4	cc	_	LangID=TT
@@ -1259,7 +1259,7 @@
 5	муниципаль	муниципаль	ADJ	_	_	6	amod	_	LangID=RU
 6	районы	район	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	8	nmod	_	LangID=TT
 7	рәсми	рәсми	ADJ	_	_	8	amod	_	LangID=TT
-8	сайтында	сайт	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	9	obl	_	CSPoint=сайт§ында|LangID=MIXED[RU§TT]
+8	сайтында	сайт	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	9	obl	_	CSPoint=сайт§ында|LangID=MIXED[RU§TT]
 9	хәбәр	хәбәр	NOUN	_	Case=Nom|Number=Sing	10  compound:lvc	_	LangID=TT
 10	ителә	ит	VERB	_	Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	0	root	_	LangID=TT|SpaceAfter=No
 11	.	.	PUNCT	_	_	9	punct	_	LangID=OTHER
