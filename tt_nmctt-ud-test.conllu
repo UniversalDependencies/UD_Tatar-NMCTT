@@ -404,7 +404,7 @@
 # link = https://tatar-inform.tatar/news/religion/08-10-2021/t-m-nd-tatar-avtorlary-kitaplaryn-t-k-dim-ittel-r-5840561
 # genre = religion
 # text = Белешмәлекне Төмән өлкәсендә дини вәзгыятьне өйрәнү белән шөгыльләнүче белгечләргә ислам объектларында эшләүчеләр куллана ала.
-1	Белешмәлекне	белешмәлек	NOUN	_	Case=Acc|Number=Sing	14	obj	_	LangID=TT
+1	Белешмәлекне	белешмәлек	NOUN	_	Case=Acc|Number=Sing	13	obj	_	LangID=TT
 2	Төмән	Төмән	PROPN	_	Case=Nom|Number=Sing	3	nmod	_	LangID=TT
 3	өлкәсендә	өлкә	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	12	obl	_	LangID=TT
 4	дини	дини	ADJ	_	_	5	amod	_	LangID=TT
@@ -415,7 +415,7 @@
 9	белгечләргә	белгеч	NOUN	_	Case=Dat|Number=Plur	12	obl	_	LangID=TT
 10	ислам	ислам	NOUN	_	Case=Nom|Number=Sing	11	nmod	_	LangID=TT
 11	объектларында	объект	NOUN	_	Case=Loc|Number=Plur|Person[psor]=3	12	obl	_	CSPoint=объект§ларында|LangID=MIXED[RU§TT]
-12	эшләүчеләр	эшлә	VERB	_	Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part	14	nsubj	_	LangID=TT
+12	эшләүчеләр	эшлә	VERB	_	Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part	13	nsubj	_	LangID=TT
 13	куллана	куллан	VERB	_	Aspect=Prog|VerbForm=Conv	0	root	_	LangID=TT
 14	ала	ал	AUX	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	LangID=TT|SpaceAfter=No
 15	.	.	PUNCT	_	_	13	punct	_	LangID=OTHER
@@ -431,7 +431,7 @@
 5	министры	министр	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	8	nmod	_	CSPoint=министр§ы|LangID=MIXED[RU§TT]
 6	Илсур	Илсур	PROPN	_	Case=Nom|Number=Sing	5	flat	_	LangID=TT
 7	Һадиуллин	Һадиуллин	PROPN	_	Case=Nom|Number=Sing	5	flat	_	CSPoint=Һадиулл§ин|LangID=MIXED[TT§RU]
-8	әйтүенчә	әйт	VERB	_	Case=Equ|Person[psor]=3|VerbForm=Vnoun	20	advmod	_	LangID=TT|SpaceAfter=No
+8	әйтүенчә	әйт	VERB	_	Case=Equ|Person[psor]=3|VerbForm=Vnoun	20	obl	_	LangID=TT|SpaceAfter=No
 9	,	,	PUNCT	_	_	20	punct	_	LangID=OTHER
 10	укытучыларны	укы	VERB	_	Case=Acc|Number=Plur|Tense=Pres|VerbForm=Part	12	obj	_	LangID=TT
 11	мәктәпләрдә	мәктәп	NOUN	_	Case=Loc|Number=Plur	12	obl	_	LangID=TT
@@ -549,7 +549,7 @@
 # genre = science
 # text = Министр сүзләренчә, быел укырга керүчеләрнең исемлеген карасаң, күп кенә педагогик белгечлекләргә чит телләр дә керә.
 1	Министр	министр	NOUN	_	Case=Nom|Number=Sing	2	nmod	_	LangID=RU
-2	сүзләренчә	сүз	NOUN	_	Case=Equ|Number=Plur|Person[psor]=3	17	advmod	_	LangID=TT|SpaceAfter=No
+2	сүзләренчә	сүз	NOUN	_	Case=Equ|Number=Plur|Person[psor]=3	17	obl	_	LangID=TT|SpaceAfter=No
 3	,	,	PUNCT	_	_	17	punct	_	LangID=OTHER
 4	быел	быел	NOUN	_	Case=Nom|Number=Sing	6	obl	_	LangID=TT
 5	укырга	укы	VERB	_	VerbForm=Inf	6	advcl	_	LangID=TT
@@ -737,7 +737,7 @@
 # text = Татар теле ул дәүләтле, дәүләте булган тел», — диде Марат Әхмәтов «Татар-информ» хәбәрчесенә.
 1	Татар	татар	PROPN	_	Case=Nom|Number=Sing	2	nmod	_	LangID=TT
 2	теле	тел	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	8	nsubj	_	LangID=TT
-3	ул	ул	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	advmod	_	LangID=TT
+3	ул	ул	ADV	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	advmod	_	LangID=TT
 4	дәүләтле	дәүләтле	ADJ	_	_	7	xcomp	_	LangID=TT|SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	_	LangID=OTHER
 6	дәүләте	дәүләт	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	4	parataxis	_	LangID=TT
@@ -912,7 +912,7 @@
 # link = https://tatar-inform.tatar/news/health/08-10-2021/tatarstanda-s-d-z-kl-rend-11-oktyabrg-kad-r-vaktsinatsiya-yasatyrga-m-mkin-5840565
 # genre = health
 # text = Моннан тыш, Covid-19 инфекциясеннән прививканы яшәү урыны буенча поликлиникада ясатырга мөмкин.
-1	Моннан	бу	PRON	_	Case=Abl|Number=Sing|PronType=Dem	12	advmod	_	LangID=TT
+1	Моннан	бу	PRON	_	Case=Abl|Number=Sing|PronType=Dem	12	obl	_	LangID=TT
 2	тыш	тыш	ADP	_	_	1	case	_	LangID=TT|SpaceAfter=No
 3	,	,	PUNCT	_	_	12	punct	_	LangID=OTHER
 4	Covid-19	Covid-19	NOUN	_	Case=Nom|Number=Sing	5	nmod	_	LangID=OTHER
