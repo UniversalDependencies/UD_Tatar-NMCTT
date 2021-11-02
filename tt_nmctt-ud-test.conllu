@@ -437,7 +437,7 @@
 11	мәктәпләрдә	мәктәп	NOUN	_	Case=Loc|Number=Plur	12	obl	_	LangID=TT
 12	тотып	тот	VERB	_	VerbForm=Conv	20	obl	_	LangID=TT
 13	калу	кал	AUX	_	Case=Nom|Number=Sing|VerbForm=Vnoun	12	aux	_	LangID=TT
-14	өчен	өчен	ADP	_	_	13	case	_	LangID=TT|SpaceAfter=No
+14	өчен	өчен	ADP	_	_	12	case	_	LangID=TT|SpaceAfter=No
 15	,	,	PUNCT	_	_	20	punct	_	LangID=OTHER
 16	халык	халык	NOUN	_	Case=Nom|Number=Sing	17	nmod	_	LangID=TT
 17	тарафыннан	тараф	NOUN	_	Case=Abl|Number=Sing|Person[psor]=3	19	nmod	_	LangID=TT
@@ -737,7 +737,7 @@
 # text = Татар теле ул дәүләтле, дәүләте булган тел», — диде Марат Әхмәтов «Татар-информ» хәбәрчесенә.
 1	Татар	татар	PROPN	_	Case=Nom|Number=Sing	2	nmod	_	LangID=TT
 2	теле	тел	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	8	nsubj	_	LangID=TT
-3	ул	ул	ADV	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	advmod	_	LangID=TT
+3	ул	ул	ADV	_	_	2	advmod	_	LangID=TT
 4	дәүләтле	дәүләтле	ADJ	_	_	7	xcomp	_	LangID=TT|SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	_	LangID=OTHER
 6	дәүләте	дәүләт	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	4	parataxis	_	LangID=TT
