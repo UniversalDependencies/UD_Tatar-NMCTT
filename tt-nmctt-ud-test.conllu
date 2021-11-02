@@ -8,7 +8,7 @@
 4	ысулы	ысул	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	6	nsubj	_	LangID=TT
 5	вакцинация	вакцинация	NOUN	_	Case=Nom|Number=Sing	6	xcomp	_	LangID=RU
 6	булып	бул	VERB	_	VerbForm=Conv	0	root	_	LangID=TT
-7	тора	тор	VERB	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	LangID=TT
+7	тора	тор	AUX	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	LangID=TT
 8	—	—	PUNCT	_	_	11	punct	_	LangID=OTHER
 9	башка	башка	ADJ	_	_	10	amod	_	LangID=TT
 10	юл	юл	NOUN	_	Case=Nom|Number=Sing	11	nsubj	_	LangID=TT
