@@ -1390,7 +1390,7 @@
 # link = https://tatar-inform.tatar/news/incident/09-10-2021/ger-ed-ba-adir-sportchy-anton-shushpanov-bel-n-hushlashalar-5840595
 # genre = incident
 # text = Кызганычка, төрле ярышларда күп тапкырлар җиңү яулаган район баһадиры пневмонияне җиңә алмады.
-1	Кызганычка	кызганыч	NOUN	_	Case=Dat|Number=Sing	12	advmod	_	LangID=TT|SpaceAfter=No
+1	Кызганычка	кызганыч	NOUN	_	Case=Dat|Number=Sing	12	obl	_	LangID=TT|SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	LangID=OTHER
 3	төрле	төрле	ADJ	_	_	4	amod	_	LangID=TT
 4	ярышларда	ярыш	NOUN	_	Case=Loc|Number=Plur	8	obl	_	LangID=TT
