@@ -1446,3 +1446,4 @@
 19	истә	ис	NOUN	_	Case=Loc|Number=Sing	20	obl	_	LangID=TT
 20	калыр	кал	VERB	_	Mood=Irr|Number=Sing|Person=3|Tense=Fut|VerbForm=Part	0	root	_	LangID=TT|SpaceAfter=No
 21	.	.	PUNCT	_	_	20	punct	_	LangID=OTHER
+
