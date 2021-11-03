@@ -1,0 +1,40 @@
+Running the following version of UD tools:
+commit 3478a99bb195eb8749c367af4f7b3fd357a12a4c
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue Nov 2 22:17:19 2021 +0100
+Evaluating the following revision of UD_Tatar-NMCTT:
+commit 2d2758f8bafe6c1ecaf63ad689d2a607253039c3
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Wed Nov 3 15:03:37 2021 +0100
+Size: counted 1119 of 1119 words (nodes).
+Size: min(0, log((N/1000)**2)) = 0.224870858659576.
+Size: maximum value 13.815511 is for 1000000 words or more.
+Split: Did not find more than 10000 training words.
+Split: Did not find at least 10000 development words.
+Split: Did not find at least 10000 test words.
+Lemmas: source of annotation (from README) factor is 1.
+Universal POS tags: 13 out of 17 found in the corpus.
+Universal POS tags: source of annotation (from README) factor is 1.
+Features: 705 out of 1119 total words have one or more features.
+Features: source of annotation (from README) factor is 1.
+Universal relations: 24 out of 37 found in the corpus.
+Universal relations: source of annotation (from README) factor is 1.
+Udapi:
+               TOTAL         72
+Udapi: found 72 bugs.
+Udapi: worst expected case (threshold) is one bug per 10 words. There are 1119 words.
+Genres: found 2 out of 17 known.
+validate.py --lang tt --max-err=10 UD_Tatar-NMCTT/tt_nmctt-ud-test.conllu
+*** PASSED ***
+Validity: 1
+(weight=0.0769230769230769) * (score{features}=1) = 0.0769230769230769
+(weight=0.0769230769230769) * (score{genres}=0.117647058823529) = 0.00904977375565611
+(weight=0.0769230769230769) * (score{lemmas}=1) = 0.0769230769230769
+(weight=0.256410256410256) * (score{size}=0.01627669550945) = 0.00417351166908975
+(weight=0.0512820512820513) * (score{split}=0.01) = 0.000512820512820513
+(weight=0.0769230769230769) * (score{tags}=0.764705882352941) = 0.0588235294117647
+(weight=0.307692307692308) * (score{udapi}=0.35656836461126) = 0.109713342957311
+(weight=0.0769230769230769) * (score{udeprels}=0.648648648648649) = 0.0498960498960499
+(TOTAL score=0.386015182048846) * (availability=1) * (validity=1) = 0.386015182048846
+STARS = 2
+UD_Tatar-NMCTT	0.386015182048846	2
