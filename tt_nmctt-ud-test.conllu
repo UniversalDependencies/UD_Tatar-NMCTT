@@ -293,7 +293,7 @@
 1	Мөфти	мөфти	NOUN	_	Case=Nom|Number=Sing	19	nsubj	_	LangID=TT
 2	Зиннәт	Зиннәт	PROPN	_	Case=Nom|Number=Sing	1	flat	_	LangID=TT
 3	хәзрәт	хәзрәт	NOUN	_	Case=Nom|Number=Sing	1	flat	_	LangID=TT
-4	Садыйков	Садыйков	PROPN	_	Case=Nom|Number=Sing	1	flat	_	CSPoint=Садыйк§ов|LangID=MIXED[TT&RU]
+4	Садыйков	Садыйков	PROPN	_	Case=Nom|Number=Sing	1	flat	_	CSPoint=Садыйк§ов|LangID=MIXED[TT§RU]
 5	Төмән	Төмән	PROPN	_	Case=Nom|Number=Sing	6	nmod	_	LangID=TT
 6	өлкәсенең	өлкә	NOUN	_	Case=Gen|Number=Sing|Person[psor]=3	9	nmod	_	LangID=TT
 7	мөселман	мөселман	NOUN	_	Case=Nom|Number=Sing	9	nmod	_	LangID=TT
@@ -670,7 +670,7 @@
 8	чаралары	чара	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	5	parataxis	_	LangID=TT|SpaceAfter=No
 9	,	,	PUNCT	_	_	11	punct	_	LangID=OTHER
 10	сәнгать	сәнгать	NOUN	_	Case=Nom|Number=Sing	11	nmod	_	LangID=TT
-11	учреждениеләре	учреждение	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	5	parataxis	_	CSPoint=учреждение§ләре|LangID=MIXED[RU§TT]
+11	учреждениеләре	учреждение	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	5	parataxis	_	CSPoint=учреждениеgit aләре|LangID=MIXED[RU§TT]
 12	белән	белән	ADP	_	_	5	case	_	LangID=TT
 13	уртак	уртак	ADJ	_	_	14	amod	_	LangID=TT
 14	проектлар	проект	NOUN	_	Case=Nom|Number=Plur	15	nsubj	_	CSPoint=проект§лар|LangID=MIXED[RU§TT]
