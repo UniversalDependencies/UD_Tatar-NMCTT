@@ -424,7 +424,7 @@
 3	һәм	һәм	CCONJ	_	_	4	cc	_	LangID=TT
 4	фән	фән	NOUN	_	Case=Nom|Number=Sing	2	conj	_	LangID=TT
 5	министры	министр	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	8	nmod	_	CSPoint=министр§ы|LangID=MIXED[RU§TT]
-6	Илсур	Илсур	PROPN	_	Case=Nom|Number=Sing	5	flat	_	LangID=TT
+6	Илсур	Илсур	PROPN	_	Case=Nom|Number=Sing	5	appos	_	LangID=TT
 7	Һадиуллин	Һадиуллин	PROPN	_	Case=Nom|Number=Sing	5	flat	_	CSPoint=Һадиулл§ин|LangID=MIXED[TT§RU]
 8	әйтүенчә	әйт	VERB	_	Case=Equ|Person[psor]=3|VerbForm=Vnoun	20	obl	_	LangID=TT|SpaceAfter=No
 9	,	,	PUNCT	_	_	20	punct	_	LangID=OTHER
