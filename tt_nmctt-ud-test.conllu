@@ -1,57 +1,1988 @@
+# sent_id = 5840560_0
+# link = https://tatar-inform.tatar/news/health/08-10-2021/mishustin-koronavirustan-t-p-saklanu-charasy-vaktsinatsiya-bashka-yul-yuk-5840560
+# genre = health
+# text = Коронавирустан саклануның төп ысулы вакцинация булып тора — башка юл юк.
+1	Коронавирустан	коронавирус	NOUN	_	Case=Abl|Number=Sing	2	obl	_	CSPoint=Коронавирус§тан|LangID=MIXED[RU§TT]
+2	саклануның	сакла	VERB	_	Case=Gen|Number=Sing|VerbForm=Vnoun|Voice=Pass	4	nmod	_	LangID=TT
+3	төп	төп	ADJ	_	_	4	amod	_	LangID=TT
+4	ысулы	ысул	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	6	nsubj	_	LangID=TT
+5	вакцинация	вакцинация	NOUN	_	Case=Nom|Number=Sing	6	xcomp	_	LangID=RU
+6	булып	бул	VERB	_	VerbForm=Conv	0	root	_	LangID=TT
+7	тора	тор	AUX	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	LangID=TT
+8	—	—	PUNCT	_	_	11	punct	_	LangID=OTHER
+9	башка	башка	ADJ	_	_	10	amod	_	LangID=TT
+10	юл	юл	NOUN	_	Case=Nom|Number=Sing	11	nsubj	_	LangID=TT
+11	юк	юк	ADJ	_	_	6	parataxis	_	LangID=TT|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	punct	_	LangID=OTHER
+
+# sent_id = 5840560_1
+# link = https://tatar-inform.tatar/news/health/08-10-2021/mishustin-koronavirustan-t-p-saklanu-charasy-vaktsinatsiya-bashka-yul-yuk-5840560
+# genre = health
+# text = Бу хакта РФ Премьер-министры Михаил Мишустин Курск өлкәсе хастаханәсенең йогышлы авырулар корпусын караганда әйтте.
+1	Бу	бу	DET	_	_	2	det	_	LangID=TT
+2	хакта	хак	NOUN	_	Case=Loc|Number=Sing	14	obl	_	LangID=TT
+3	РФ	РФ	PROPN	_	Case=Nom|Number=Sing	4	nmod	_	LangID=RU
+4	Премьер-министры	Премьер-министр	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	14	nsubj	_	CSPoint=Премьер-министр§ы|LangID=MIXED[RU§TT]
+5	Михаил	Михаил	PROPN	_	Case=Nom|Number=Sing	4	appos	_	LangID=RU
+6	Мишустин	Мишустин	PROPN	_	Case=Nom|Number=Sing	5	flat	_	LangID=RU
+7	Курск	Курск	PROPN	_	Case=Nom|Number=Sing	8	nmod	_	LangID=RU
+8	өлкәсе	өлкә	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	9	nmod	_	LangID=TT
+9	хастаханәсенең	хастаханә	NOUN	_	Case=Gen|Number=Sing|Person[psor]=3	12	nmod	_	LangID=TT
+10	йогышлы	йогышлы	ADJ	_	_	11	amod	_	LangID=TT
+11	авырулар	авыр	VERB	_	Case=Nom|Number=Plur|VerbForm=Vnoun	12	nmod	_	LangID=TT
+12	корпусын	корпус	NOUN	_	Case=Acc|Number=Sing|Person[psor]=3	13	obj	_	LangID=TT
+13	караганда	кара	VERB	_	Case=Loc|Tense=Past|VerbForm=Part	14	advcl	_	LangID=TT
+14	әйтте	әйт	VERB	_	Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	LangID=TT|SpaceAfter=No
+15	.	.	PUNCT	_	_	14	punct	_	LangID=OTHER
+
+# sent_id = 5840560_2
+# link = https://tatar-inform.tatar/news/health/08-10-2021/mishustin-koronavirustan-t-p-saklanu-charasy-vaktsinatsiya-bashka-yul-yuk-5840560
+# genre = health
+# text = «Курскта яшәүчеләр дә, бөтен ил халкының да ковидтан саклануның төп юлы — вакцинация икәнен аңлаулары бик мөһим», — дип китерелә Мишустин сүзләре ил Хөкүмәтенең телеграм-каналында.
+1	«	«	PUNCT	_	_	19	punct	_	LangID=OTHER|SpaceAfter=No
+2	Курскта	Курск	NOUN	_	Case=Loc|Number=Sing	3	obl	_	CSPoint=Курск§та|LangID=MIXED[RU§TT]
+3	яшәүчеләр	яшә	VERB	_	Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part	17	nmod	_	LangID=TT
+4	дә	да	ADV	_	_	3	advmod	_	LangID=TT|SpaceAfter=No
+5	,	,	PUNCT	_	_	8	punct	_	LangID=OTHER
+6	бөтен	бөтен	ADJ	_	_	7	amod	_	LangID=TT
+7	ил	ил	NOUN	_	Case=Nom|Number=Sing	8	nmod	_	LangID=TT
+8	халкының	халык	NOUN	_	Case=Gen|Number=Sing|Person[psor]=3	3	conj	_	LangID=TT
+9	да	да	ADV	_	_	8	advmod	_	LangID=TT
+10	ковидтан	ковид	NOUN	_	Case=Abl|Number=Sing	11	obl	_	LangID=TT
+11	саклануның	сакла	VERB	_	Case=Gen|Number=Sing|VerbForm=Vnoun|Voice=Pass	13	nmod	_	LangID=TT
+12	төп	төп	ADJ	_	_	13	amod	_	LangID=TT
+13	юлы	юл	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	15	nsubj	_	LangID=TT
+14	—	—	PUNCT	_	_	15	punct	_	LangID=OTHER
+15	вакцинация	вакцинация	NOUN	_	Case=Nom|Number=Sing	17	obj	_	LangID=RU
+16	икәнен	икән	AUX	_	Case=Acc|Number=Sing|Person[psor]=3	15	aux	_	LangID=TT
+17	аңлаулары	аңла	VERB	_	Case=Nom|Number=Plur|Person[psor]=3|VerbForm=Vnoun	19	nsubj	_	LangID=TT
+18	бик	бик	ADV	_	_	19	advmod	_	LangID=TT
+19	мөһим	мөһим	ADJ	_	_	0	root	_	LangID=TT|SpaceAfter=No
+20	»	»	PUNCT	_	_	19	punct	_	LangID=OTHER|SpaceAfter=No
+21	,	,	PUNCT	_	_	24	punct	_	LangID=OTHER
+22	—	—	PUNCT	_	_	24	punct	_	LangID=OTHER
+23	дип	дип	SCONJ	_	_	24	mark	_	LangID=TT
+24	китерелә	китер	VERB	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	19	parataxis	_	LangID=TT
+25	Мишустин	Мишустин	PROPN	_	Case=Nom|Number=Sing	26	nmod	_	LangID=RU
+26	сүзләре	сүз	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	24	nsubj	_	LangID=TT
+27	ил	ил	NOUN	_	Case=Nom|Number=Sing	28	nmod	_	LangID=TT
+28	Хөкүмәтенең	хөкүмәт	NOUN	_	Case=Gen|Number=Sing|Person[psor]=3	29	nmod	_	LangID=TT
+29	телеграм-каналында	телеграм-канал	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	24	obl	_	CSPoint=телеграм-канал§ында|LangID=MIXED[RU§TT]|SpaceAfter=No
+30	.	.	PUNCT	_	_	24	punct	_	LangID=OTHER
+
+# sent_id = 5840560_3
+# link = https://tatar-inform.tatar/news/health/08-10-2021/mishustin-koronavirustan-t-p-saklanu-charasy-vaktsinatsiya-bashka-yul-yuk-5840560
+# genre = health
+# text = Премьер сүзләренчә, Курск өлкәсе тулысынча препаратлар белән тәэмин ителгән һәм вакцинация кампаниясен уздыру өчен бернинди каршылыклар да юк.
+1	Премьер	премьер	NOUN	_	Case=Nom|Number=Sing	2	nmod	_	LangID=RU
+2	сүзләренчә	сүз	NOUN	_	Case=Equ|Number=Plur|Person[psor]=3	10	obl	_	LangID=TT|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	LangID=OTHER
+4	Курск	Курск	PROPN	_	Case=Nom|Number=Sing	5	nmod	_	LangID=RU
+5	өлкәсе	өлкә	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	10	nsubj	_	LangID=TT
+6	тулысынча	тулысынча	ADV	_	_	10	advmod	_	LangID=TT
+7	препаратлар	препарат	NOUN	_	Case=Nom|Number=Plur	10	obl	_	LangID=TT
+8	белән	белән	ADP	_	_	7	case	_	LangID=TT
+9	тәэмин	тәэмин	NOUN	_	Case=Nom|Number=Sing	10	compound:lvc	_	LangID=TT
+10	ителгән	ит	VERB	_	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	LangID=TT
+11	һәм	һәм	CCONJ	_	_	19	cc	_	LangID=TT
+12	вакцинация	вакцинация	NOUN	_	Case=Nom|Number=Sing	13	nmod	_	LangID=RU
+13	кампаниясен	кампания	NOUN	_	Case=Acc|Number=Sing|Person[psor]=3	14	obj	_	CSPoint=кампания§сен|LangID=MIXED[RU§TT]
+14	уздыру	уз	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun|Voice=Cau	19	obl	_	LangID=TT
+15	өчен	өчен	ADP	_	_	14	case	_	LangID=TT
+16	бернинди	бернинди	DET	_	_	17	det	_	LangID=TT
+17	каршылыклар	каршылык	NOUN	_	Case=Nom|Number=Plur	19	nsubj	_	LangID=TT
+18	да	да	ADV	_	_	17	advmod	_	LangID=TT
+19	юк	юк	ADJ	_	_	9	conj	_	LangID=TT|SpaceAfter=No
+20	.	.	PUNCT	_	_	19	punct	_	LangID=OTHER
+
+# sent_id = 5840560_4
+# link = https://tatar-inform.tatar/news/health/08-10-2021/mishustin-koronavirustan-t-p-saklanu-charasy-vaktsinatsiya-bashka-yul-yuk-5840560
+# genre = health
+# text = Хәзер кешеләрне ничек җәлеп итү һәм аңлату эшләрен ничек алып бару мәсьәләсен хәл итәргә кирәк.
+1	Хәзер	хәзер	ADV	_	_	14	advmod	_	LangID=TT
+2	кешеләрне	кеше	NOUN	_	Case=Acc|Number=Plur	4	obj	_	LangID=TT
+3	ничек	ничек	ADV	_	_	4	advmod	_	LangID=TT
+4	җәлеп	җәлеп	NOUN	_	Case=Nom|Number=Sing	5	compound:lvc	_	LangID=TT
+5	итү	ит	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	12	nmod	_	LangID=TT
+6	һәм	һәм	CCONJ	_	_	10	cc	_	LangID=TT
+7	аңлату	аңла	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun|Voice=Cau	8	nmod	_	LangID=TT
+8	эшләрен	эш	NOUN	_	Case=Acc|Number=Plur|Person[psor]=3	10	obj	_	LangID=TT
+9	ничек	ничек	ADV	_	_	10	advmod	_	LangID=TT
+10	алып	ал	VERB	_	VerbForm=Conv	5	conj	_	LangID=TT
+11	бару	бар	AUX	_	Case=Nom|Number=Sing|VerbForm=Vnoun	10	aux	_	LangID=TT
+12	мәсьәләсен	мәсьәлә	NOUN	_	Case=Acc|Number=Sing|Person[psor]=3	14	obj	_	LangID=TT
+13	хәл	хәл	NOUN	_	Case=Nom|Number=Sing	14	compound:lvc	_	LangID=TT
+14	итәргә	ит	VERB	_	VerbForm=Inf	0	root	_	LangID=TT
+15	кирәк	кирәк	AUX	_	_	14	aux	_	LangID=TT|SpaceAfter=No
+16	.	.	PUNCT	_	_	14	punct	_	LangID=OTHER
+
+# sent_id = 5840560_5
+# link = https://tatar-inform.tatar/news/health/08-10-2021/mishustin-koronavirustan-t-p-saklanu-charasy-vaktsinatsiya-bashka-yul-yuk-5840560
+# genre = health
+# text = Россия президенты Владимир Путин күп тапкыр Covid-19дан вакцина ясарга чакырды.
+1	Россия	Россия	PRON	_	Case=Nom|Number=Sing	2	nmod	_	LangID=RU
+2	президенты	президент	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	10	nmod	_	CSPoint=президент§ы|LangID=MIXED[RU§TT]
+3	Владимир	Владимир	PROPN	_	Case=Nom|Number=Sing	2	appos	_	LangID=RU
+4	Путин	Путин	PROPN	_	Case=Nom|Number=Sing	3	flat	_	LangID=RU
+5	күп	күп	ADJ	_	_	6	amod	_	LangID=TT
+6	тапкыр	тапкыр	NOUN	_	Case=Nom|Number=Sing	9	obl	_	LangID=TT
+7	Covid-19дан	Covid-19	NOUN	_	Case=Abl|Number=Sing	8	nmod	_	CSPoint=Covid-19§дан|LangID=MIXED[OTHER§TT]
+8	вакцина	вакцина	NOUN	_	Case=Nom|Number=Sing	9	obj	_	LangID=RU
+9	ясарга	яса	VERB	_	VerbForm=Inf	10	advcl	_	LangID=TT
+10	чакырды	чакыр	VERB	_	Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	LangID=TT|SpaceAfter=No
+11	.	.	PUNCT	_	_	10	punct	_	LangID=OTHER
+
+# sent_id = 5840560_6
+# link = https://tatar-inform.tatar/news/health/08-10-2021/mishustin-koronavirustan-t-p-saklanu-charasy-vaktsinatsiya-bashka-yul-yuk-5840560
+# genre = health
+# text = Дәүләт башлыгы процедураның мөһимлеген ассызыклый һәм Россиянең барлык вакциналарының куркынычсыз һәм ышанычлы булуын билгеләп үтә.
+1	Дәүләт	дәүләт	NOUN	_	Case=Nom|Number=Sing	2	nmod	_	LangID=TT
+2	башлыгы	башлык	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	5	nsubj	_	LangID=TT
+3	процедураның	процедура	NOUN	_	Case=Gen|Number=Sing	4	nmod	_	CSPoint=процедура§ның|LangID=MIXED[RU§TT]
+4	мөһимлеген	мөһимлек	NOUN	_	Case=Acc|Number=Sing|Person[psor]=3	5	obj	_	LangID=TT
+5	ассызыклый	ассызыкла	VERB	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	LangID=TT
+6	һәм	һәм	CCONJ	_	_	14	cc	_	LangID=TT
+7	Россиянең	Россия	NOUN	_	Case=Gen|Number=Sing	9	nmod	_	CSPoint=Россия§нең|LangID=MIXED[RU§TT]
+8	барлык	барлык	ADJ	_	_	9	amod	_	LangID=TT
+9	вакциналарының	вакцина	NOUN	_	Case=Gen|Number=Plur|Person[psor]=3	13	nmod	_	CSPoint=вакцина§ларының|LangID=MIXED[RU§TT]
+10	куркынычсыз	куркынычсыз	ADJ	_	_	13	xcomp	_	LangID=TT
+11	һәм	һәм	CCONJ	_	_	12	cc	_	LangID=TT
+12	ышанычлы	ышанычлы	ADJ	_	_	10	conj	_	LangID=TT
+13	булуын	бул	VERB	_	Case=Acc|Number=Sing|Person[psor]=3|VerbForm=Vnoun	14	obj	_	LangID=TT
+14	билгеләп	билгелә	VERB	_	VerbForm=Conv	5	conj	_	LangID=TT
+15	үтә	үт	AUX	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	LangID=TT|SpaceAfter=No
+16	.	.	PUNCT	_	_	14	punct	_	LangID=OTHER
+
+# sent_id = 5840560_7
+# link = https://tatar-inform.tatar/news/health/08-10-2021/mishustin-koronavirustan-t-p-saklanu-charasy-vaktsinatsiya-bashka-yul-yuk-5840560
+# genre = health
+# text = «Татар-информ» мәгълүмат агентлыгы хәбәр иткәнчә, Татарстанда эпидемия вазгыяте начарлану сәбәпле, ковидка каршы чаралар катгыйланды.
+1	«	«	PUNCT	_	_	2	punct	_	LangID=OTHER|SpaceAfter=No
+2	Татар-информ	Татар-информ	PROPN	_	Case=Nom|Number=Sing	5	nmod	_	LangID=RU|SpaceAfter=No
+3	»	»	PUNCT	_	_	2	punct	_	LangID=OTHER
+4	мәгълүмат	мәгълүмат	NOUN	_	Case=Nom|Number=Sing	5	nmod	_	LangID=TT
+5	агентлыгы	агентлык	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	7	nsubj	_	LangID=TT
+6	хәбәр	хәбәр	NOUN	_	Case=Nom|Number=Sing	7	compound:lvc	_	LangID=TT
+7	иткәнчә	ит	VERB	_	Case=Equ|Tense=Past|VerbForm=Part	18	advcl	_	LangID=TT|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	punct	_	LangID=OTHER
+9	Татарстанда	Татарстан	PROPN	_	Case=Loc|Number=Sing	12	obl	_	LangID=TT
+10	эпидемия	эпидемия	NOUN	_	Case=Nom|Number=Sing	11	nmod	_	LangID=RU
+11	вазгыяте	вазгыять	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	12	nsubj	_	LangID=TT
+12	начарлану	начарлан	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	18	advcl	_	LangID=TT
+13	сәбәпле	сәбәпле	ADP	_	_	12	case	_	LangID=TT|SpaceAfter=No
+14	,	,	PUNCT	_	_	12	punct	_	LangID=OTHER
+15	ковидка	ковид	NOUN	_	Case=Dat|Number=Sing	17	nsubj	_	CSPoint=ковид§ка|LangID=MIXED[RU§TT]
+16	каршы	каршы	ADP	_	_	15	case	_	LangID=TT
+17	чаралар	чара	NOUN	_	Case=Nom|Number=Plur	18	nsubj	_	LangID=TT
+18	катгыйланды	катгыйлан	VERB	_	Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	LangID=TT|SpaceAfter=No
+19	.	.	PUNCT	_	_	18	punct	_	LangID=OTHER
+
+# sent_id = 5840560_8
+# link = https://tatar-inform.tatar/news/health/08-10-2021/mishustin-koronavirustan-t-p-saklanu-charasy-vaktsinatsiya-bashka-yul-yuk-5840560
+# genre = health
+# text = Яңа чикләүләр 11 октябрьдә гамәлгә кертеләчәк.
+1	Яңа	яңа	ADJ	_	_	2	amod	_	LangID=TT
+2	чикләүләр	чиклә	VERB	_	Case=Nom|Number=Plur|VerbForm=Vnoun	6	nsubj	_	LangID=TT
+3	11	11	NUM	_	NumType=Card	6	obl	_	LangID=TT
+4	октябрьдә	октябрь	NOUN	_	Case=Loc|Number=Plur	3	parataxis	_	LangID=TT
+5	гамәлгә	гамәл	NOUN	_	Case=Dat|Number=Plur	6	obl	_	LangID=TT
+6	кертеләчәк	кер	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Part|Voice=CauPass	0	root	_	LangID=TT|SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	LangID=OTHER
+
+# sent_id = 5840561_0
+# link = https://tatar-inform.tatar/news/religion/08-10-2021/t-m-nd-tatar-avtorlary-kitaplaryn-t-k-dim-ittel-r-5840561
+# genre = religion
+# text = Төмән китапханәсендә татар язучылары һәм фәнни эшлеклеләренең өлкә хөкүмәте ярдәме белән чыгарылган китапларын тәкъдим иттеләр.
+1	Төмән	Төмән	PROPN	_	Case=Nom|Number=Sing	2	nmod	_	LangID=TT
+2	китапханәсендә	китапханә	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	15	obl	_	LangID=TT
+3	татар	татар	NOUN	_	Case=Nom|Number=Sing	4	nmod	_	LangID=TT
+4	язучылары	яз	VERB	_	Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part	13	nmod	_	LangID=TT
+5	һәм	һәм	CCONJ	_	_	7	cc	_	LangID=TT
+6	фәнни	фәнни	ADJ	_	_	7	nmod	_	LangID=TT
+7	эшлеклеләренең	эшлекле	NOUN	_	Case=Gen|Number=Plur|Person[psor]=3	4	conj	_	LangID=TT
+8	өлкә	өлкә	NOUN	_	Case=Nom|Number=Sing	9	nmod	_	LangID=TT
+9	хөкүмәте	хөкүмәт	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	10	nmod	_	LangID=TT
+10	ярдәме	ярдәм	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	12	obl	_	LangID=TT
+11	белән	белән	ADP	_	_	10	case	_	LangID=TT
+12	чыгарылган	чык	VERB	_	Tense=Past|VerbForm=Part|Voice=CauPass	13	amod	_	LangID=TT
+13	китапларын	китап	NOUN	_	Case=Acc|Number=Plur|Person[psor]=3	15	obj	_	LangID=TT
+14	тәкъдим	тәкъдим	NOUN	_	Case=Nom|Number=Sing	15	compound:lvc	_	LangID=TT
+15	иттеләр	ит	VERB	_	Number=Plur|Person=3|Tense=Past	0	root	_	LangID=TT|SpaceAfter=No
+16	.	.	PUNCT	_	_	15	punct	_	LangID=OTHER
+
+# sent_id = 5840561_1
+# link = https://tatar-inform.tatar/news/religion/08-10-2021/t-m-nd-tatar-avtorlary-kitaplaryn-t-k-dim-ittel-r-5840561
+# genre = religion
+# text = Яңа китаплар арасында себер татары шагыйрәсе һәм фольклорчысы Клара Кучковскаяның «Туганнар» хикәяләр җыентыгы, Россия Фәннәр академиясенең Себер бүлегенең Төмән фәнни үзәге Төньякны үзләштерү проблемалары институты өлкән фәнни хезмәткәре Гөлсифа Бакиеваның «Бөек Ватан сугышы геройлары» белешмәсе, «Төмән өлкәсендә мөселман берләшмәләре һәм мәдәни объектлары» дигән иллюстрацияләнгән белешмә бар, соңгысы фән эшлеклеләре, журналистлар, мөселман руханилары вәкилләренең озак вакытлы эше нәтиҗәсе булып тора.
+1	Яңа	яңа	ADJ	_	_	2	advcl	_	LangID=TT
+2	китаплар	китап	NOUN	_	Case=Nom|Number=Plur	3	nmod	_	LangID=TT
+3	арасында	ара	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	54	obl	_	LangID=TT
+4	себер	себер	NOUN	_	Case=Nom|Number=Sing	5	nmod	_	LangID=TT
+5	татары	татар	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	6	nmod	_	LangID=TT
+6	шагыйрәсе	шагыйрә	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	15	nmod	_	LangID=TT
+7	һәм	һәм	CCONJ	_	_	8	cc	_	LangID=TT
+8	фольклорчысы	фольклорчы	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	6	conj	_	LangID=TT
+9	Клара	Клара	PROPN	_	Case=Nom|Number=Sing	6	flat	_	LangID=RU
+10	Кучковскаяның	Кучковская	PROPN	_	Case=Gen|Number=Sing	6	flat	_	LangID=RU
+11	«	«	PUNCT	_	_	12	punct	_	LangID=OTHER|SpaceAfter=No
+12	Туганнар	туган	NOUN	_	Case=Nom|Number=Plur	15	nmod	_	LangID=TT|SpaceAfter=No
+13	»	»	PUNCT	_	_	12	punct	_	LangID=OTHER
+14	хикәяләр	хикәя	NOUN	_	Case=Nom|Number=Plur	15	nmod	_	LangID=TT
+15	җыентыгы	җыентык	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	54	nsubj	_	LangID=TT|SpaceAfter=No
+16	,	,	PUNCT	_	_	40	punct	_	LangID=OTHER
+17	Россия	Россия	PROPN	_	Case=Nom|Number=Sing	19	nmod	_	LangID=RU
+18	Фәннәр	фәннәр	NOUN	_	Case=Nom|Number=Plur	19	nmod	_	LangID=TT
+19	академиясенең	академия	NOUN	_	Case=Gen|Number=Sing|Person[psor]=3	21	nmod	_	CSPoint=академия§сенең|LangID=MIXED[RU§TT]
+20	Себер	себер	NOUN	_	Case=Nom|Number=Sing	21	nmod	_	LangID=TT
+21	бүлегенең	бүлек	NOUN	_	Case=Gen|Number=Sing|Person[psor]=3	24	nmod	_	LangID=TT
+22	Төмән	Төмән	PROPN	_	Case=Nom|Number=Sing	24	nmod	_	LangID=TT
+23	фәнни	фәнни	ADJ	_	_	24	amod	_	LangID=TT
+24	үзәге	үзәк	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	28	nmod	_	LangID=TT
+25	Төньякны	төньяк	NOUN	_	Case=Acc|Number=Sing	26	obj	_	LangID=TT
+26	үзләштерү	үзләш	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun|Voice=Cau	27	nmod	_	LangID=TT
+27	проблемалары	проблема	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	28	nmod	_	CSPoint=проблема§лары|LangID=MIXED[TT§RU]
+28	институты	институт	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	31	nmod	_	CSPoint=институт§ы|LangID=MIXED[TT§RU]
+29	өлкән	өлкән	ADJ	_	_	31	amod	_	LangID=TT
+30	фәнни	фәнни	ADJ	_	_	31	amod	_	LangID=TT
+31	хезмәткәре	хезмәткәр	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	40	nmod	_	LangID=TT
+32	Гөлсифа	Гөлсифа	PROPN	_	Case=Nom|Number=Sing	31	flat	_	LangID=TT
+33	Бакиеваның	Бакиева	PROPN	_	Case=Gen|Number=Sing	31	flat	_	CSPoint=Баки|ева|ның|LangID=MIXED[TT§RU§TT]
+34	«	«	PUNCT	_	_	38	punct	_	LangID=OTHER|SpaceAfter=No
+35	Бөек	бөек	ADJ	_	_	37	amod	_	LangID=TT
+36	Ватан	ватан	NOUN	_	Case=Nom|Number=Sing	37	nmod	_	LangID=TT
+37	сугышы	сугыш	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	38	nmod	_	LangID=TT
+38	геройлары	герой	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	40	nmod	_	CSPoint=герой§лары|LangID=MIXED[RU§TT]|SpaceAfter=No
+39	»	»	PUNCT	_	_	38	punct	_	LangID=OTHER
+40	белешмәсе	белешмә	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	15	conj	_	LangID=OTHER|SpaceAfter=No
+41	,	,	PUNCT	_	_	53	punct	_	LangID=OTHER
+42	«	«	PUNCT	_	_	46	punct	_	LangID=OTHER|SpaceAfter=No
+43	Төмән	Төмән	PROPN	_	Case=Nom|Number=Sing	44	nmod	_	LangID=TT
+44	өлкәсендә	өлкә	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	46	nmod	_	LangID=TT
+45	мөселман	мөселман	NOUN	_	Case=Nom|Number=Sing	46	nmod	_	LangID=TT
+46	берләшмәләре	берләшмә	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	51	obj	_	LangID=TT
+47	һәм	һәм	CCONJ	_	_	49	cc	_	LangID=TT
+48	мәдәни	мәдәни	ADJ	_	_	49	amod	_	LangID=TT
+49	объектлары	объект	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	46	conj	_	CSPoint=объект§лары|LangID=MIXED[RU§TT]|SpaceAfter=No
+50	»	»	PUNCT	_	_	46	punct	_	LangID=OTHER
+51	дигән	ди	VERB	_	Tense=Past|VerbForm=Part	53	amod	_	LangID=TT
+52	иллюстрацияләнгән	иллюстрациялә	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	53	amod	_	CSPoint=иллюстрация§ләнгән|LangID=MIXED[RU§TT]
+53	белешмә	белешмә	NOUN	_	Case=Nom|Number=Sing	15	conj	_	LangID=TT
+54	бар	бар	ADJ	_	_	0	root	_	LangID=TT|SpaceAfter=No
+55	,	,	PUNCT	_	_	56	punct	_	LangID=OTHER
+56	соңгысы	соңгы	ADJ	_	Case=Nom|Number=Sing|Person[psor]=3	69	nsubj	_	LangID=TT
+57	фән	фән	NOUN	_	_	58	amod	_	LangID=TT
+58	эшлеклеләре	эшлекле	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	67	nmod	_	LangID=TT|SpaceAfter=No
+59	,	,	PUNCT	_	_	60	punct	_	LangID=OTHER
+60	журналистлар	журналист	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	58	conj	_	CSPoint=журналист§лар|LangID=MIXED|SpaceAfter=No
+61	,	,	PUNCT	_	_	64	punct	_	LangID=OTHER
+62	мөселман	мөселман	NOUN	_	Case=Nom|Number=Sing	63	nmod	_	LangID=TT
+63	руханилары	рухани	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	64	nmod	_	LangID=TT
+64	вәкилләренең	вәкил	NOUN	_	Case=Gen|Number=Plur|Person[psor]=3	58	conj	_	LangID=TT
+65	озак	озак	ADJ	_	_	66	amod	_	LangID=TT
+66	вакытлы	вакытлы	ADJ	_	_	67	amod	_	LangID=TT
+67	эше	эш	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	68	nmod	_	LangID=TT
+68	нәтиҗәсе	нәтиҗә	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	69	xcomp	_	LangID=TT
+69	булып	бул	VERB	_	VerbForm=Conv	54	parataxis	_	LangID=TT
+70	тора	тор	AUX	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	69	aux	_	LangID=TT|SpaceAfter=No
+71	.	.	PUNCT	_	_	69	punct	_	LangID=OTHER
+
+# sent_id = 5840561_2
+# link = https://tatar-inform.tatar/news/religion/08-10-2021/t-m-nd-tatar-avtorlary-kitaplaryn-t-k-dim-ittel-r-5840561
+# genre = religion
+# text = Мөфти Зиннәт хәзрәт Садыйков Төмән өлкәсенең мөселман дини берләшмәләре турында белешмәлек чыгаруга көч куйган редакция коллегиясе әгъзаларына рәхмәт белдерде.
+1	Мөфти	мөфти	NOUN	_	Case=Nom|Number=Sing	19	nsubj	_	LangID=TT
+2	Зиннәт	Зиннәт	PROPN	_	Case=Nom|Number=Sing	1	flat	_	LangID=TT
+3	хәзрәт	хәзрәт	NOUN	_	Case=Nom|Number=Sing	1	flat	_	LangID=TT
+4	Садыйков	Садыйков	PROPN	_	Case=Nom|Number=Sing	1	flat	_	CSPoint=Садыйк§ов|LangID=MIXED[TT&RU]
+5	Төмән	Төмән	PROPN	_	Case=Nom|Number=Sing	6	nmod	_	LangID=TT
+6	өлкәсенең	өлкә	NOUN	_	Case=Gen|Number=Sing|Person[psor]=3	9	nmod	_	LangID=TT
+7	мөселман	мөселман	NOUN	_	Case=Nom|Number=Sing	9	nmod	_	LangID=TT
+8	дини	дини	ADJ	_	_	9	amod	_	LangID=TT
+9	берләшмәләре	берләшмә	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	19	obl	_	LangID=TT
+10	турында	турында	ADP	_	_	9	case	_	LangID=TT
+11	белешмәлек	белешмәлек	NOUN	_	Case=Nom|Number=Sing	12	obj	_	LangID=TT
+12	чыгаруга	чык	VERB	_	Case=Dat|Number=Sing|VerbForm=Vnoun|Voice=Cau	14	obl	_	LangID=TT
+13	көч	көч	NOUN	_	Case=Nom|Number=Sing	14	obj	_	LangID=TT
+14	куйган	куй	VERB	_	Tense=Past|VerbForm=Part	17	amod	_	LangID=TT
+15	редакция	редакция	NOUN	_	Case=Nom|Number=Sing	16	nmod	_	LangID=RU
+16	коллегиясе	коллегия	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	17	nmod	_	CSPoint=коллегия§се|LangID=MIXED[RU§TT]
+17	әгъзаларына	әгъза	NOUN	_	Case=Dat|Number=Plur|Person[psor]=3	19	obl	_	LangID=TT
+18	рәхмәт	рәхмәт	NOUN	_	Case=Nom|Number=Sing	19	obj	_	LangID=TT
+19	белдерде	бел	VERB	_	Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Cau	0	root	_	LangID=TT|SpaceAfter=No
+20	.	.	PUNCT	_	_	19	punct	_	LangID=OTHER
+
+# sent_id = 5840561_3
+# link = https://tatar-inform.tatar/news/religion/08-10-2021/t-m-nd-tatar-avtorlary-kitaplaryn-t-k-dim-ittel-r-5840561
+# genre = religion
+# text = Мөфти шулай ук мәгърифәтчелек характерындагы уртак чаралар уздырганда дини кагыйдәләрне үтәүнең кирәклеге турында искәртте.
+1	Мөфти	Мөфти	NOUN	_	Case=Nom|Number=Sing	14	nsubj	_	LangID=TT
+2	шулай	шулай	ADV	_	_	14	advmod	_	LangID=TT
+3	ук	ук	ADV	_	_	2	advmod	_	LangID=TT
+4	мәгърифәтчелек	мәгърифәтчелек	NOUN	_	Case=Nom|Number=Sing	5	nmod	_	LangID=TT
+5	характерындагы	характер	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	7	amod	_	CSPoint=характер§ындагы|LangID=MIXED[RU§TT]
+6	уртак	уртак	ADJ	_	_	7	amod	_	LangID=TT
+7	чаралар	чара	NOUN	_	Case=Nom|Number=Plur	8	obj	_	LangID=TT
+8	уздырганда	уз	VERB	_	Case=Loc|Tense=Past|VerbForm=Part|Voice=Cau	11	obl	_	LangID=TT
+9	дини	дини	ADJ	_	_	10	amod	_	LangID=TT
+10	кагыйдәләрне	кагыйдә	NOUN	Case=Acc|Number=Plur|Person[psor]=3	_	11	obj	_	LangID=TT
+11	үтәүнең	үтә	VERB	_	Case=Gen|Number=Sing|VerbForm=Vnoun	12	nmod	_	LangID=TT
+12	кирәклеге	кирәклек	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	14	obl	_	LangID=TT
+13	турында	турында	ADP	_	_	12	case	_	LangID=TT
+14	искәртте	искәрт	VERB	_	Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	LangID=TT|SpaceAfter=No
+15	.	.	PUNCT	_	_	14	punct	_	LangID=OTHER
+
+# sent_id = 5840561_4
+# link = https://tatar-inform.tatar/news/religion/08-10-2021/t-m-nd-tatar-avtorlary-kitaplaryn-t-k-dim-ittel-r-5840561
+# genre = religion
+# text = «Мөселман берләшмәләре һәм Төмән өлкәсендә дини объектлар» белешмәлеге турында «Төмән өлкәсе мөселманнарының өч үзәкләштерелгән дини оешмасы катнашында чыгарылган уникаль басмада Көнбатыш Себернең көньягында ислам таралышының тәфсилле тарихы бәян ителгән, төбәктәге һәрбер мөселман мәхәлләсе турында мәгълүмат бирелгән.
+1	«	«	PUNCT	_	_	3	punct	_	LangID=OTHER|SpaceAfter=No
+2	Мөселман	Мөселман	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	LangID=TT
+3	берләшмәләре	берләшмә	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	10	nmod	_	LangID=TT
+4	һәм	һәм	CCONJ	_	_	8	cc	_	LangID=TT
+5	Төмән	Төмән	PROPN	_	Case=Nom|Number=Sing	6	nmod	_	LangID=TT
+6	өлкәсендә	өлкә	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	8	nmod	_	LangID=TT
+7	дини	дини	ADJ	_	_	8	amod	_	LangID=TT
+8	объектлар	объект	NOUN	_	Case=Nom|Number=Plur	3	conj	_	CSPoint=объект§лар|LangID=MIXED[RU§TT]|SpaceAfter=No
+9	»	»	PUNCT	_	_	3	punct	_	LangID=OTHER
+10	белешмәлеге	белешмәлек	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	31	dep	_	LangID=TT
+11	турында	турында	ADP	_	_	10	case	_	LangID=TT
+12	«	«	PUNCT	_	_	23	punct	_	LangID=OTHER|SpaceAfter=No
+13	Төмән	Төмән	PROPN	_	Case=Nom|Number=Sing	14	nmod	_	LangID=TT
+14	өлкәсе	өлкә	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	15	nmod	_	LangID=TT
+15	мөселманнарының	мөселман	NOUN	_	Case=Gen|Number=Plur|Person[psor]=3	19	nmod	_	LangID=TT
+16	өч	өч	NUM	_	NumType=Card	19	nummod	_	LangID=TT
+17	үзәкләштерелгән	үзәкләш	VERB	_	Tense=Past|VerbForm=Part|Voice=CauPass	19	amod	_	LangID=TT
+18	дини	дини	ADJ	_	_	19	amod	_	LangID=TT
+19	оешмасы	оешма	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	20	nmod	_	LangID=TT
+20	катнашында	катнаш	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	21	obl	_	LangID=TT
+21	чыгарылган	чык	VERB	_	Tense=Past|VerbForm=Part|Voice=CauPass	23	amod	_	LangID=TT
+22	уникаль	уникаль	ADJ	_	_	23	amod	_	LangID=RU
+23	басмада	басма	NOUN	_	Case=Loc|Number=Sing	32	obl	_	LangID=TT
+24	Көнбатыш	көнбатыш	ADJ	_	_	25	amod	_	LangID=TT
+25	Себернең	себер	NOUN	_	Case=Gen|Number=Sing	26	nmod	_	LangID=TT
+26	көньягында	көньяк	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	28	nmod	_	LangID=TT
+27	ислам	ислам	NOUN	_	Case=Nom|Number=Sing	28	nmod	_	LangID=TT
+28	таралышының	таралыш	NOUN	_	Case=Gen|Number=Sing|Person[psor]=3	30	nmod	_	LangID=TT
+29	тәфсилле	тәфсилле	ADJ	_	_	30	amod	_	LangID=TT
+30	тарихы	тарих	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	31	nsubj	_	LangID=TT
+31	бәян	бәян	NOUN	_	_	32	compound:lvc	_	LangID=TT
+32	ителгән	ит	VERB	_	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	LangID=TT|SpaceAfter=No
+33	,	,	PUNCT	_	_	40	punct	_	LangID=OTHER
+34	төбәктәге	төбәк	NOUN	_	Case=Loc|Number=Sing	37	amod	_	LangID=TT
+35	һәрбер	һәрбер	DET	_	_	37	det	_	LangID=TT
+36	мөселман	мөселман	NOUN	_	Case=Nom|Number=Sing	37	nmod	_	LangID=TT
+37	мәхәлләсе	мәхәллә	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	40	obl	_	LangID=TT
+38	турында	турында	ADP	_	_	37	case	_	LangID=TT
+39	мәгълүмат	мәгълүмат	NOUN	_	Case=Nom|Number=Sing	40	obj	_	LangID=TT
+40	бирелгән	бир	VERB	_	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Pass	32	conj	_	LangID=TT|SpaceAfter=No
+41	.	.	PUNCT	_	_	40	punct	_	LangID=OTHER
+
+# sent_id = 5840561_5
+# link = https://tatar-inform.tatar/news/religion/08-10-2021/t-m-nd-tatar-avtorlary-kitaplaryn-t-k-dim-ittel-r-5840561
+# genre = religion
+# text = Эчтәлек шулай ук мөселман дини структуралары эшчәнлегенең тасвирламасын да үз эченә ала.
+1	Эчтәлек	эчтәлек	NOUN	_	Case=Nom|Number=Sing	12	nsubj	_	LangID=TT
+2	шулай	шулай	ADV	_	_	12	advmod	_	LangID=TT
+3	ук	ук	ADV	_	_	2	advmod	_	LangID=TT
+4	мөселман	мөселман	NOUN	_	Case=Nom|Number=Sing	6	nmod	_	LangID=TT
+5	дини	дини	ADJ	_	_	6	amod	_	LangID=TT
+6	структуралары	структура	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	7	nmod	_	CSPoint=структура§лары|LangID=MIXED[RU§TT]
+7	эшчәнлегенең	эшчәнлек	NOUN	_	Case=Gen|Number=Sing|Person[psor]=3	8	nmod	_	LangID=TT
+8	тасвирламасын	тасвирлама	NOUN	_	Case=Acc|Number=Sing|Person[psor]=3	12	obj	_	LangID=TT
+9	да	да	ADV	_	_	8	advmod	_	LangID=TT
+10	үз	үз	PRON	_	Case=Nom|Number=Sing|PronType=Prs|Reflex=Yes	11	nmod	_	LangID=TT
+11	эченә	эч	NOUN	_	Case=Dat|Number=Sing|Person[psor]=3	12	obl	_	LangID=TT
+12	ала	ал	VERB	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	LangID=TT|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	punct	_	LangID=OTHER
+
+# sent_id = 5840561_6
+# link = https://tatar-inform.tatar/news/religion/08-10-2021/t-m-nd-tatar-avtorlary-kitaplaryn-t-k-dim-ittel-r-5840561
+# genre = religion
+# text = Белешмәлекне Төмән өлкәсендә дини вәзгыятьне өйрәнү белән шөгыльләнүче белгечләргә ислам объектларында эшләүчеләр куллана ала.
+1	Белешмәлекне	белешмәлек	NOUN	_	Case=Acc|Number=Sing	13	obj	_	LangID=TT
+2	Төмән	Төмән	PROPN	_	Case=Nom|Number=Sing	3	nmod	_	LangID=TT
+3	өлкәсендә	өлкә	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	12	obl	_	LangID=TT
+4	дини	дини	ADJ	_	_	5	amod	_	LangID=TT
+5	вәзгыятьне	вәзгыять	NOUN	_	Case=Acc|Number=Sing	6	obj	_	LangID=TT
+6	өйрәнү	өйрән	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	8	obl	_	LangID=TT
+7	белән	белән	ADP	_	_	6	case	_	LangID=TT
+8	шөгыльләнүче	шөгыльлән	VERB	_	Tense=Pres|VerbForm=Part	9	amod	_	LangID=TT
+9	белгечләргә	белгеч	NOUN	_	Case=Dat|Number=Plur	12	obl	_	LangID=TT
+10	ислам	ислам	NOUN	_	Case=Nom|Number=Sing	11	nmod	_	LangID=TT
+11	объектларында	объект	NOUN	_	Case=Loc|Number=Plur|Person[psor]=3	12	obl	_	CSPoint=объект§ларында|LangID=MIXED[RU§TT]
+12	эшләүчеләр	эшлә	VERB	_	Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part	13	nsubj	_	LangID=TT
+13	куллана	куллан	VERB	_	Aspect=Prog|VerbForm=Conv	0	root	_	LangID=TT
+14	ала	ал	AUX	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	LangID=TT|SpaceAfter=No
+15	.	.	PUNCT	_	_	13	punct	_	LangID=OTHER
+
+# sent_id = 5840562_0
+# link = https://tatar-inform.tatar/news/science/08-10-2021/ilsur-adiullin-ukytuchylarny-totyp-kalu-chen-halyk-tarafynnan-yahshy-m-n-s-b-t-kir-k-5840562
+# genre = science
+# text = Татарстанның мәгариф һәм фән министры Илсур Һадиуллин әйтүенчә, укытучыларны мәктәпләрдә тотып калу өчен, халык тарафыннан яхшы мөнәсәбәт кирәк.
+1	Татарстанның	Татарстан	PROPN	_	Case=Gen|Number=Sing	5	nmod	_	LangID=TT
+2	мәгариф	мәгариф	NOUN	_	Case=Nom|Number=Sing	5	nmod	_	LangID=TT
+3	һәм	һәм	CCONJ	_	_	4	cc	_	LangID=TT
+4	фән	фән	NOUN	_	Case=Nom|Number=Sing	2	conj	_	LangID=TT
+5	министры	министр	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	8	nmod	_	CSPoint=министр§ы|LangID=MIXED[RU§TT]
+6	Илсур	Илсур	PROPN	_	Case=Nom|Number=Sing	5	flat	_	LangID=TT
+7	Һадиуллин	Һадиуллин	PROPN	_	Case=Nom|Number=Sing	5	flat	_	CSPoint=Һадиулл§ин|LangID=MIXED[TT§RU]
+8	әйтүенчә	әйт	VERB	_	Case=Equ|Person[psor]=3|VerbForm=Vnoun	20	obl	_	LangID=TT|SpaceAfter=No
+9	,	,	PUNCT	_	_	20	punct	_	LangID=OTHER
+10	укытучыларны	укы	VERB	_	Case=Acc|Number=Plur|Tense=Pres|VerbForm=Part	12	obj	_	LangID=TT
+11	мәктәпләрдә	мәктәп	NOUN	_	Case=Loc|Number=Plur	12	obl	_	LangID=TT
+12	тотып	тот	VERB	_	VerbForm=Conv	20	obl	_	LangID=TT
+13	калу	кал	AUX	_	Case=Nom|Number=Sing|VerbForm=Vnoun	12	aux	_	LangID=TT
+14	өчен	өчен	ADP	_	_	12	case	_	LangID=TT|SpaceAfter=No
+15	,	,	PUNCT	_	_	20	punct	_	LangID=OTHER
+16	халык	халык	NOUN	_	Case=Nom|Number=Sing	17	nmod	_	LangID=TT
+17	тарафыннан	тараф	NOUN	_	Case=Abl|Number=Sing|Person[psor]=3	19	nmod	_	LangID=TT
+18	яхшы	яхшы	ADJ	_	_	19	amod	_	LangID=TT
+19	мөнәсәбәт	мөнәсәбәт	NOUN	_	Case=Nom|Number=Sing	20	nsubj	_	LangID=TT
+20	кирәк	кирәк	ADJ	_	_	0	root	_	LangID=TT|SpaceAfter=No
+21	.	.	PUNCT	_	_	20	punct	_	LangID=OTHER
+
+# sent_id = 5840562_1
+# link = https://tatar-inform.tatar/news/science/08-10-2021/ilsur-adiullin-ukytuchylarny-totyp-kalu-chen-halyk-tarafynnan-yahshy-m-n-s-b-t-kir-k-5840562
+# genre = science
+# text = Бу фикерен ул Татарстан Президенты Рөстәм Миңнеханов Дәүләт Советына еллык юллама белән чыгышыннан соң әйтте.
+1	Бу	бу	DET	_	_	2	det	_	LangID=TT
+2	фикерен	фикер	NOUN	_	Case=Acc|Number=Sing	15	obj	_	LangID=TT
+3	ул	ул	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	LangID=TT
+4	Татарстан	Татарстан	PROPN	_	Case=Nom|Number=Sing	5	nmod	_	LangID=TT
+5	Президенты	президент	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	13	nmod	_	CSPoint=Президент§ы|LangID=MIXED[RU§TT]
+6	Рөстәм	Рөстәм	PROPN	_	Case=Nom|Number=Sing	5	flat	_	LangID=TT
+7	Миңнеханов	Миңнеханов	PROPN	_	Case=Nom|Number=Sing	5	flat	_	CSPoint=Миңнехан§ов|LangID=MIXED[TT§RU]
+8	Дәүләт	дәүләт	NOUN	_	Case=Nom|Number=Sing	9	nmod	_	LangID=TT
+9	Советына	совет	NOUN	_	Case=Dat|Number=Sing|Person[psor]=3	13	nmod	_	CSPoint=Совет§ына|LangID=MIXED[RU§TT]
+10	еллык	еллык	ADJ	_	_	11	amod	_	LangID=TT
+11	юллама	юллама	NOUN	_	Case=Nom|Number=Sing	13	nmod	_	LangID=TT
+12	белән	белән	ADP	_	_	11	case	_	LangID=TT
+13	чыгышыннан	чыгыш	NOUN	_	Case=Abl|Number=Sing|Person[psor]=3	15	obl	_	LangID=TT
+14	соң	соң	ADP	_	_	13	case	_	LangID=TT
+15	әйтте	әйт	VERB	_	Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	LangID=TT|SpaceAfter=No
+16	.	.	PUNCT	_	_	15	punct	_	LangID=OTHER
+
+# sent_id = 5840562_2
+# link = https://tatar-inform.tatar/news/science/08-10-2021/ilsur-adiullin-ukytuchylarny-totyp-kalu-chen-halyk-tarafynnan-yahshy-m-n-s-b-t-kir-k-5840562
+# genre = science
+# text = «Укытучыларны тотып калу өчен иң беренче укытучыга, гомумән, мәгариф системасына мөнәсәбәтне үзгәртергә кирәк.
+1	«	«	PUNCT	_	_	15	punct	_	LangID=OTHER|SpaceAfter=No
+2	Укытучыларны	укы	VERB	_	Case=Acc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Cau	3	obj	_	LangID=TT
+3	тотып	тот	VERB	_	VerbForm=Conv	15	obl	_	LangID=TT
+4	калу	кал	AUX	_	Case=Nom|Number=Sing|VerbForm=Vnoun	3	aux	_	LangID=TT
+5	өчен	өчен	ADP	_	_	3	case	_	LangID=TT
+6	иң	иң	ADV	_	_	7	advmod	_	LangID=TT
+7	беренче	беренче	ADJ	_	_	15	advmod	_	LangID=TT
+8	укытучыга	укы	VERB	_	Case=Dat|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Cau	15	obl	_	LangID=TT|SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	LangID=OTHER
+10	гомумән	гомумән	ADV	_	_	15	advmod	_	LangID=TT|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	punct	_	LangID=OTHER
+12	мәгариф	мәгариф	NOUN	_	Case=Nom|Number=Sing	13	nmod	_	LangID=TT
+13	системасына	система	NOUN	_	Case=Dat|Number=Sing|Person[psor]=3	14	nmod	_	CSPoint=система§сына|LangID=MIXED[RU§TT]
+14	мөнәсәбәтне	мөнәсәбәт	NOUN	_	Case=Acc|Number=Sing	15	obj	_	LangID=TT
+15	үзгәртергә	үзгәр	VERB	_	VerbForm=Inf|Voice=Cau	0	root	_	LangID=TT
+16	кирәк	кирәк	AUX	_	_	15	aux	_	LangID=TT|SpaceAfter=No
+17	.	.	PUNCT	_	_	15	punct	_	LangID=OTHER
+
+# sent_id = 5840562_3
+# link = https://tatar-inform.tatar/news/science/08-10-2021/ilsur-adiullin-ukytuchylarny-totyp-kalu-chen-halyk-tarafynnan-yahshy-m-n-s-b-t-kir-k-5840562
+# genre = science
+# text = Бу мөнәсәбәт ул Хөкүмәт, Президент тарафыннан бик яхшы.
+1	Бу	бу	DET	_	_	2	det	_	LangID=TT
+2	мөнәсәбәт	мөнәсәбәт	NOUN	_	Case=Nom|Number=Sing	9	nsubj	_	LangID=TT
+3	ул	ул	DET	_	_	4	det	_	LangID=TT
+4	Хөкүмәт	хөкүмәт	NOUN	_	Case=Nom|Number=Sing	9	obl	_	LangID=TT|SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	LangID=OTHER
+6	Президент	президент	NOUN	_	Case=Nom|Number=Sing	4	conj	_	LangID=RU
+7	тарафыннан	тараф	NOUN	_	Case=Abl|Number=Sing|Person[psor]=3	6	case	_	LangID=TT
+8	бик	бик	ADV	_	_	9	advmod	_	LangID=TT
+9	яхшы	яхшы	ADJ	_	_	0	root	_	LangID=TT|SpaceAfter=No
+10	.	.	PUNCT	_	_	9	punct	_	LangID=OTHER
+
+# sent_id = 5840562_4
+# link = https://tatar-inform.tatar/news/science/08-10-2021/ilsur-adiullin-ukytuchylarny-totyp-kalu-chen-halyk-tarafynnan-yahshy-m-n-s-b-t-kir-k-5840562
+# genre = science
+# text = Дәүләт дәрәҗәсендә борчылып сөйлиләр, ә менә халык, массакүләм мәгълүмат чаралары, башка оешмалар тарафыннан әгәр аларга яхшы караш булмаса, ул бик катлаулы», — диде министр «Татар-информ» хәбәрчесенә.
+1	Дәүләт	дәүләт	NOUN	_	Case=Nom|Number=Sing	2	nmod	_	LangID=TT
+2	дәрәҗәсендә	дәрәҗә	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	4	obl	_	LangID=TT
+3	борчылып	борч	VERB	_	VerbForm=Conv|Voice=Pass	4	advcl	_	LangID=TT
+4	сөйлиләр	сөйлә	VERB	_	Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	LangID=TT|SpaceAfter=No
+5	,	,	PUNCT	_	_	25	punct	_	LangID=OTHER
+6	ә	ә	CCONJ	_	_	25	cc	_	LangID=TT
+7	менә	менә	ADP	_	_	8	discourse	_	LangID=TT
+8	халык	халык	NOUN	_	Case=Nom|Number=Sing	16	nmod	_	LangID=TT|SpaceAfter=No
+9	,	,	PUNCT	_	_	12	punct	_	LangID=OTHER
+10	массакүләм	массакүләм	ADJ	_	_	12	amod	_	LangID=TT
+11	мәгълүмат	мәгълүмат	NOUN	_	Case=Nom|Number=Sing	12	nmod	_	CSPoint=масса§күләм|LangID=MIXED[RU§TT]
+12	чаралары	чара	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	8	flat	_	LangID=TT|SpaceAfter=No
+13	,	,	PUNCT	_	_	15	punct	_	LangID=OTHER
+14	башка	башка	ADJ	_	_	15	amod	_	LangID=TT
+15	оешмалар	оешма	NOUN	_	Case=Nom|Number=Plur	8	flat	_	LangID=TT
+16	тарафыннан	тараф	NOUN	_	Case=Abl|Number=Sing|Person[psor]=3	20	nmod	_	LangID=TT
+17	әгәр	әгәр	SCONJ	_	_	21	mark	_	LangID=TT
+18	аларга	ул	PRON	_	Case=Dat|Number=Plur|PronType=Prs	20	nmod	_	LangID=TT
+19	яхшы	яхшы	ADJ	_	_	20	amod	_	LangID=TT
+20	караш	караш	NOUN	_	Case=Nom|Number=Sing	21	nsubj	_	LangID=TT
+21	булмаса	бул	VERB	_	Mood=Cnd|Number=Sing|Person=3|Polarity=Neg	25	advcl	_	LangID=TT|SpaceAfter=No
+22	,	,	PUNCT	_	_	25	punct	_	LangID=OTHER
+23	ул	ул	PRON	_	Case=Nom|Number=Sing|PronType=Prs	25	nsubj	_	LangID=TT
+24	бик	бик	ADV	_	_	25	advmod	_	LangID=TT
+25	катлаулы	катлаулы	ADJ	_	_	4	conj	_	LangID=TT|SpaceAfter=No
+26	»	»	PUNCT	_	_	25	punct	_	LangID=OTHER|SpaceAfter=No
+27	,	,	PUNCT	_	_	29	punct	_	LangID=OTHER
+28	—	—	PUNCT	_	_	29	punct	_	LangID=OTHER
+29	диде	ди	VERB	_	Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	parataxis	_	LangID=TT
+30	министр	министр	NOUN	_	Case=Nom|Number=Sing	29	nsubj	_	LangID=RU
+31	«	«	PUNCT	_	_	32	punct	_	LangID=OTHER|SpaceAfter=No
+32	Татар-информ	татар-информ	PROPN	_	Case=Nom|Number=Sing	34	nmod	_	LangID=TT|SpaceAfter=No
+33	»	»	PUNCT	_	_	32	punct	_	LangID=TT
+34	хәбәрчесенә	хәбәрче	NOUN	_	Case=Dat|Number=Sing|Person[psor]=3	29	obl	_	LangID=TT|SpaceAfter=No
+35	.	.	PUNCT	_	_	29	punct	_	LangID=OTHER
+
+# sent_id = 5840562_6
+# link = https://tatar-inform.tatar/news/science/08-10-2021/ilsur-adiullin-ukytuchylarny-totyp-kalu-chen-halyk-tarafynnan-yahshy-m-n-s-b-t-kir-k-5840562
+# genre = science
+# text = Министр сүзләренчә, быел укырга керүчеләрнең исемлеген карасаң, күп кенә педагогик белгечлекләргә чит телләр дә керә.
+1	Министр	министр	NOUN	_	Case=Nom|Number=Sing	2	nmod	_	LangID=RU
+2	сүзләренчә	сүз	NOUN	_	Case=Equ|Number=Plur|Person[psor]=3	17	obl	_	LangID=TT|SpaceAfter=No
+3	,	,	PUNCT	_	_	17	punct	_	LangID=OTHER
+4	быел	быел	NOUN	_	Case=Nom|Number=Sing	6	obl	_	LangID=TT
+5	укырга	укы	VERB	_	VerbForm=Inf	6	advcl	_	LangID=TT
+6	керүчеләрнең	кер	VERB	_	Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part	7	nmod	_	LangID=TT
+7	исемлеген	исемлек	NOUN	_	Case=Acc|Number=Sing|Person[psor]=3	8	obj	_	LangID=TT
+8	карасаң	кара	VERB	_	Mood=Cnd|Number=Sing|Person=2	17	advcl	_	LangID=TT|SpaceAfter=No
+9	,	,	PUNCT	_	_	17	punct	_	LangID=OTHER
+10	күп	күп	ADJ	_	_	13	amod	_	LangID=TT
+11	кенә	кенә	ADV	_	_	10	advmod	_	LangID=TT
+12	педагогик	педагогик	ADJ	_	_	13	amod	_	LangID=RU
+13	белгечлекләргә	белгечлек	NOUN	_	Case=Dat|Number=Plur	17	obl	_	LangID=TT
+14	чит	чит	ADJ	_	_	15	amod	_	LangID=TT
+15	телләр	тел	NOUN	_	Case=Nom|Number=Plur	17	nsubj	_	LangID=TT
+16	дә	дә	ADV	_	_	15	advmod	_	LangID=TT
+17	керә	кер	VERB	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	LangID=TT|SpaceAfter=No
+18	.	.	PUNCT	_	_	17	punct	_	LangID=OTHER
+
+# sent_id = 5840562_7
+# link = https://tatar-inform.tatar/news/science/08-10-2021/ilsur-adiullin-ukytuchylarny-totyp-kalu-chen-halyk-tarafynnan-yahshy-m-n-s-b-t-kir-k-5840562
+# genre = science
+# text = «Математика һәм чит тел, тарих һәм чит тел буенча белем алган белгечләр мәктәпләргә кирәк, алар төпләнеп калыр дип өметләнәбез», — дип белдерде ул.
+1	«	«	PUNCT	_	_	16	punct	_	LangID=OTHER|SpaceAfter=No
+2	Математика	Математика	NOUN	_	Case=Nom|Number=Sing	13	obl	_	LangID=RU
+3	һәм	һәм	CCONJ	_	_	5	cc	_	LangID=TT
+4	чит	чит	ADJ	_	_	5	amod	_	LangID=TT
+5	тел	тел	NOUN	_	Case=Nom|Number=Sing	2	conj	_	LangID=TT|SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	LangID=OTHER
+7	тарих	тарих	NOUN	_	Case=Nom|Number=Sing	2	conj	_	LangID=TT
+8	һәм	һәм	CCONJ	_	_	10	cc	_	LangID=TT
+9	чит	чит	ADJ	_	_	10	amod	_	LangID=TT
+10	тел	тел	NOUN	_	Case=Nom|Number=Sing	7	conj	_	LangID=TT
+11	буенча	буенча	ADP	_	_	2	case	_	LangID=TT
+12	белем	белем	NOUN	_	Case=Nom|Number=Sing	13	obj	_	LangID=TT
+13	алган	ал	VERB	_	Tense=Pres|VerbForm=Part	14	amod	_	LangID=TT
+14	белгечләр	белгеч	NOUN	_	Case=Nom|Number=Plur	16	nsubj	_	LangID=TT
+15	мәктәпләргә	мәктәп	NOUN	_	Case=Dat|Number=Plur	16	obl	_	LangID=TT
+16	кирәк	кирәк	ADJ	_	_	0	root	_	LangID=TT|SpaceAfter=No
+17	,	,	PUNCT	_	_	22	punct	_	LangID=OTHER
+18	алар	ул	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	19	nsubj	_	LangID=TT
+19	төпләнеп	төплә	VERB	_	VerbForm=Conv|Voice=Pass	22	ccomp	_	LangID=TT
+20	калыр	кал	AUX	_	Mood=Irr|Number=Sing|Person=3|Tense=Fut|VerbForm=Part	19	aux	_	LangID=TT
+21	дип	дип	SCONJ	_	_	19	mark	_	LangID=TT
+22	өметләнәбез	өметлән	VERB	_	Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	16	parataxis	_	LangID=TT|SpaceAfter=No
+23	»	»	PUNCT	_	_	16	punct	_	LangID=OTHER|SpaceAfter=No
+24	,	,	PUNCT	_	_	27	punct	_	LangID=OTHER
+25	—	—	PUNCT	_	_	27	punct	_	LangID=OTHER
+26	дип	дип	SCONJ	_	_	27	cc	_	LangID=TT
+27	белдерде	бел	VERB	_	Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Cau	16	parataxis	_	LangID=TT
+28	ул	ул	PRON	_	_	27	nsubj	_	LangID=TT|SpaceAfter=No
+29	.	.	PUNCT	_	_	27	punct	_	LangID=OTHER
+
+# sent_id = 5840564_0
+# link = https://tatar-inform.tatar/news/tatar_world/08-10-2021/marat-hm-tov-telsez-halyk-akrynlap-mill-ten-d-yugaltyrga-m-mkin-5840564
+# genre = tatar_world
+# text = Татарстан Дәүләт Советы Рәисе урынбасары Марат Әхмәтов телсез халыкның милләтен дә югалта алуы турында кисәтте.
+1	Татарстан	Татарстан	PROPN	_	Case=Nom|Number=Sing	3	nmod	_	LangID=TT
+2	Дәүләт	дәүләт	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	LangID=TT
+3	Советы	совет	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	4	nmod	_	CSPoint=Совет§ы|LangID=MIXED[RU§TT]
+4	Рәисе	рәис	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	5	nmod	_	LangID=TT
+5	урынбасары	урынбасар	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	15	nsubj	_	LangID=TT
+6	Марат	Марат	PROPN	_	Case=Nom|Number=Sing	5	appos	_	LangID=TT
+7	Әхмәтов	Әхмәтов	PROPN	_	Case=Nom|Number=Sing	6	flat	_	CSPoint=Әхмәт§ов|LangID=MIXED[TT§RU]
+8	телсез	телсез	ADJ	_	_	9	amod	_	LangID=TT
+9	халыкның	халык	NOUN	_	Case=Gen|Number=Sing	12	nmod	_	LangID=TT
+10	милләтен	милләт	NOUN	_	Case=Acc|Number=Sing|Person[psor]=3	12	obj	_	LangID=TT
+11	дә	да	ADV	_	_	10	advmod	_	LangID=TT
+12	югалта	югал	VERB	_	Aspect=Prog|VerbForm=Part|Voice=Cau	15	obl	_	LangID=TT
+13	алуы	ал	AUX	_	Case=Nom|Number=Sing|Person[psor]=3|VerbForm=Vnoun	12	aux	_	LangID=TT
+14	турында	турында	ADP	_	_	12	case	_	LangID=TT
+15	кисәтте	кисәт	VERB	_	Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	LangID=TT|SpaceAfter=No
+16	.	.	PUNCT	_	_	15	punct	_	LangID=OTHER
+
+# sent_id = 5840564_1
+# link = https://tatar-inform.tatar/news/tatar_world/08-10-2021/marat-hm-tov-telsez-halyk-akrynlap-mill-ten-d-yugaltyrga-m-mkin-5840564
+# genre = tatar_world
+# text = «Милләтебезне телебез белән турыдан-туры бәйлим, чөнки телсез халык акрынлап милләтен дә югалтырга мөмкин.
+1	«	«	PUNCT	_	_	6	punct	_	LangID=TT|SpaceAfter=No
+2	Милләтебезне	милләт	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Plur|Person[psor]=1	6	obj	_	LangID=TT
+3	телебез	тел	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=1	6	obl	_	LangID=TT
+4	белән	белән	ADP	_	_	3	case	_	LangID=TT
+5	турыдан-туры	турыдан-туры	ADV	_	_	6	advmod	_	LangID=TT
+6	бәйлим	бәйлә	VERB	_	Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	LangID=TT|SpaceAfter=No
+7	,	,	PUNCT	_	_	15	punct	_	LangID=OTHER
+8	чөнки	чөнки	SCONJ	_	_	15	cc	_	LangID=TT
+9	телсез	телсез	ADJ	_	_	10	amod	_	LangID=TT
+10	халык	халык	NOUN	_	Case=Nom|Number=Sing	15	nsubj	_	LangID=TT
+11	акрынлап	акрынлап	ADV	_	_	14	advmod	_	LangID=TT
+12	милләтен	милләт	NOUN	_	Case=Acc|Number=Sing|Person[psor]=3	14	obj	_	LangID=TT
+13	дә	да	ADV	_	_	12	advmod	_	LangID=TT
+14	югалтырга	югал	VERB	_	VerbForm=Inf|Voice=Cau	15	advcl	_	LangID=TT
+15	мөмкин	мөмкин	ADJ	_	_	6	advcl	_	LangID=TT|SpaceAfter=No
+16	.	.	PUNCT	_	_	15	punct	_	LangID=OTHER
+
+# sent_id = 5840564_10
+# link = https://tatar-inform.tatar/news/tatar_world/08-10-2021/marat-hm-tov-telsez-halyk-akrynlap-mill-ten-d-yugaltyrga-m-mkin-5840564
+# genre = tatar_world
+# text = Республикабызда туган телнең торышы мактанырлык булмаса да, безгә аңлашырга мөмкинлек бирде.
+1	Республикабызда	республика	NOUN	_	Case=Loc|Number=Sing|Number[psor]=Plur|Person[psor]=1	6	obl	_	CSPoint=Республика§бызда|LangID=MIXED[RU§TT]
+2	туган	туган	ADJ	_	_	3	amod	_	LangID=TT
+3	телнең	тел	NOUN	_	Case=Gen|Number=Sing	4	nmod	_	LangID=TT
+4	торышы	торыш	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	6	nsubj	_	LangID=TT
+5	мактанырлык	мактанырлык	ADJ	_	_	6	xcomp	_	LangID=TT
+6	булмаса	бул	VERB	_	Mood=Cnd|Number=Sing|Person=3	12	advcl	_	LangID=TT
+7	да	да	ADV	_	_	6	advmod	_	LangID=TT|SpaceAfter=No
+8	,	,	PUNCT	_	_	12	punct	_	LangID=OTHER
+9	безгә	без	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	12	obl	_	LangID=TT
+10	аңлашырга	аңла	VERB	_	VerbForm=Inf|Voice=Rcp	11	advcl	_	LangID=TT
+11	мөмкинлек	мөмкинлек	NOUN	_	Case=Nom|Number=Sing	12	obj	_	LangID=TT
+12	бирде	бир	VERB	_	Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	LangID=TT|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	punct	_	LangID=OTHER
+
+# sent_id = 5840564_11
+# link = https://tatar-inform.tatar/news/tatar_world/08-10-2021/marat-hm-tov-telsez-halyk-akrynlap-mill-ten-d-yugaltyrga-m-mkin-5840564
+# genre = tatar_world
+# text = Безнең күп төрле җәмәгать оешмалары, матбугат чаралары, сәнгать учреждениеләре белән уртак проектлар гамәлдә.
+1	Безнең	без	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	5	nmod	_	LangID=TT
+2	күп	күп	ADJ	_	_	3	amod	_	LangID=TT
+3	төрле	төрле	ADJ	_	_	4	nmod	_	LangID=TT
+4	җәмәгать	җәмәгать	NOUN	_	Case=Nom|Number=Sing	5	nmod	_	LangID=TT
+5	оешмалары	оешма	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	15	obl	_	LangID=TT|SpaceAfter=No
+6	,	,	PUNCT	_	_	8	punct	_	LangID=OTHER
+7	матбугат	матбугат	NOUN	_	Case=Nom|Number=Sing	8	nmod	_	LangID=TT
+8	чаралары	чара	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	5	parataxis	_	LangID=TT|SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	_	LangID=OTHER
+10	сәнгать	сәнгать	NOUN	_	Case=Nom|Number=Sing	11	nmod	_	LangID=TT
+11	учреждениеләре	учреждение	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	5	parataxis	_	CSPoint=учреждение§ләре|LangID=MIXED[RU§TT]
+12	белән	белән	ADP	_	_	5	case	_	LangID=TT
+13	уртак	уртак	ADJ	_	_	14	amod	_	LangID=TT
+14	проектлар	проект	NOUN	_	Case=Nom|Number=Plur	15	nsubj	_	CSPoint=проект§лар|LangID=MIXED[RU§TT]
+15	гамәлдә	гамәл	NOUN	_	Case=Loc|Number=Sing	0	root	_	LangID=TT|SpaceAfter=No
+16	.	.	PUNCT	_	_	15	punct	_	LangID=OTHER
+
+# sent_id = 5840564_12
+# link = https://tatar-inform.tatar/news/tatar_world/08-10-2021/marat-hm-tov-telsez-halyk-akrynlap-mill-ten-d-yugaltyrga-m-mkin-5840564
+# genre = tatar_world
+# text = Алар халкыбызның туган телебезгә рухи ихтыяҗын үстерү мәсьәләсендә безгә хәйран булышыр дип өметләнәм.
+1	Алар	ул	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	LangID=TT
+2	халкыбызның	халык	NOUN	_	Case=Gen|Number=Sing|Number[psor]=Plur|Person[psor]=1	4	nmod	_	LangID=TT
+3	туган	туган	ADJ	_	_	4	amod	_	LangID=TT
+4	телебезгә	тел	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Plur|Person[psor]=1	7	obl	_	LangID=TT
+5	рухи	рухи	ADJ	_	_	6	amod	_	LangID=TT
+6	ихтыяҗын	ихтыяҗ	NOUN	_	Case=Acc|Number=Sing|Person[psor]=3	7	obj	_	LangID=TT
+7	үстерү	үс	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun|Voice=Cau	8	nmod	_	LangID=TT
+8	мәсьәләсендә	мәсьәлә	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	11	obl	_	LangID=TT
+9	безгә	без	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	11	obl	_	LangID=TT
+10	хәйран	хәйран	ADJ	_	_	11	advmod	_	LangID=TT
+11	булышыр	булыш	VERB	_	Mood=Irr|Number=Sing|Person=3|Tense=Fut|VerbForm=Part	0	root	_	LangID=TT
+12	дип	дип	SCONJ	_	_	13	cc	_	LangID=TT
+13	өметләнәм	өметлән	VERB	_	Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	conj	_	LangID=TT|SpaceAfter=No
+14	.	.	PUNCT	_	_	11	punct	_	LangID=OTHER
+
+# sent_id = 5840564_13
+# link = https://tatar-inform.tatar/news/tatar_world/08-10-2021/marat-hm-tov-telsez-halyk-akrynlap-mill-ten-d-yugaltyrga-m-mkin-5840564
+# genre = tatar_world
+# text = Президентыбызга рәхмәт, һәр мөрәҗәгать яклау табып килә», — диде.
+1	Президентыбызга	президент	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Plur|Person[psor]=1	2	obl	_	CSPoint=Президент§ыбызга|LangID=MIXED[RU§TT]
+2	рәхмәт	рәхмәт	NOUN	_	Case=Nom|Number=Sing	7	parataxis	_	LangID=TT|SpaceAfter=No
+3	,	,	PUNCT	_	_	7	punct	_	LangID=OTHER
+4	һәр	һәр	DET	_	_	5	det	_	LangID=TT
+5	мөрәҗәгать	мөрәҗәгать	NOUN	_	Case=Nom|Number=Sing	7	nsubj	_	LangID=TT
+6	яклау	якла	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	7	obj	_	LangID=TT
+7	табып	тап	VERB	_	VerbForm=Conv	0	root	_	LangID=TT
+8	килә	кил	AUX	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	LangID=TT|SpaceAfter=No
+9	»	»	PUNCT	_	_	7	punct	_	LangID=OTHER|SpaceAfter=No
+10	,	,	PUNCT	_	_	12	punct	_	LangID=OTHER
+11	—	—	PUNCT	_	_	12	punct	_	LangID=OTHER
+12	диде	ди	VERB	_	Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	parataxis	_	LangID=TT|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	punct	_	LangID=OTHER
+
+# sent_id = 5840564_2
+# link = https://tatar-inform.tatar/news/tatar_world/08-10-2021/marat-hm-tov-telsez-halyk-akrynlap-mill-ten-d-yugaltyrga-m-mkin-5840564
+# genre = tatar_world
+# text = Ә милләтле халык телле булырга тиеш.
+1	Ә	ә	CCONJ	_	_	5	cc	_	LangID=TT
+2	милләтле	милләтле	ADJ	_	_	3	amod	_	LangID=TT
+3	халык	халык	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	LangID=TT
+4	телле	телле	NOUN	_	_	5	xcomp	_	LangID=TT
+5	булырга	бул	VERB	_	VerbForm=Inf	0	root	_	LangID=TT
+6	тиеш	тиеш	AUX	_	_	5	aux	_	LangID=TT|SpaceAfter=No
+7	.	.	PUNCT	_	_	5	punct	_	LangID=OTHER
+
+# sent_id = 5840564_3
+# link = https://tatar-inform.tatar/news/tatar_world/08-10-2021/marat-hm-tov-telsez-halyk-akrynlap-mill-ten-d-yugaltyrga-m-mkin-5840564
+# genre = tatar_world
+# text = Татар теле ул дәүләтле, дәүләте булган тел», — диде Марат Әхмәтов «Татар-информ» хәбәрчесенә.
+1	Татар	татар	PROPN	_	Case=Nom|Number=Sing	2	nmod	_	LangID=TT
+2	теле	тел	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	8	nsubj	_	LangID=TT
+3	ул	ул	ADV	_	_	2	advmod	_	LangID=TT
+4	дәүләтле	дәүләтле	ADJ	_	_	7	xcomp	_	LangID=TT|SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	LangID=OTHER
+6	дәүләте	дәүләт	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	4	parataxis	_	LangID=TT
+7	булган	бул	VERB	_	Tense=Past|VerbForm=Part	8	amod	_	LangID=TT
+8	тел	тел	NOUN	_	Case=Nom|Number=Sing	0	root	_	LangID=TT|SpaceAfter=No
+9	»	»	PUNCT	_	_	8	punct	_	LangID=OTHER|SpaceAfter=No
+10	,	,	PUNCT	_	_	12	punct	_	LangID=OTHER
+11	—	—	PUNCT	_	_	12	punct	_	LangID=OTHER
+12	диде	ди	VERB	_	Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	parataxis	_	LangID=TT
+13	Марат	Марат	PROPN	_	Case=Nom|Number=Sing	12	nsubj	_	LangID=RU
+14	Әхмәтов	Әхмәтов	PROPN	_	Case=Nom|Number=Sing	13	flat	_	LangID=RU
+15	«	«	PUNCT	_	_	16	punct	_	LangID=OTHER|SpaceAfter=No
+16	Татар-информ	Татар-информ	PROPN	_	Case=Nom|Number=Sing	18	nmod	_	LangID=RU|SpaceAfter=No
+17	»	»	PUNCT	_	_	16	punct	_	LangID=OTHER
+18	хәбәрчесенә	хәбәрче	NOUN	_	Case=Dat|Number=Sing|Person[psor]=3	12	obl	_	LangID=TT|SpaceAfter=No
+19	.	.	PUNCT	_	_	12	punct	_	LangID=OTHER
+
+# sent_id = 5840564_4
+# link = https://tatar-inform.tatar/news/tatar_world/08-10-2021/marat-hm-tov-telsez-halyk-akrynlap-mill-ten-d-yugaltyrga-m-mkin-5840564
+# genre = tatar_world
+# text = Ул халык санын алу бик мөһим, җаваплы чор булганын искәртте.
+1	Ул	ул	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	LangID=TT
+2	халык	халык	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	LangID=TT
+3	санын	сан	NOUN	_	Case=Acc|Number=Sing|Person[psor]=3	4	obj	_	LangID=TT
+4	алу	ал	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	10	nsubj	_	LangID=TT
+5	бик	бик	ADV	_	_	6	advmod	_	LangID=TT
+6	мөһим	мөһим	ADJ	_	_	9	amod	_	LangID=TT|SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	LangID=OTHER
+8	җаваплы	җаваплы	ADJ	_	_	6	parataxis	_	LangID=TT
+9	чор	чор	NOUN	_	Case=Nom|Number=Sing	10	xcomp	_	LangID=TT
+10	булганын	бул	VERB	_	Case=Acc|Person[psor]=3|Tense=Past|VerbForm=Part	11	obj	_	LangID=TT
+11	искәртте	искәр	VERB	_	Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Cau	0	root	_	LangID=TT|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	punct	_	LangID=OTHER
+
+# sent_id = 5840564_5
+# link = https://tatar-inform.tatar/news/tatar_world/08-10-2021/marat-hm-tov-telsez-halyk-akrynlap-mill-ten-d-yugaltyrga-m-mkin-5840564
+# genre = tatar_world
+# text = «Ил күләмендә татарларның саны кимемәсен иде дип теләр идем.
+1	«	«	PUNCT	_	_	9	punct	_	LangID=OTHER|SpaceAfter=No
+2	Ил	ил	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	LangID=TT
+3	күләмендә	күләм	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	6	obl	_	LangID=TT
+4	татарларның	татар	NOUN	_	Case=Gen|Number=Plur	5	nmod	_	LangID=TT
+5	саны	сан	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	6	nsubj	_	LangID=TT
+6	кимемәсен	киме	VERB	_	Mood=Imp|Person=3|Polarity=Neg	9	ccomp	_	LangID=TT
+7	иде	иде	AUX	_	Number=Sing|Person=3	6	aux	_	LangID=TT
+8	дип	дип	SCONJ	_	_	6	cc	_	LangID=TT
+9	теләр	телә	VERB	_	Mood=Irr|Tense=Fut|VerbForm=Part	0	root	_	LangID=TT
+10	идем	иде	AUX	_	Number=Sing|Person=1	9	aux	_	LangID=TT|SpaceAfter=No
+11	.	.	PUNCT	_	_	9	punct	_	LangID=OTHER
+
+# sent_id = 5840564_6
+# link = https://tatar-inform.tatar/news/tatar_world/08-10-2021/marat-hm-tov-telsez-halyk-akrynlap-mill-ten-d-yugaltyrga-m-mkin-5840564
+# genre = tatar_world
+# text = Үрчү сәләте ягыннан татар милләте болай да утрак, төпле гаиләле халык.
+1	Үрчү	үрче	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	2	nmod	_	LangID=TT
+2	сәләте	сәләт	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	3	nmod	_	LangID=TT
+3	ягыннан	як	NOUN	_	Case=Abl|Number=Sing|Person[psor]=3	8	obl	_	LangID=TT
+4	татар	татар	NOUN	_	Case=Nom|Number=Sing	5	nmod	_	LangID=TT
+5	милләте	милләт	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	8	nsubj	_	LangID=TT
+6	болай	болай	ADV	_	_	8	advmod	_	LangID=TT
+7	да	да	ADV	_	_	6	advmod	_	LangID=TT
+8	утрак	утрак	ADJ	_	_	0	root	_	LangID=TT|SpaceAfter=No
+9	,	,	PUNCT	_	_	12	punct	_	LangID=OTHER
+10	төпле	төпле	ADJ	_	_	12	amod	_	LangID=TT
+11	гаиләле	гаиләле	ADJ	_	_	12	amod	_	LangID=TT
+12	халык	халык	NOUN	_	Case=Nom|Number=Sing	8	parataxis	_	LangID=TT|SpaceAfter=No
+13	.	.	PUNCT	_	_	8	punct	_	LangID=OTHER
+
+# sent_id = 5840564_7
+# link = https://tatar-inform.tatar/news/tatar_world/08-10-2021/marat-hm-tov-telsez-halyk-akrynlap-mill-ten-d-yugaltyrga-m-mkin-5840564
+# genre = tatar_world
+# text = Безгә үзебезне саклап, яклап, рухи ныклыгыбызны танытып, төрле төбәкләрдәге милләттәшләребез белән ныклы элемтәдә бер айлык сынауны уңышлы үтәргә кирәк», — диде.
+1	Безгә	без	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	21	obl	_	LangID=TT
+2	үзебезне	үз	PRON	_	Case=Acc|Number[psor]=Plur|Person[psor]=1|Reflex=Yes	3	obj	_	LangID=TT
+3	саклап	сакла	VERB	_	VerbForm=Conv	21	advcl	_	LangID=TT|SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	LangID=OTHER
+5	яклап	якла	VERB	_	VerbForm=Conv	3	parataxis	_	LangID=TT|SpaceAfter=No
+6	,	,	PUNCT	_	_	9	punct	_	LangID=OTHER
+7	рухи	рухи	ADJ	_	_	8	amod	_	LangID=TT
+8	ныклыгыбызны	ныклык	NOUN	_	Case=Acc|Number[psor]=Plur|Person[psor]=1	9	obj	_	LangID=TT
+9	танытып	таны	VERB	_	VerbForm=Conv|Voice=Cau	3	parataxis	_	LangID=TT|SpaceAfter=No
+10	,	,	PUNCT	_	_	21	punct	_	LangID=OTHER
+11	төрле	төрле	ADJ	_	_	12	amod	_	LangID=TT
+12	төбәкләрдәге	төбәк	NOUN	_	Case=Loc|Number=Plur	13	amod	_	LangID=TT
+13	милләттәшләребез	милләттәш	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Plur|Person[psor]=1	21	obl	_	LangID=TT
+14	белән	белән	ADP	_	_	13	case	_	LangID=TT
+15	ныклы	ныклы	ADJ	_	_	16	amod	_	LangID=TT
+16	элемтәдә	элемтә	NOUN	_	Case=Loc|Number=Sing	21	obl	_	LangID=TT
+17	бер	бер	NUM	_	NumType=Card	18	nummod	_	LangID=TT
+18	айлык	айлык	ADJ	_	_	19	amod	_	LangID=TT
+19	сынауны	сына	VERB	_	Case=Acc|Number=Sing|VerbForm=Vnoun	21	obj	_	LangID=TT
+20	уңышлы	уңышлы	ADJ	_	_	21	advmod	_	LangID=TT
+21	үтәргә	үт	VERB	_	VerbForm=Inf	0	root	_	LangID=TT
+22	кирәк	кирәк	AUX	_	_	21	aux	_	LangID=TT|SpaceAfter=No
+23	»	»	PUNCT	_	_	21	punct	_	LangID=OTHER|SpaceAfter=No
+24	,	,	PUNCT	_	_	26	punct	_	LangID=OTHER
+25	—	—	PUNCT	_	_	26	punct	_	LangID=OTHER
+26	диде	ди	VERB	_	Number=Sing|Person=3|Tense=Past|VerbForm=Fin	21	parataxis	_	LangID=TT|SpaceAfter=No
+27	.	.	PUNCT	_	_	26	punct	_	LangID=OTHER
+
+# sent_id = 5840564_8
+# link = https://tatar-inform.tatar/news/tatar_world/08-10-2021/marat-hm-tov-telsez-halyk-akrynlap-mill-ten-d-yugaltyrga-m-mkin-5840564
+# genre = tatar_world
+# text = Марат Әхмәтов Туган телләр елы кысаларында матур эшләргә өндәде.
+1	Марат	Марат	PROPN	_	Case=Nom|Number=Sing	9	nsubj	_	LangID=TT
+2	Әхмәтов	Әхмәтов	PROPN	_	Case=Nom|Number=Sing	1	flat	_	CSPoint=Әхмәт§ов|LangID=MIXED[TT§RU]
+3	Туган	туган	ADJ	_	_	4	amod	_	LangID=TT
+4	телләр	тел	NOUN	_	Case=Nom|Number=Plur	5	nmod	_	LangID=TT
+5	елы	ел	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	6	nmod	_	LangID=TT
+6	кысаларында	кыса	NOUN	_	Case=Loc|Number=Plur|Person[psor]=3	9	obl	_	LangID=TT
+7	матур	матур	ADJ	_	_	8	amod	_	LangID=TT
+8	эшләргә	эш	NOUN	_	Case=Dat|Number=Plur	9	obl	_	LangID=TT
+9	өндәде	өндә	VERB	_	Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	LangID=TT|SpaceAfter=No
+10	.	.	PUNCT	_	_	9	punct	_	LangID=OTHER
+
+# sent_id = 5840564_9
+# link = https://tatar-inform.tatar/news/tatar_world/08-10-2021/marat-hm-tov-telsez-halyk-akrynlap-mill-ten-d-yugaltyrga-m-mkin-5840564
+# genre = tatar_world
+# text = «Комиссия эшчәнлегендә елны шулай итеп игълан итү безгә бик тупланып эшләргә ярдәм итте.
+1	«	«	PUNCT	_	_	14	punct	_	LangID=TT|SpaceAfter=No
+2	Комиссия	комиссия	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	LangID=RU
+3	эшчәнлегендә	эшчәнлек	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	7	obl	_	LangID=TT
+4	елны	ел	NOUN	_	Case=Acc|Number=Sing	7	obj	_	LangID=TT
+5	шулай	шулай	ADV	_	_	6	compound:lvc	_	LangID=TT
+6	итеп	ит	VERB	_	VerbForm=Conv	8	advcl	_	LangID=TT
+7	игълан	игълан	NOUN	_	_	8	compound:lvc	_	LangID=TT
+8	итү	ит	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	14	nsubj	_	LangID=TT
+9	безгә	без	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	13	obl	_	LangID=TT
+10	бик	бик	ADV	_	_	11	advmod	_	LangID=TT
+11	тупланып	тупла	VERB	_	VerbForm=Conv|Voice=Pass	12	advcl	_	LangID=TT
+12	эшләргә	эшлә	VERB	_	VerbForm=Inf	13	advcl	_	LangID=TT
+13	ярдәм	ярдәм	NOUN	_	Case=Nom|Number=Sing	14	compound:lvc	_	LangID=TT
+14	итте	ит	VERB	_	Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	LangID=TT|SpaceAfter=No
+15	.	.	PUNCT	_	_	14	punct	_	LangID=OTHER
+
+# sent_id = 5840565_0
+# link = https://tatar-inform.tatar/news/health/08-10-2021/tatarstanda-s-d-z-kl-rend-11-oktyabrg-kad-r-vaktsinatsiya-yasatyrga-m-mkin-5840565
+# genre = health
+# text = Татарстанда коронавирустан беренче прививканы 11 октябрьгә кадәр сәүдә үзәкләрендә ясатырга мөмкин.
+1	Татарстанда	Татарстан	PROPN	_	Case=Loc|Number=Sing	11	obl	_	LangID=TT
+2	коронавирустан	коронавирус	NOUN	_	Case=Abl|Number=Sing	4	nmod	_	CSPoint=коронавирус§тан|LangID=MIXED[RU§TT]
+3	беренче	беренче	ADJ	_	_	4	amod	_	LangID=TT
+4	прививканы	прививка	NOUN	_	Case=Acc|Number=Sing	10	obj	_	CSPoint=прививка§ны|LangID=MIXED[RU§TT]
+5	11	11	NUM	_	_	10	obl	_	LangID=TT
+6	октябрьгә	октябрь	NOUN	_	Case=Dat|Number=Sing	5	flat	_	CSPoint=октябрь§гә|LangID=MIXED[RU§TT]
+7	кадәр	кадәр	ADP	_	_	6	case	_	LangID=TT
+8	сәүдә	сәүдә	NOUN	_	Case=Nom|Number=Sing	9	nmod	_	LangID=TT
+9	үзәкләрендә	үзәк	NOUN	_	Case=Abl|Number=Plur|Person[psor]=3	10	obl	_	LangID=TT
+10	ясатырга	яса	VERB	_	VerbForm=Inf|Voice=Cau	11	advcl	_	LangID=TT
+11	мөмкин	мөмкин	ADJ	_	_	0	root	_	LangID=TT|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	punct	_	LangID=OTHER
+
+# sent_id = 5840565_1
+# link = https://tatar-inform.tatar/news/health/08-10-2021/tatarstanda-s-d-z-kl-rend-11-oktyabrg-kad-r-vaktsinatsiya-yasatyrga-m-mkin-5840565
+# genre = health
+# text = Татарстан Сәламәтлек саклау министрлыгы матбугат хезмәтендә мобиль вакцинация пунктларының эш тәртибен аңлаттылар.
+1	Татарстан	Татарстан	PROPN	_	Case=Nom|Number=Sing	4	nmod	_	LangID=TT
+2	Сәламәтлек	сәламәтлек	NOUN	_	Case=Nom|Number=Sing	3	obj	_	LangID=TT
+3	саклау	сакла	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	4	nmod	_	LangID=TT
+4	министрлыгы	министрлык	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	6	nmod	_	CSPoint=министр§лыгы|LangID=MIXED[RU§TT]
+5	матбугат	матбугат	NOUN	_	Case=Nom|Number=Sing	6	nmod	_	LangID=TT
+6	хезмәтендә	хезмәт	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	12	obl	_	LangID=TT
+7	мобиль	мобиль	ADJ	_	_	9	amod	_	LangID=RU
+8	вакцинация	вакцинация	NOUN	_	Case=Loc|Number=Sing	9	nmod	_	LangID=RU
+9	пунктларының	пункт	NOUN	_	Case=Gen|Number=Plur|Person[psor]=3	11	nmod	_	CSPoint=пункт§ларының|LangID=MIXED[RU§TT]
+10	эш	эш	NOUN	_	Case=Nom|Number=Sing	11	nmod	_	LangID=TT
+11	тәртибен	тәртип	NOUN	_	Case=Acc|Number=Sing|Person[psor]=3	12	obj	_	LangID=TT
+12	аңлаттылар	аңла	VERB	_	Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Cau	0	root	_	LangID=TT|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	punct	_	LangID=OTHER
+
+# sent_id = 5840565_10
+# link = https://tatar-inform.tatar/news/health/08-10-2021/tatarstanda-s-d-z-kl-rend-11-oktyabrg-kad-r-vaktsinatsiya-yasatyrga-m-mkin-5840565
+# genre = health
+# text = Моннан тыш, Covid-19 инфекциясеннән прививканы яшәү урыны буенча поликлиникада ясатырга мөмкин.
+1	Моннан	бу	PRON	_	Case=Abl|Number=Sing|PronType=Dem	12	obl	_	LangID=TT
+2	тыш	тыш	ADP	_	_	1	case	_	LangID=TT|SpaceAfter=No
+3	,	,	PUNCT	_	_	12	punct	_	LangID=OTHER
+4	Covid-19	Covid-19	NOUN	_	Case=Nom|Number=Sing	5	nmod	_	LangID=OTHER
+5	инфекциясеннән	инфекция	NOUN	_	Case=Abl|Number=Sing|Person[psor]=3	6	nmod	_	CSPoint=инфекция§сеннән|LangID=MIXED[RU§TT]
+6	прививканы	прививка	NOUN	_	Case=Acc|Number=Sing	11	obj	_	CSPoint=прививка§ны|LangID=MIXED[RU§TT]
+7	яшәү	яшә	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	8	nmod	_	LangID=TT
+8	урыны	урын	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	11	obl	_	LangID=TT
+9	буенча	буенча	ADP	_	_	8	case	_	LangID=TT
+10	поликлиникада	поликлиника	NOUN	_	Case=Loc|Number=Sing	11	obl	_	CSPoint=поликлиника§да|LangID=MIXED[RU§TT]
+11	ясатырга	яса	VERB	_	VerbForm=Inf|Voice=Cau	12	advcl	_	LangID=TT
+12	мөмкин	мөмкин	ADJ	_	_	0	root	_	LangID=TT|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	punct	_	LangID=OTHER
+
+# sent_id = 5840565_7
+# link = https://tatar-inform.tatar/news/health/08-10-2021/tatarstanda-s-d-z-kl-rend-11-oktyabrg-kad-r-vaktsinatsiya-yasatyrga-m-mkin-5840565
+# genre = health
+# text = Әмма сәүдә үзәгендә вакцинация пунктына аерым керү урыны оештырылса, ул барлык теләүчеләр өчен эшне дәвам итәчәк.
+1	Әмма	әмма	CCONJ	_	_	9	cc	_	LangID=TT
+2	сәүдә	сәүдә	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	LangID=TT
+3	үзәгендә	үзәк	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	9	obl	_	LangID=TT
+4	вакцинация	вакцинация	NOUN	_	Case=Nom|Number=Sing	5	nmod	_	LangID=RU
+5	пунктына	пункт	NOUN	_	Case=Dat|Number=Sing|Person[psor]=3	7	obl	_	CSPoint=пункт§ына|LangID=MIXED[RU§TT]
+6	аерым	аерым	ADV	_	_	7	advmod	_	LangID=TT
+7	керү	кер	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	8	nmod	_	LangID=TT
+8	урыны	урын	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	9	nsubj	_	LangID=TT
+9	оештырылса	оеш	VERB	_	Mood=Cnd|Person=3|Voice=CauPass	16	advcl	_	LangID=TT|SpaceAfter=No
+10	,	,	PUNCT	_	_	16	punct	_	LangID=OTHER
+11	ул	ул	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	LangID=TT
+12	барлык	барлык	ADJ	_	_	13	amod	_	LangID=TT
+13	теләүчеләр	телә	VERB	_	Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part	16	obl	_	LangID=TT
+14	өчен	өчен	ADP	_	_	13	case	_	LangID=TT
+15	эшне	эш	NOUN	_	Case=Acc|Number=Sing	16	obj	_	LangID=TT
+16	дәвам	дәвам	NOUN	_	Case=Nom|Number=Sing	17	compound:lvc	_	LangID=TT
+17	итәчәк	ит	VERB	_	Number=Sing|Person=3|Tense=Fut|VerbForm=Part	0	root	_	LangID=TT|SpaceAfter=No
+18	.	.	PUNCT	_	_	17	punct	_	LangID=OTHER
+
+# sent_id = 5840565_8
+# link = https://tatar-inform.tatar/news/health/08-10-2021/tatarstanda-s-d-z-kl-rend-11-oktyabrg-kad-r-vaktsinatsiya-yasatyrga-m-mkin-5840565
+# genre = health
+# text = Хәзер Татарстанда стационар һәм мобиль бригадалар өчен 163 вакцинация пункты эшли.
+1	Хәзер	хәзер	ADV	_	_	11	advmod	_	LangID=TT
+2	Татарстанда	Татарстан	PROPN	_	Case=Loc|Number=Sing	11	obl	_	LangID=TT
+3	стационар	стационар	ADJ	_	_	6	amod	_	LangID=RU
+4	һәм	һәм	CCONJ	_	_	5	cc	_	LangID=TT
+5	мобиль	мобиль	ADJ	_	_	3	conj	_	LangID=RU
+6	бригадалар	бригада	NOUN	_	Case=Nom|Number=Plur	11	obl	_	CSPoint=бригада§лар|LangID=MIXED[RU§TT]
+7	өчен	өчен	ADP	_	_	6	case	_	LangID=TT
+8	163	163	NUM	_	_	10	nummod	_	LangID=TT
+9	вакцинация	вакцинация	NOUN	Case=Nom|Number=Sing	_	10	nmod	_	LangID=RU
+10	пункты	пункт	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	11	nsubj	_	CSPoint=пункт§ы|LangID=MIXED[RU§TT]
+11	эшли	эшлә	VERB	_	Person=3|Tense=Pres|VerbForm=Fin	0	root	_	LangID=TT|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	punct	_	LangID=OTHER
+
+# sent_id = 5840565_9
+# link = https://tatar-inform.tatar/news/health/08-10-2021/tatarstanda-s-d-z-kl-rend-11-oktyabrg-kad-r-vaktsinatsiya-yasatyrga-m-mkin-5840565
+# genre = health
+# text = Ихтыяҗ булса, аларның саны арттырылачак.
+1	Ихтыяҗ	ихтыяҗ	ADJ	_	_	2	xcomp	_	LangID=TT
+2	булса	бул	VERB	_	Mood=Cnd|Person=3	6	advcl	_	LangID=TT|SpaceAfter=No
+3	,	,	PUNCT	_	_	6	punct	_	LangID=OTHER
+4	аларның	ул	PRON	_	Case=Gen|Number=Plur|PronType=Prs	5	nmod	_	LangID=TT
+5	саны	сан	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	6	nsubj	_	LangID=TT
+6	арттырылачак	арт	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Part|Voice=CauPass	0	root	_	LangID=TT|SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	LangID=OTHER
+
+# sent_id = 5840566_0
+# link = https://tatar-inform.tatar/news/incident/08-10-2021/kazanda-bilgesez-keshe-ir-atny-yulga-etep-chygargannan-so-inayat-eshe-kuzgatyldy-5840566
+# genre = incident
+# text = Социаль челтәрдә Казанда Тукай урамында низаг вакытында билгесез кеше ир-атны юлга этеп чыгарган һәм аны автомобиль таптаткан.
+1	Социаль	социаль	ADJ	_	_	2	amod	_	LangID=RU
+2	челтәрдә	челтәр	NOUN	_	Case=Loc|Number=Sing	12	obl	_	LangID=TT
+3	Казанда	Казан	PROPN	_	Case=Loc|Number=Sing	12	obl	_	LangID=TT
+4	Тукай	Тукай	PROPN	_	Case=Nom|Number=Sing	5	nmod	_	LangID=TT
+5	урамында	урам	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	12	obl	_	LangID=TT
+6	низаг	низаг	NOUN	_	Case=Nom|Number=Sing	7	nmod	_	LangID=TT
+7	вакытында	вакыт	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	12	obl	_	LangID=TT
+8	билгесез	билгесез	ADJ	_	_	9	amod	_	LangID=TT
+9	кеше	кеше	NOUN	_	Case=Nom|Number=Sing	12	nsubj	_	LangID=TT
+10	ир-атны	ир-ат	NOUN	_	Case=Acc|Number=Sing	12	obj	_	LangID=TT
+11	юлга	юл	NOUN	_	Case=Dat|Number=Sing	12	obl	_	LangID=TT
+12	этеп	эт	VERB	_	VerbForm=Conv	0	root	_	LangID=TT
+13	чыгарган	чык	AUX	_	Person=3|Tense=Past|VerbForm=Part|Voice=Cau	12	aux	_	LangID=TT
+14	һәм	һәм	CCONJ	_	_	17	cc	_	LangID=TT
+15	аны	ул	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	17	obj	_	LangID=TT
+16	автомобиль	автомобиль	ADJ	_	_	17	nsubj	_	LangID=RU
+17	таптаткан	тапта	VERB	_	Person=3|Tense=Past|VerbForm=Part|Voice=Cau	12	conj	_	LangID=TT|SpaceAfter=No
+18	.	.	PUNCT	_	_	17	punct	_	LangID=OTHER
+
+# sent_id = 5840566_1
+# link = https://tatar-inform.tatar/news/incident/08-10-2021/kazanda-bilgesez-keshe-ir-atny-yulga-etep-chygargannan-so-inayat-eshe-kuzgatyldy-5840566
+# genre = incident
+# text = Тикшерү ачыклаганча, бу хәл 5 октябрьдә кич булган.
+1	Тикшерү	тикшер	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	2	nsubj	_	LangID=TT
+2	ачыклаганча	ачыкла	VERB	_	Case=Equ|Tense=Past|VerbForm=Part	9	advcl	_	LangID=TT|SpaceAfter=No
+3	,	,	PUNCT	_	_	9	punct	_	LangID=OTHER
+4	бу	бу	DET	_	_	5	det	_	LangID=TT
+5	хәл	хәл	NOUN	_	Case=Nom|Number=Sing	9	nsubj	_	LangID=TT
+6	5	5	NUM	_	_	9	obl	_	LangID=TT
+7	октябрьдә	октябрь	NOUN	_	Case=Loc|Number=Sing	6	flat	_	CSPoint=октябрь§дә|LangID=MIXED[RU§TT]
+8	кич	кич	NOUN	_	Case=Nom|Number=Sing	9	obl	_	LangID=TT
+9	булган	бул	VERB	_	Person=3|Tense=Past|VerbForm=Part	0	root	_	LangID=TT|SpaceAfter=No
+10	.	.	PUNCT	_	_	9	punct	_	LangID=OTHER
+
+# sent_id = 5840566_2
+# link = https://tatar-inform.tatar/news/incident/08-10-2021/kazanda-bilgesez-keshe-ir-atny-yulga-etep-chygargannan-so-inayat-eshe-kuzgatyldy-5840566
+# genre = incident
+# text = Әлегә билгесез кеше 27 яшьлек ир-атны Skoda автомобиле тәгәрмәче астына эткән.
+1	Әлегә	әле	ADV	_	_	11	advmod	_	LangID=TT
+2	билгесез	билгесез	ADJ	_	_	3	amod	_	LangID=TT
+3	кеше	кеше	NOUN	_	Case=Nom|Number=Sing	11	nsubj	_	LangID=TT
+4	27	27	NUM	_	NumType=Card	5	nummod	_	LangID=TT
+5	яшьлек	яшьлек	ADJ	_	_	6	amod	_	LangID=TT
+6	ир-атны	ир-ат	NOUN	_	Case=Acc|Number=Sing	11	obj	_	LangID=TT
+7	Skoda	Skoda	NOUN	_	Case=Nom|Foreign=Yes|Number=Sing	8	nmod	_	LangID=OTHER
+8	автомобиле	автомобиль	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	9	nmod	_	CSPoint=автомобил§е|LangID=MIXED[RU§TT]
+9	тәгәрмәче	тәгәрмәч	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	10	nmod	_	LangID=TT
+10	астына	ас	NOUN	_	Case=Dat|Number=Sing|Person[psor]=3	11	obl	_	LangID=TT
+11	эткән	эт	VERB	_	Number=Sing|Person=3|Tense=Past|VerbForm=Part	0	root	_	LangID=TT|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	punct	_	LangID=OTHER
+
+# sent_id = 5840566_3
+# link = https://tatar-inform.tatar/news/incident/08-10-2021/kazanda-bilgesez-keshe-ir-atny-yulga-etep-chygargannan-so-inayat-eshe-kuzgatyldy-5840566
+# genre = incident
+# text = Хәзер имгәнгән кеше хастаханәдә ята.
+1	Хәзер	хәзер	ADV	_	_	5	advmod	_	LangID=TT
+2	имгәнгән	имгән	VERB	_	Tense=Past|VerbForm=Part	3	amod	_	LangID=TT
+3	кеше	кеше	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	LangID=TT
+4	хастаханәдә	хастаханә	NOUN	_	Case=Loc|Number=Sing	5	obl	_	LangID=TT
+5	ята	ят	VERB	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	LangID=TT|SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	LangID=OTHER
+
+# sent_id = 5840566_4
+# link = https://tatar-inform.tatar/news/incident/08-10-2021/kazanda-bilgesez-keshe-ir-atny-yulga-etep-chygargannan-so-inayat-eshe-kuzgatyldy-5840566
+# genre = incident
+# text = «Үтерергә омтылу» маддәсе буенча җинаять эше кузгатылган.
+1	«	«	PUNCT	_	_	3	punct	_	LangID=OTHER|SpaceAfter=No
+2	Үтерергә	үтер	VERB	_	VerbForm=Inf	3	advcl	_	LangID=TT
+3	омтылу	омтыл	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	5	nmod	_	LangID=TT|SpaceAfter=No
+4	»	»	PUNCT	_	_	3	punct	_	LangID=OTHER
+5	маддәсе	маддә	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	9	obl	_	LangID=TT
+6	буенча	буенча	ADP	_	_	5	case	_	LangID=TT
+7	җинаять	җинаять	NOUN	_	Case=Nom|Number=Sing	8	nmod	_	LangID=TT
+8	эше	эш	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	9	nsubj	_	LangID=TT
+9	кузгатылган	кузгат	VERB	_	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	LangID=TT|SpaceAfter=No
+10	.	.	PUNCT	_	_	9	punct	_	LangID=OTHER
+
+# sent_id = 5840566_5
+# link = https://tatar-inform.tatar/news/incident/08-10-2021/kazanda-bilgesez-keshe-ir-atny-yulga-etep-chygargannan-so-inayat-eshe-kuzgatyldy-5840566
+# genre = incident
+# text = Хәзер тикшерүчеләр бу хәл килеп чыгу сәбәпләрен ачыклый, шулай ук ир-атны юлга этеп чыгарган кешене эзлиләр, дип хәбәр итте Россия Тикшерү идарәсенең Татарстан буенча Тикшерү идарәсе җитәкчесенең өлкән ярдәмчесе Андрей Шептицкий.
+1	Хәзер	хәзер	ADV	_	_	8	advmod	_	LangID=TT
+2	тикшерүчеләр	тикшер	VERB	_	Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part	8	nsubj	_	LangID=TT
+3	бу	бу	DET	_	_	4	det	_	LangID=TT
+4	хәл	хәл	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	LangID=TT
+5	килеп	кил	VERB	_	VerbForm=Conv	7	nmod	_	LangID=TT
+6	чыгу	чык	AUX	_	Case=Nom|Number=Sing|VerbForm=Vnoun	5	aux	_	LangID=TT
+7	сәбәпләрен	сәбәп	NOUN	_	Case=Acc|Number=Plur|Person[psor]=3	8	obj	_	LangID=TT
+8	ачыклый	ачыкла	VERB	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	ccomp	_	LangID=TT|SpaceAfter=No
+9	,	,	PUNCT	_	_	17	punct	_	LangID=OTHER
+10	шулай	шулай	ADV	_	_	17	advmod	_	LangID=TT
+11	ук	ук	ADV	_	_	10	advmod	_	LangID=TT
+12	ир-атны	ир-ат	NOUN	_	Case=Acc|Number=Sing	14	obj	_	LangID=TT
+13	юлга	юл	NOUN	_	Case=Dat|Number=Sing	14	obl	_	LangID=TT
+14	этеп	эт	VERB	_	VerbForm=Conv	16	amod	_	LangID=TT
+15	чыгарган	чык	AUX	_	Tense=Past|VerbForm=Part|Voice=Cau	14	aux	_	LangID=TT
+16	кешене	кеше	NOUN	_	Case=Acc|Number=Sing	17	obj	_	LangID=TT
+17	эзлиләр	эзлә	VERB	_	Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	LangID=TT|SpaceAfter=No
+18	,	,	PUNCT	_	_	19	punct	_	LangID=OTHER
+19	дип	дип	SCONJ	_	_	8	mark	_	LangID=TT
+20	хәбәр	хәбәр	NOUN	_	Case=Nom|Number=Sing	21	compound:lvc	_	LangID=TT
+21	итте	ит	VERB	_	Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	LangID=TT
+22	Россия	Россия	PROPN	_	Case=Nom|Number=Sing	24	nmod	_	LangID=RU
+23	Тикшерү	тикшер	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	24	nmod	_	LangID=TT
+24	идарәсенең	идарә	NOUN	_	Case=Gen|Number=Sing|Person[psor]=3	28	nmod	_	LangID=TT
+25	Татарстан	Татарстан	PROPN	_	Case=Nom|Number=Sing	27	obl	_	LangID=TT
+26	буенча	буенча	ADP	_	_	25	case	_	LangID=TT
+27	Тикшерү	тикшер	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	28	nmod	_	LangID=TT
+28	идарәсе	идарә	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	29	nmod	_	LangID=TT
+29	җитәкчесенең	җитәкче	NOUN	_	Case=Gen|Number=Sing|Person[psor]=3	31	nmod	_	LangID=TT
+30	өлкән	өлкән	ADJ	_	_	31	amod	_	LangID=TT
+31	ярдәмчесе	ярдәмче	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	21	nsubj	_	LangID=TT
+32	Андрей	Андрей	PROPN	_	Case=Nom|Number=Sing	31	appos	_	LangID=RU
+33	Шептицкий	Шептицкий	PROPN	_	Case=Nom|Number=Sing	32	flat	_	LangID=RU|SpaceAfter=No
+34	.	.	PUNCT	_	_	21	punct	_	LangID=OTHER
+
+# sent_id = 5840581_0
+# link = https://tatar-inform.tatar/news/ecology/08-10-2021/tatarstanda-toman-m-7-gradus-salkyn-k-tel-5840581
+# genre = ecology
+# text = Татарстанда томан төшәчәк, күз күреме 500 метр яки кимрәк булырга мөмкин.
+1	Татарстанда	Татарстан	PROPN	_	Case=Loc|Number=Sing	3	obl	_	LangID=TT
+2	томан	томан	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	LangID=TT
+3	төшәчәк	төш	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Part	0	root	_	LangID=TT|SpaceAfter=No
+4	,	,	PUNCT	_	_	12	punct	_	LangID=OTHER
+5	күз	күз	NOUN	_	Case=Nom|Number=Sing	6	nmod	_	LangID=TT
+6	күреме	күрем	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	11	nsubj	_	LangID=TT
+7	500	500	NUM	_	NumType=Card	8	nummod	_	LangID=TT
+8	метр	метр	NOUN	_	Case=Nom|Number=Sing	11	xcomp	_	LangID=RU
+9	яки	яки	CCONJ	_	_	10	cc	_	LangID=TT
+10	кимрәк	ким	ADJ	_	Degree=Cmp	8	conj	_	LangID=TT
+11	булырга	бул	VERB	_	VerbForm=Inf	12	advcl	_	LangID=TT
+12	мөмкин	мөмкин	ADJ	_	_	3	parataxis	_	LangID=TT|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	punct	_	LangID=OTHER
+
+# sent_id = 5840581_1
+# link = https://tatar-inform.tatar/news/ecology/08-10-2021/tatarstanda-toman-m-7-gradus-salkyn-k-tel-5840581
+# genre = ecology
+# text = Татарстан Гидрометеорология һәм әйләнә-тирә мохитне күзәтү үзәге хәбәр иткәнчә, һава торышы болытлы һәм коры булачак.
+1	Татарстан	Татарстан	PROPN	_	Case=Nom|Number=Sing	7	nmod	_	LangID=TT
+2	Гидрометеорология	Гидрометеорология	NOUN	_	Case=Nom|Number=Sing	7	nmod	_	LangID=RU
+3	һәм	һәм	CCONJ	_	_	6	cc	_	LangID=TT
+4	әйләнә-тирә	әйләнә-тирә	ADJ	_	_	5	amod	_	LangID=TT
+5	мохитне	мохитне	NOUN	_	Case=Acc|Number=Sing	6	obj	_	LangID=TT
+6	күзәтү	күзәтү	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	2	conj	_	LangID=TT
+7	үзәге	үзәге	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	8	nsubj	_	LangID=TT
+8	хәбәр	хәбәр	NOUN	_	Case=Nom|Number=Sing	9	compound:lvc	_	LangID=TT
+9	иткәнчә	иткәнчә	VERB	_	Case=Equ|Tense=Past|VerbForm=Part	16	advcl	_	LangID=TT|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	punct	_	LangID=OTHER
+11	һава	һава	NOUN	_	Case=Nom|Number=Sing	12	nmod	_	LangID=TT
+12	торышы	торышы	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	16	nsubj	_	LangID=TT
+13	болытлы	болытлы	ADJ	_	_	16	xcomp	_	LangID=TT
+14	һәм	һәм	CCONJ	_	_	15	cc	_	LangID=TT
+15	коры	коры	ADJ	_	_	13	conj	_	LangID=TT
+16	булачак	булачак	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Part	0	root	_	LangID=TT|SpaceAfter=No
+17	.	.	PUNCT	_	_	16	punct	_	LangID=OTHER
+
+# sent_id = 5840581_2
+# link = https://tatar-inform.tatar/news/ecology/08-10-2021/tatarstanda-toman-m-7-gradus-salkyn-k-tel-5840581
+# genre = ecology
+# text = Җил көнбатыш һәм төньяк-көнбатыштан уртача тизлектә фаразлана.
+1	Җил	җил	NOUN	_	Case=Nom|Number=Sing	7	nsubj	_	LangID=TT
+2	көнбатыш	көнбатыш	NOUN	_	Case=Nom|Number=Sing	7	obl	_	LangID=TT
+3	һәм	һәм	CCONJ	_	_	4	cc	_	LangID=TT
+4	төньяк-көнбатыштан	төньяк-көнбатыш	NOUN	_	Case=Nom|Number=Sing	2	conj	_	LangID=TT
+5	уртача	уртача	ADJ	_	_	6	amod	_	LangID=TT
+6	тизлектә	тизлек	NOUN	_	Case=Loc|Number=Sing	7	obl	_	LangID=TT
+7	фаразлана	фаразла	VERB	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	LangID=TT|SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	_	LangID=OTHER
+
+# sent_id = 5840591_0
+# link = https://tatar-inform.tatar/news/society/08-10-2021/t-b-n-kama-eztabarlary-sugyshta-lak-bulgan-soldatny-s-den-tugannaryna-tapshyrdy-5840591
+# genre = society
+# text = Түбән Каманың «Татнефть-поиск» эзләнү отряды вәкилләре Кырымда Хәтер вахтасында катнашып, сугыш вакытында һәлак булган Чиләбе кешесе Василий Архипович Ломановның җәсәден табалар.
+1	Түбән	Түбән	ADJ	_	_	2	amod	_	LangID=TT
+2	Каманың	Кама	PROPN	_	Case=Gen|Number=Sing	9	nmod	_	LangID=TT
+3	«	«	PUNCT	_	_	4	punct	_	LangID=OTHER|SpaceAfter=No
+4	Татнефть	Татнефть	PROPN	_	_	9	nmod	_	LangID=RU|SpaceAfter=No
+5	-	-	PUNCT	_	_	6	punct	_	LangID=OTHER|SpaceAfter=No
+6	поиск	поиск	NOUN	_	_	4	flat	_	LangID=RU|SpaceAfter=No
+7	»	»	PUNCT	_	_	4	punct	_	LangID=OTHER
+8	эзләнү	эзлә	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	9	nmod	_	LangID=TT
+9	отряды	отряд	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	10	nmod	_	CSPoint=отряд§ы|LangID=MIXED[RU§TT]
+10	вәкилләре	вәкил	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	14	nsubj	_	LangID=TT
+11	Кырымда	Кырым	PROPN	_	Case=Loc|Number=Sing	14	obl	_	LangID=TT
+12	Хәтер	хәтер	NOUN	_	Case=Nom|Number=Sing	13	nmod	_	LangID=TT
+13	вахтасында	вахта	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	14	obl	_	CSPoint=вахта§сында|LangID=MIXED[RU§TT]
+14	катнашып	катнаш	VERB	_	VerbForm=Conv	26	advcl	_	LangID=TT|SpaceAfter=No
+15	,	,	PUNCT	_	_	26	punct	_	LangID=OTHER
+16	сугыш	сугыш	NOUN	_	Case=Nom|Number=Sing	17	nmod	_	LangID=TT
+17	вакытында	вакыт	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	19	obl	_	LangID=TT
+18	һәлак	һәлак	NOUN	_	Case=Nom|Number=Sing	19	xcomp	_	LangID=TT
+19	булган	бул	VERB	_	Tense=Past|VerbForm=Part	21	amod	_	LangID=TT
+20	Чиләбе	Чиләбе	PROPN	_	Case=Nom|Number=Sing	21	nmod	_	LangID=TT
+21	кешесе	кеше	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	25	nmod	_	LangID=TT
+22	Василий	Василий	PROPN	_	Case=Nom|Number=Sing	21	flat	_	LangID=RU
+23	Архипович	Архипович	PROPN	_	Case=Nom|Number=Sing	21	flat	_	LangID=RU
+24	Ломановның	Ломанов	PROPN	_	Case=Gen|Number=Sing	21	flat	_	CSPoint=Ломанов§ның|LangID=MIXED[RU§TT]
+25	җәсәден	җәсәд	NOUN	_	Case=Acc|Number=Sing|Person[psor]=3	26	obj	_	LangID=TT
+26	табалар	тап	VERB	_	Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	LangID=TT|SpaceAfter=No
+27	.	.	PUNCT	_	_	26	punct	_	LangID=OTHER
+
+# sent_id = 5840591_1
+# link = https://tatar-inform.tatar/news/society/08-10-2021/t-b-n-kama-eztabarlary-sugyshta-lak-bulgan-soldatny-s-den-tugannaryna-tapshyrdy-5840591
+# genre = society
+# text = Бүген Василий Ломановның туганнары һәм Чиләбе хакимияте вәкилләренә аның җәсәден тапшырдылар.
+1	Бүген	бүген	ADV	_	_	11	advmod	_	LangID=TT
+2	Василий	Василий	PROPN	_	Case=Nom|Number=Sing	4	nmod	_	LangID=RU
+3	Ломановның	Ломанов	PROPN	_	Case=Gen|Number=Sing	2	flat	_	CSPoint=Ломанов§ның|LangID=MIXED[RU§TT]
+4	туганнары	туган	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	11	obl	_	LangID=TT
+5	һәм	һәм	CCONJ	_	_	8	cc	_	LangID=TT
+6	Чиләбе	Чиләбе	PROPN	_	Case=Nom|Number=Sing	7	nmod	_	LangID=TT
+7	хакимияте	хакимият	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	8	nmod	_	LangID=TT
+8	вәкилләренә	вәкилл	NOUN	_	Case=Dat|Number=Plur|Person[psor]=3	4	conj	_	LangID=TT
+9	аның	ул	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	10	nmod	_	LangID=TT
+10	җәсәден	җәсәд	NOUN	_	Case=Acc|Number=Sing|Person[psor]=3	11	obj	_	LangID=TT
+11	тапшырдылар	тапшыр	VERB	_	Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	LangID=TT|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	punct	_	LangID=OTHER
+
+# sent_id = 5840591_2
+# link = https://tatar-inform.tatar/news/society/08-10-2021/t-b-n-kama-eztabarlary-sugyshta-lak-bulgan-soldatny-s-den-tugannaryna-tapshyrdy-5840591
+# genre = society
+# text = 1942 елда Кырым Республикасының Владиславовка авылы янында һәлак булган Василий Ломанов тумышы белән Чиләбе өлкәсенең Кыштым шәһәреннән.
+1	1942	1942	NUM	_	NumType=Ord	2	nummod	_	LangID=TT
+2	елда	ел	NOUN	_	Case=Loc|Number=Sing	9	obl	_	LangID=TT
+3	Кырым	Кырым	PROPN	_	Case=Nom|Number=Sing	4	nmod	_	LangID=TT
+4	Республикасының	республика	NOUN	_	Case=Gen|Number=Sing|Person[psor]=3	6	nmod	_	CSPoint=Республика§сының|LangID=MIXED[RU§TT]
+5	Владиславовка	Владиславовка	PROPN	_	Case=Nom|Number=Sing	6	nmod	_	LangID=RU
+6	авылы	авыл	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	7	nmod	_	LangID=TT
+7	янында	ян	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	9	obl	_	LangID=TT
+8	һәлак	һәлак	NOUN	_	Case=Nom|Number=Sing	9	xcomp	_	LangID=TT
+9	булган	бул	VERB	_	Tense=Past|VerbForm=Part	10	amod	_	LangID=TT
+10	Василий	Василий	PROPN	_	Case=Nom|Number=Sing	17	nsubj	_	LangID=RU
+11	Ломанов	Ломанов	PROPN	_	Case=Nom|Number=Sing	10	flat	_	LangID=RU
+12	тумышы	тумыш	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	17	obl	_	LangID=TT
+13	белән	белән	ADP	_	_	12	case	_	LangID=TT
+14	Чиләбе	Чиләбе	PROPN	_	Case=Nom|Number=Sing	15	nmod	_	LangID=TT
+15	өлкәсенең	өлкә	NOUN	_	Case=Gen|Number=Sing|Person[psor]=3	17	nmod	_	LangID=TT
+16	Кыштым	Кыштым	PROPN	_	Case=Nom|Number=Sing	17	nmod	_	LangID=TT
+17	шәһәреннән	шәһәр	NOUN	_	Case=Abl|Number=Sing|Person[psor]=3	0	root	_	LangID=TT|SpaceAfter=No
+18	.	.	PUNCT	_	_	17	punct	_	LangID=OTHER
+
+# sent_id = 5840591_3
+# link = https://tatar-inform.tatar/news/society/08-10-2021/t-b-n-kama-eztabarlary-sugyshta-lak-bulgan-soldatny-s-den-tugannaryna-tapshyrdy-5840591
+# genre = society
+# text = Сугыш башлангач, шәһәрдә яшәүчеләр кебек үк, ул фронтка алына.
+1	Сугыш	сугыш	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	LangID=TT
+2	башлангач	башла	VERB	_	Aspect=Perf|VerbForm=Conv|Voice=Pass	11	advcl	_	LangID=TT|SpaceAfter=No
+3	,	,	PUNCT	_	_	11	punct	_	LangID=OTHER
+4	шәһәрдә	шәһәр	NOUN	_	Case=Loc|Number=Sing	5	obl	_	LangID=TT
+5	яшәүчеләр	яшә	VERB	_	Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part	11	obl	_	LangID=TT
+6	кебек	кебек	ADP	_	_	5	case	_	LangID=TT
+7	үк	үк	ADV	_	_	6	advmod	_	LangID=TT|SpaceAfter=No
+8	,	,	PUNCT	_	_	11	punct	_	LangID=OTHER
+9	ул	ул	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	LangID=TT
+10	фронтка	фронт	NOUN	_	Case=Dat|Number=Sing	11	obl	_	CSPoint=фронт§ка|LangID=MIXED[RU§TT]
+11	алына	ал	VERB	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	LangID=TT|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	punct	_	LangID=OTHER
+
+# sent_id = 5840591_4
+# link = https://tatar-inform.tatar/news/society/08-10-2021/t-b-n-kama-eztabarlary-sugyshta-lak-bulgan-soldatny-s-den-tugannaryna-tapshyrdy-5840591
+# genre = society
+# text = Аның фронт юлы турындагы мәгълүматларның күбесе югалган.
+1	Аның	ул	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	3	nmod	_	LangID=TT
+2	фронт	фронт	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	LangID=RU
+3	юлы	юл	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	5	amod	_	LangID=TT
+4	турындагы	турындагы	ADP	_	_	3	case	_	LangID=TT
+5	мәгълүматларның	мәгълүмат	NOUN	_	Case=Gen|Number=Plur	6	nmod	_	LangID=TT
+6	күбесе	күбесе	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	7	nsubj	_	LangID=TT
+7	югалган	югал	VERB	_	Number=Sing|Person=3|Tense=Past|VerbForm=Part	0	root	_	LangID=TT|SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	_	LangID=OTHER
+
+# sent_id = 5840591_5
+# link = https://tatar-inform.tatar/news/society/08-10-2021/t-b-n-kama-eztabarlary-sugyshta-lak-bulgan-soldatny-s-den-tugannaryna-tapshyrdy-5840591
+# genre = society
+# text = Бу турыда Түбән Кама муниципаль районы рәсми сайтында хәбәр ителә.
+1	Бу	бу	PRON	_	PronType=Dem	9	obl	_	LangID=TT
+2	турыда	турыда	ADP	_	_	1	case	_	LangID=TT
+3	Түбән	түбән	ADJ	_	_	4	amod	_	LangID=TT
+4	Кама	Кама	PROPN	_	Case=Nom|Number=Sing	6	nmod	_	LangID=RU
+5	муниципаль	муниципаль	ADJ	_	_	6	amod	_	LangID=RU
+6	районы	район	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	8	nmod	_	LangID=TT
+7	рәсми	рәсми	ADJ	_	_	8	amod	_	LangID=TT
+8	сайтында	сайт	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	9	obl	_	CSPoint=сайт§ында|LangID=MIXED[RU§TT]
+9	хәбәр	хәбәр	NOUN	_	Case=Nom|Number=Sing	10	compound:lvc	_	LangID=TT
+10	ителә	ит	VERB	_	Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	0	root	_	LangID=TT|SpaceAfter=No
+11	.	.	PUNCT	_	_	10	punct	_	LangID=OTHER
+
+# sent_id = 5840591_6
+# link = https://tatar-inform.tatar/news/society/08-10-2021/t-b-n-kama-eztabarlary-sugyshta-lak-bulgan-soldatny-s-den-tugannaryna-tapshyrdy-5840591
+# genre = society
+# text = Агымдагы елның сентябрендә Түбән Кама эзтабарлары Кырымнан килгән хезмәттәшләре белән берлектә сугыш узган урыннарда казу эшләре оештырган.
+1	Агымдагы	агымдагы	ADJ	_	_	2	amod	_	LangID=TT
+2	елның	ел	NOUN	_	Case=Gen|Number=Sing	3	nmod	_	LangID=TT
+3	сентябрендә	сентябрь	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	17	obl	_	CSPoint=сентябр§ендә|LangID=MIXED[RU§TT]
+4	Түбән	түбән	ADJ	_	_	5	amod	_	LangID=TT
+5	Кама	Кама	PROPN	_	Case=Nom|Number=Sing	6	nmod	_	LangID=RU
+6	эзтабарлары	эзтабар	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	17	nsubj	_	LangID=TT
+7	Кырымнан	Кырым	PROPN	_	Case=Abl|Number=Sing	8	obl	_	LangID=TT
+8	килгән	кил	VERB	_	Tense=Past|VerbForm=Part	9	amod	_	LangID=TT
+9	хезмәттәшләре	хезмәттәш	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	17	obl	_	LangID=TT
+10	белән	белән	ADP	_	_	9	case	_	LangID=TT
+11	берлектә	берлек	NOUN	_	Case=Loc|Number=Sing	17	obl	_	LangID=TT
+12	сугыш	сугыш	NOUN	_	Case=Nom|Number=Sing	13	nsubj	_	LangID=TT
+13	узган	уз	VERB	_	Tense=Past|VerbForm=Part	14	amod	_	LangID=TT
+14	урыннарда	урын	NOUN	_	Case=Loc|Number=Plur	17	obl	_	LangID=TT
+15	казу	каз	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	16	nmod	_	LangID=TT
+16	эшләре	эш	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	17	obj	_	LangID=TT
+17	оештырган	оеш	VERB	_	Number=Sing|Person=3|VerbForm=Part|Voice=Cau	0	root	_	LangID=TT|SpaceAfter=No
+18	.	.	PUNCT	_	_	17	punct	_	LangID=OTHER
+
+# sent_id = 5840591_7
+# link = https://tatar-inform.tatar/news/society/08-10-2021/t-b-n-kama-eztabarlary-sugyshta-lak-bulgan-soldatny-s-den-tugannaryna-tapshyrdy-5840591
+# genre = society
+# text = Һәлак булган сугышчының сөякләре янында медальоны да табылган, шуның буенча аның шәхесен ачыклый алганнар.
+1	Һәлак	һәлак	NOUN	_	Case=Nom|Number=Sing	2	xcomp	_	LangID=TT
+2	булган	бул	VERB	_	Tense=Past|VerbForm=Part	3	amod	_	LangID=TT
+3	сугышчының	сугышчы	NOUN	_	Case=Gen|Number=Sing	4	nmod	_	LangID=TT
+4	сөякләре	сөяк	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	5	nmod	_	LangID=TT
+5	янында	ян	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	8	obl	_	LangID=TT
+6	медальоны	медальоны	NOUN	_	Case=Nom|Number=Sing	8	nsubj	_	LangID=RU
+7	да	да	ADV	_	_	6	advmod	_	LangID=TT
+8	табылган	тап	VERB	_	Number=Sing|Person=3|Tense=Past|VerbForm=Part	0	root	_	LangID=TT|SpaceAfter=No
+9	,	,	PUNCT	_	_	14	punct	_	LangID=OTHER
+10	шуның	шул	PRON	_	Case=Gen|Number=Sing|PronType=Dem	14	obl	_	LangID=TT
+11	буенча	буенча	NOUN	_	_	10	case	_	LangID=TT
+12	аның	ул	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	13	nmod	_	LangID=TT
+13	шәхесен	шәхес	NOUN	_	Case=Acc|Number=Sing|Person[psor]=3	14	obj	_	LangID=TT
+14	ачыклый	ачыкла	VERB	_	Aspect=Prog|VerbForm=Conv	8	conj	_	LangID=TT
+15	алганнар	ал	AUX	_	Number=Plur|Person=3|Tense=Past|VerbForm=Part	14	aux	_	LangID=TT|SpaceAfter=No
+16	.	.	PUNCT	_	_	14	punct	_	LangID=OTHER
+
+# sent_id = 5840591_8
+# link = https://tatar-inform.tatar/news/society/08-10-2021/t-b-n-kama-eztabarlary-sugyshta-lak-bulgan-soldatny-s-den-tugannaryna-tapshyrdy-5840591
+# genre = society
+# text = Чарада солдатның туганнары, Чиләбе өлкәсенең Кыштым шәһәре хакимияте вәкилләре, Түбән Кама предприятиеләре һәм учреждениеләре вәкилләре, мәктәп укучылары һәм студентлар катнашты.
+1	Чарада	чара	NOUN	_	Case=Loc|Number=Sing	23	obl	_	LangID=TT
+2	солдатның	солдат	NOUN	_	Case=Gen|Number=Sing	3	nmod	_	CSPoint=солдат§ның|LangID=MIXED[RU§TT]
+3	туганнары	туган	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	23	nsubj	_	LangID=TT|SpaceAfter=No
+4	,	,	PUNCT	_	_	10	punct	_	LangID=OTHER
+5	Чиләбе	Чиләбе	PROPN	_	Case=Nom|Number=Sing	6	nmod	_	LangID=TT
+6	өлкәсенең	өлкә	NOUN	_	Case=Gen|Number=Sing|Person[psor]=3	8	nmod	_	LangID=TT
+7	Кыштым	Кыштым	PROPN	_	Case=Nom|Number=Sing	8	nmod	_	LangID=TT
+8	шәһәре	шәһәр	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	9	nmod	_	LangID=TT
+9	хакимияте	хакимият	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	10	nmod	_	LangID=TT
+10	вәкилләре	вәкил	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	3	conj	_	LangID=TT|SpaceAfter=No
+11	,	,	PUNCT	_	_	17	punct	_	LangID=OTHER
+12	Түбән	түбән	ADJ	_	_	13	amod	_	LangID=TT
+13	Кама	Кама	PROPN	_	Case=Nom|Number=Sing	14	nmod	_	LangID=RU
+14	предприятиеләре	предприятие	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	17	nmod	_	CSPoint=предприятие§ләре|LangID=MIXED[RU§TT]
+15	һәм	һәм	CCONJ	_	_	16	cc	_	LangID=TT
+16	учреждениеләре	учреждение	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	14	conj	_	CSPoint=учреждение§ләре|LangID=MIXED[RU§TT]
+17	вәкилләре	вәкил	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	3	conj	_	LangID=TT|SpaceAfter=No
+18	,	,	PUNCT	_	_	20	punct	_	LangID=OTHER
+19	мәктәп	мәктәп	NOUN	_	Case=Nom|Number=Sing	20	nmod	_	LangID=TT
+20	укучылары	укучы	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	3	conj	_	LangID=TT
+21	һәм	һәм	CCONJ	_	_	22	cc	_	LangID=TT
+22	студентлар	студент	NOUN	_	Case=Nom|Number=Plur	3	conj	_	CSPoint=студент§лар|LangID=MIXED
+23	катнашты	катнаш	VERB	_	Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	LangID=TT|SpaceAfter=No
+24	.	.	PUNCT	_	_	23	punct	_	LangID=OTHER
+
+# sent_id = 5840591_9
+# link = https://tatar-inform.tatar/news/society/08-10-2021/t-b-n-kama-eztabarlary-sugyshta-lak-bulgan-soldatny-s-den-tugannaryna-tapshyrdy-5840591
+# genre = society
+# text = Бөек Ватан сугышында һәлак булган батырларны бер минут тынлык белән искә алдылар һәм Җиңү Монументына чәчәкләр куйдылар.
+1	Бөек	бөек	ADJ	_	_	3	amod	_	LangID=TT
+2	Ватан	ватан	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	LangID=TT
+3	сугышында	сугыш	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	5	obl	_	LangID=TT
+4	һәлак	һәлак	NOUN	_	Case=Nom|Number=Sing	5	xcomp	_	LangID=TT
+5	булган	бул	VERB	_	Tense=Past|VerbForm=Part	6	amod	_	LangID=TT
+6	батырларны	батыр	NOUN	_	Case=Acc|Number=Plur	12	obj	_	LangID=TT
+7	бер	бер	NUM	_	NumType=Card	8	nummod	_	LangID=TT
+8	минут	минут	NOUN	_	Case=Nom|Number=Sing	12	obl	_	LangID=TT
+9	тынлык	тынлык	NOUN	_	Case=Nom|Number=Sing	12	obl	_	LangID=TT
+10	белән	белән	ADP	_	_	9	case	_	LangID=TT
+11	искә	искә	NOUN	_	Case=Dat|Number=Sing	12	obl	_	LangID=TT
+12	алдылар	ал	VERB	_	Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	LangID=TT
+13	һәм	һәм	CCONJ	_	_	17	cc	_	LangID=TT
+14	Җиңү	җиң	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	15	nmod	_	LangID=TT
+15	Монументына	монумент	NOUN	_	Case=Dat|Number=Sing|Person[psor]=3	17	obl	_	CSPoint=Монумент§ына|LangID=MIXED[RU§TT]
+16	чәчәкләр	чәчәк	NOUN	_	Case=Nom|Number=Plur	17	obj	_	LangID=TT
+17	куйдылар	куй	VERB	_	Number=Plur|Person=3|Tense=Past|VerbForm=Fin	12	conj	_	LangID=TT|SpaceAfter=No
+18	.	.	PUNCT	_	_	17	punct	_	LangID=OTHER
+
+# sent_id = 5840595_0
+# link = https://tatar-inform.tatar/news/incident/09-10-2021/ger-ed-ba-adir-sportchy-anton-shushpanov-bel-n-hushlashalar-5840595
+# genre = incident
+# text = Әгерҗедә спортчы, Чечня Республикасы территориясендә хәрби конфликтта катнашкан хәрби хәрәкәтләр ветераны Антон Шушпанов вафат.
+1	Әгерҗедә	Әгерҗе	PROPN	_	Case=Loc|Number=Sing	15	obl	_	LangID=TT
+2	спортчы	спортчы	NOUN	_	Case=Nom|Number=Sing	15	nsubj	_	CSPoint=спорт§чы|LangID=MIXED[RU§TT]|SpaceAfter=No
+3	,	,	PUNCT	_	_	12	punct	_	LangID=OTHER
+4	Чечня	Чечня	PROPN	_	Case=Nom|Number=Sing	5	nmod	_	LangID=RU
+5	Республикасы	республика	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	6	nmod	_	CSPoint=Республика§сы|LangID=MIXED[RU§TT]
+6	территориясендә	территория	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	9	obl	_	CSPoint=территория§сендә|LangID=MIXED[RU§TT]
+7	хәрби	хәрби	ADJ	_	_	8	amod	_	LangID=TT
+8	конфликтта	конфликт	NOUN	_	Case=Loc|Number=Sing	9	obl	_	CSPoint=конфликт§та|LangID=MIXED[RU§TT]
+9	катнашкан	катнаш	VERB	_	Tense=Past|VerbForm=Part	12	amod	_	LangID=TT
+10	хәрби	хәрби	ADJ	_	_	11	amod	_	LangID=TT
+11	хәрәкәтләр	хәрәкәт	NOUN	_	Case=Nom|Number=Plur	12	nmod	_	LangID=TT
+12	ветераны	ветеран	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	2	appos	_	CSPoint=ветеран§ы|LangID=MIXED[RU§TT]
+13	Антон	Антон	PROPN	_	Case=Nom|Number=Sing	2	appos	_	LangID=RU
+14	Шушпанов	Шушпанов	PROPN	_	Case=Nom|Number=Sing	13	flat	_	LangID=RU
+15	вафат	вафат	VERB	_	_	0	root	_	LangID=TT|SpaceAfter=No
+16	.	.	PUNCT	_	_	15	punct	_	LangID=OTHER
+
+# sent_id = 5840595_1
+# link = https://tatar-inform.tatar/news/incident/09-10-2021/ger-ed-ba-adir-sportchy-anton-shushpanov-bel-n-hushlashalar-5840595
+# genre = incident
+# text = Кызганычка, төрле ярышларда күп тапкырлар җиңү яулаган район баһадиры пневмонияне җиңә алмады.
+1	Кызганычка	кызганыч	NOUN	_	Case=Dat|Number=Sing	12	obl	_	LangID=TT|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	LangID=OTHER
+3	төрле	төрле	ADJ	_	_	4	amod	_	LangID=TT
+4	ярышларда	ярыш	NOUN	_	Case=Loc|Number=Plur	8	obl	_	LangID=TT
+5	күп	күп	ADJ	_	_	6	amod	_	LangID=TT
+6	тапкырлар	тапкыр	NOUN	_	Case=Nom|Number=Plur	8	obl	_	LangID=TT
+7	җиңү	җиң	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	8	obj	_	LangID=TT
+8	яулаган	яула	VERB	_	Tense=Past|VerbForm=Part	10	amod	_	LangID=TT
+9	район	район	NOUN	_	Case=Nom|Number=Sing	10	nmod	_	LangID=RU
+10	баһадиры	баһадир	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	12	nsubj	_	LangID=TT
+11	пневмонияне	пневмония	NOUN	_	Case=Acc|Number=Sing	12	obj	_	CSPoint=пневмония§не|LangID=MIXED[RU§TT]
+12	җиңә	җиң	VERB	_	Aspect=Prog|VerbForm=Conv	0	root	_	LangID=TT
+13	алмады	ал	AUX	_	Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	12	aux	_	LangID=TT|SpaceAfter=No
+14	.	.	PUNCT	_	_	12	punct	_	LangID=OTHER
+
+# sent_id = 5840595_2
+# link = https://tatar-inform.tatar/news/incident/09-10-2021/ger-ed-ba-adir-sportchy-anton-shushpanov-bel-n-hushlashalar-5840595
+# genre = incident
+# text = Аның белән хушлашу шимбә көнне сәгать көндезге 12дә Чапаев урамы, 5 йорт ишегалдында узачак.
+1	Аның	ул	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	3	obl	_	LangID=TT
+2	белән	белән	ADP	_	_	1	case	_	LangID=TT
+3	хушлашу	хушлаш	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	15	nsubj	_	LangID=TT
+4	шимбә	шимбә	NOUN	_	Case=Nom|Number=Sing	5	nmod	_	LangID=TT
+5	көнне	көн	NOUN	_	Case=Acc|Number=Sing	15	obl	_	LangID=TT
+6	сәгать	сәгать	NOUN	_	Case=Nom|Number=Sing	8	nmod	_	LangID=TT
+7	көндезге	көндезге	ADJ	_	_	8	amod	_	LangID=TT
+8	12дә	12	NUM	_	Case=Loc|Number=Sing|NumType=Card	15	obl	_	LangID=TT
+9	Чапаев	Чапаев	PROPN	_	Case=Nom|Number=Sing	10	nmod	_	LangID=RU
+10	урамы	урам	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	15	obl	_	LangID=TT|SpaceAfter=No
+11	,	,	PUNCT	_	_	14	punct	_	LangID=OTHER
+12	5	5	NUM	_	NumType=Card	13	amod	_	LangID=TT
+13	йорт	йорт	NOUN	_	Case=Nom|Number=Sing	14	nmod	_	LangID=TT
+14	ишегалдында	ишегалды	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	10	appos	_	LangID=TT
+15	узачак	уз	VERB	_	Number=Sing|Person=3|Tense=Fut|VerbForm=Part	0	root	_	LangID=TT|SpaceAfter=No
+16	.	.	PUNCT	_	_	15	punct	_	LangID=OTHER
+
+# sent_id = 5840595_3
+# link = https://tatar-inform.tatar/news/incident/09-10-2021/ger-ed-ba-adir-sportchy-anton-shushpanov-bel-n-hushlashalar-5840595
+# genre = incident
+# text = Антон шат күңелле дус һәм иптәш, ышанычлы көрәштәш, намуслы хезмәттәш, гадел һәм яхшы кеше буларак истә калыр.
+1	Антон	Антон	PROPN	_	Case=Nom|Number=Sing	20	nsubj	_	LangID=RU
+2	шат	шат	ADJ	_	_	3	compound	_	LangID=TT
+3	күңелле	күңелле	ADJ	_	_	4	amod	_	LangID=TT
+4	дус	дус	NOUN	_	Case=Nom|Number=Sing	20	obl	_	LangID=TT
+5	һәм	һәм	CCONJ	_	_	6	cc	_	LangID=TT
+6	иптәш	иптәш	NOUN	_	Case=Nom|Number=Sing	4	conj	_	LangID=TT|SpaceAfter=No
+7	,	,	PUNCT	_	_	9	punct	_	LangID=OTHER
+8	ышанычлы	ышанычлы	ADJ	_	_	9	amod	_	LangID=TT
+9	көрәштәш	көрәштәш	NOUN	_	Case=Nom|Number=Sing	4	parataxis	_	LangID=TT|SpaceAfter=No
+10	,	,	PUNCT	_	_	12	punct	_	LangID=OTHER
+11	намуслы	намуслы	ADJ	_	_	12	amod	_	LangID=TT
+12	хезмәттәш	хезмәттәш	NOUN	_	Case=Nom|Number=Sing	4	parataxis	_	LangID=TT|SpaceAfter=No
+13	,	,	PUNCT	_	_	17	punct	_	LangID=OTHER
+14	гадел	гадел	ADJ	_	_	17	amod	_	LangID=TT
+15	һәм	һәм	CCONJ	_	_	16	cc	_	LangID=TT
+16	яхшы	яхшы	ADJ	_	_	14	conj	_	LangID=TT
+17	кеше	кеше	NOUN	_	Case=Nom|Number=Sing	4	parataxis	_	LangID=TT
+18	буларак	буларак	ADP	_	_	4	case	_	LangID=TT
+19	истә	ис	NOUN	_	Case=Loc|Number=Sing	20	obl	_	LangID=TT
+20	калыр	кал	VERB	_	Mood=Irr|Number=Sing|Person=3|Tense=Fut|VerbForm=Part	0	root	_	LangID=TT|SpaceAfter=No
+21	.	.	PUNCT	_	_	20	punct	_	LangID=OTHER
+
+# sent_id = 5853692_0
+# link = https://tatar-inform.tatar/news/tatar-kyzcygy-tatar-malae-2022-baigesenen-inucelare-bilgele-5853692
+# genre = tatar
+# text = Бүген «Татар кызчыгы һәм татар малае – 2022» мәктәпкәчә яшьтәге балалар бәйгесенең җиңүчеләре билгеле булды.
+1	Бүген	бүген	ADV	_	_	17	advmod	_	LangID=TT
+2	«	«	PUNCT	_	_	3	punct	_	LangID=OTHER|SpaceAfter=No
+3	Татар	татар	NOUN	_	Case=Nom|Number=Sing	14	nmod	_	LangID=TT
+4	кызчыгы	кызчык	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	3	nmod	_	LangID=TT
+5	һәм	һәм	CCONJ	_	_	7	cc	_	LangID=TT
+6	татар	татар	NOUN	_	Case=Nom|Number=Sing	7	nmod	_	LangID=TT
+7	малае	малай	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	3	conj	_	LangID=TT
+8	–	–	PUNCT	_	_	9	punct	_	LangID=OTHER
+9	2022	2022	NUM	_	NumType=Card	3	flat	_	LangID=TT|SpaceAfter=No
+10	»	»	PUNCT	_	_	3	punct	_	LangID=OTHER
+11	мәктәпкәчә	мәктәпкәчә	ADJ	_	_	12	amod	_	LangID=TT
+12	яшьтәге	яшь	ADJ	_	Case=Loc|Number=Sing	13	amod	_	LangID=TT
+13	балалар	бала	NOUN	_	Case=Nom|Number=Plur	14	nmod	_	LangID=TT
+14	бәйгесенең	бәйге	NOUN	_	_	15	nmod	_	LangID=TT
+15	җиңүчеләре	җиң	VERB	_	Case=Nom|Number=Plur|Person[psor]=3|Tense=Pres|VerbForm=Part	17	nsubj	_	LangID=TT
+16	билгеле	билгеле	NOUN	_	_	17	xcomp	_	LangID=TT
+17	булды	бул	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	LangID=TT|SpaceAfter=No
+18	.	.	PUNCT	_	_	17	punct	_	LangID=OTHER
+
+# sent_id = 5853692_1
+# link = https://tatar-inform.tatar/news/tatar-kyzcygy-tatar-malae-2022-baigesenen-inucelare-bilgele-5853692
+# genre = tatar
+# text = Бәйгегә йомгак Кариев театрында ясалды.
+1	Бәйгегә	бәйге	NOUN	_	Case=Dat|Number=Sing	2	nmod	_	LangID=TT
+2	йомгак	йомгак	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	LangID=TT
+3	Кариев	Кариев	PROPN	_	Case=Nom|Number=Sing	4	nmod	_	CSPoint=Кари§ев|LangID=MIXED[TT§RU]
+4	театрында	театр	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	5	obl	_	LangID=TT
+5	ясалды	яса	VERB	_	Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	LangID=TT|SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	LangID=OTHER
+
+# sent_id = 5853692_2
+# link = https://tatar-inform.tatar/news/tatar-kyzcygy-tatar-malae-2022-baigesenen-inucelare-bilgele-5853692
+# genre = tatar
+# text = Бәйге гыйнвар аенда башланган иде, Казанның балалар бакчаларында тәрбияләнүче 6 - 7 яшьлек балалар өчен үткәрелде.
+1	Бәйге	бәйге	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	LangID=TT
+2	гыйнвар	гыйнвар	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	LangID=TT
+3	аенда	ай	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	4	obl	_	LangID=TT
+4	башланган	башла	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	LangID=TT
+5	иде	иде	AUX	_	Person=3|Tense=Past|VerbForm=Fin	4	aux	_	LangID=TT|SpaceAfter=No
+6	,	,	PUNCT	_	_	17	punct	_	LangID=OTHER
+7	Казанның	Казан	PROPN	_	Case=Gen|Number=Sing	9	nmod	_	LangID=TT
+8	балалар	бала	NOUN	_	Case=Nom|Number=Plur	9	nmod	_	LangID=TT
+9	бакчаларында	бакча	NOUN	_	Case=Loc|Number=Plur|Person[psor]=3	10	obl	_	LangID=TT
+10	тәрбияләнүче	тәрбиялә	VERB	_	Tense=Pres|VerbForm=Part|Voice=Pass	15	acl	_	LangID=TT
+11	6	6	NUM	_	_	14	nummod	_	LangID=TT
+12	-	-	PUNCT	_	_	11	punct	_	LangID=TT
+13	7	7	NUM	_	_	11	flat	_	LangID=TT
+14	яшьлек	яшьлек	ADJ	_	Case=Nom|Number=Sing	15	amod	_	LangID=TT
+15	балалар	бала	NOUN	_	Case=Nom|Number=Plur	17	obl	_	LangID=TT
+16	өчен	өчен	ADP	_	_	15	case	_	LangID=TT
+17	үткәрелде	үткәр	VERB	_	Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	4	parataxis	_	LangID=TT|SpaceAfter=No
+18	.	.	PUNCT	_	_	4	punct	_	LangID=OTHER
+
+# sent_id = 5853693_0
+# link = https://tatar-inform.tatar/news/bu-atnada-tatarstanda-hava-temperaturasy-23s-ylylyktan-2-graduska-kadar-tosacak-5853693
+# genre = ecology
+# text = Татарстанның Гидрометеорология үзәге якындагы берничә көнгә һава торышын фаразлады.
+1	Татарстанның	Татарстан	PROPN	_	Case=Gen|Number=Sing	3	nmod	_	LangID=TT
+2	Гидрометеорология	гидрометеорология	NOUN	_	_	3	nmod	_	LangID=RU
+3	үзәге	үзәк	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	9	nsubj	_	LangID=TT
+4	якындагы	якын	ADJ	_	Case=Loc|Number=Sing	6	amod	_	LangID=TT
+5	берничә	берничә	DET	_	_	6	det	_	LangID=TT
+6	көнгә	көн	NOUN	_	Case=Dat|Number=Sing	8	nmod	_	LangID=TT
+7	һава	һава	NOUN	_	Case=Nom|Number=Sing	8	nmod	_	LangID=TT
+8	торышын	торыш	NOUN	_	Case=Acc|Number=Sing|Person[psor]=3	9	obj	_	LangID=TT
+9	фаразлады	фаразла	VERB	_	_	0	root	_	LangID=TT|SpaceAfter=No
+10	.	.	PUNCT	_	_	9	punct	_	LangID=OTHER
+
+# sent_id = 5853693_1
+# link = https://tatar-inform.tatar/news/bu-atnada-tatarstanda-hava-temperaturasy-23s-ylylyktan-2-graduska-kadar-tosacak-5853693
+# genre = ecology
+# text = Синоптиклар сишәмбе һәм чәршәмбе көннәрендә республикада +23°С җылы булуын, ә ял көннәрендә салкыннар көтелүе турында хәбәр итә.
+1	Синоптиклар	синоптик	NOUN	_	Case=Nom|Number=Plur	20	nsubj	_	CSPoint=Синоптик§лар|LangID=MIXED[RU§TT]
+2	сишәмбе	сишәмбе	NOUN	_	Case=Nom|Number=Sing	5	nmod	_	LangID=TT
+3	һәм	һәм	CCONJ	_	_	4	cc	_	LangID=TT
+4	чәршәмбе	чәршәмбе	NOUN	_	Case=Nom|Number=Sing	2	conj	_	LangID=TT
+5	көннәрендә	көн	NOUN	_	Case=Loc|Number=Plur|Person[psor]=3	11	obl	_	LangID=TT
+6	республикада	республика	NOUN	_	Case=Loc|Number=Sing	11	obl	_	CSPoint=республика§да|LangID=MIXED[RU§TT]
+7	+	+	SYM	_	_	8	amod	_	LangID=OTHER|SpaceAfter=No
+8	23	23	NUM	_	NumType=Card	9	nummod	_	LangID=TT|SpaceAfter=No
+9	°С	°С	SYM	_	_	10	compound	_	LangID=OTHER
+10	җылы	җылы	NOUN	_	_	11	nmod	_	LangID=TT
+11	булуын	бул	VERB	_	Case=Acc|Number=Sing|Person[psor]=3|VerbForm=Vnoun	20	obj	_	LangID=TT|SpaceAfter=No
+12	,	,	PUNCT	_	_	17	punct	_	LangID=OTHER
+13	ә	ә	CCONJ	_	_	17	cc	_	LangID=TT
+14	ял	ял	NOUN	_	Case=Nom|Number=Sing	15	nmod	_	LangID=TT
+15	көннәрендә	көн	NOUN	_	Case=Loc|Number=Plur|Person[psor]=3	17	obl	_	LangID=TT
+16	салкыннар	салкын	NOUN	_	Case=Nom|Number=Plur	17	nmod	_	LangID=TT
+17	көтелүе	көт	VERB	_	Case=Nom|Number=Sing|Person[psor]=3|VerbForm=Vnoun|Voice=Pass	11	conj	_	LangID=TT
+18	турында	турында	ADP	_	_	17	case	_	LangID=TT
+19	хәбәр	хәбәр	NOUN	_	Case=Nom|Number=Sing	20	compound:lvc	_	LangID=TT
+20	итә	ит	VERB	_	Person=3|Tense=Pres|VerbForm=Fin	0	root	_	LangID=TT|SpaceAfter=No
+21	.	.	PUNCT	_	_	20	punct	_	LangID=OTHER
+
+# sent_id = 5853693_11
+# link = https://tatar-inform.tatar/news/bu-atnada-tatarstanda-hava-temperaturasy-23s-ylylyktan-2-graduska-kadar-tosacak-5853693
+# genre = ecology
+# text = Чәршәмбе, 27 апрельдә, җылы тотрыксыз һава торышы сакланачак.
+1	Чәршәмбе	чәршәмбе	NOUN	_	Case=Nom|Number=Sing	10	obl	_	LangID=TT|SpaceAfter=No
+2	,	,	PUNCT	_	_	4	punct	_	LangID=OTHER
+3	27	27	NUM	_	NumType=Ord	4	amod	_	LangID=TT
+4	апрельдә	апрель	NOUN	_	Case=Loc|Number=Sing	1	appos	_	CSPoint=апрель§дә|LangID=MIXED[RU§TT]|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	LangID=OTHER
+6	җылы	җылы	ADJ	_	_	9	amod	_	LangID=TT
+7	тотрыксыз	тотрыксыз	ADJ	_	_	9	amod	_	LangID=TT
+8	һава	һава	NOUN	_	Case=Nom|Number=Sing	9	nmod	_	LangID=TT
+9	торышы	торыш	VERB	_	Case=Nom|Number=Sing|Person[psor]=3	10	nsubj	_	LangID=TT
+10	сакланачак	сакла	VERB	_	Tense=Fut|VerbForm=Part|Voice=Mid	0	root	_	LangID=TT|SpaceAfter=No
+11	.	.	PUNCT	_	_	10	punct	_	LangID=OTHER
+
+# sent_id = 5853693_12
+# link = https://tatar-inform.tatar/news/bu-atnada-tatarstanda-hava-temperaturasy-23s-ylylyktan-2-graduska-kadar-tosacak-5853693
+# genre = ecology
+# text = Шулай ук кыска вакытлы яңгырлар да булырга мөмкин.
+1	Шулай	шулай	ADV	_	_	7	advmod	_	LangID=TT
+2	ук	ук	ADV	_	_	1	fixed	_	LangID=TT
+3	кыска	кыска	ADJ	_	_	4	amod	_	LangID=TT
+4	вакытлы	вакытлы	ADJ	_	_	5	amod	_	LangID=TT
+5	яңгырлар	яңгыр	NOUN	_	Case=Nom|Number=Plur	7	nsubj	_	LangID=TT
+6	да	да	ADV	_	_	5	advmod:emph	_	LangID=TT
+7	булырга	бул	VERB	_	VerbForm=Inf	0	root	_	LangID=TT
+8	мөмкин	мөмкин	AUX	_	_	7	aux	_	LangID=TT|SpaceAfter=No
+9	.	.	PUNCT	_	_	7	punct	_	LangID=OTHER
+
+# sent_id = 5853693_13
+# link = https://tatar-inform.tatar/news/bu-atnada-tatarstanda-hava-temperaturasy-23s-ylylyktan-2-graduska-kadar-tosacak-5853693
+# genre = ecology
+# text = Көчле җил саклана, аның тизлеге секундына 15 - 20 метрга кадәр җитәчәк.
+1	Көчле	көчле	ADJ	_	_	2	amod	_	LangID=TT
+2	җил	җил	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	LangID=TT
+3	саклана	сакла	VERB	_	Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	LangID=TT|SpaceAfter=No
+4	,	,	PUNCT	_	_	13	punct	_	LangID=OTHER
+5	аның	ул	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	6	nmod	_	LangID=TT
+6	тизлеге	тизлек	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	13	nsubj	_	LangID=TT
+7	секундына	секунд	NOUN	_	Case=Dat|Number=Sing|Person[psor]=3	11	nmod	_	CSPoint=секунд§ына|LangID=MIXED[RU§TT]
+8	15	15	NUM	_	_	11	nummod	_	LangID=TT
+9	-	-	PUNCT	_	_	8	punct	_	LangID=OTHER
+10	20	20	NUM	_	_	8	flat	_	LangID=TT
+11	метрга	метр	NOUN	_	Case=Dat|Number=Sing	13	obl	_	CSPoint=метр§га|LangID=MIXED[RU§TT]
+12	кадәр	кадәр	ADP	_	_	11	case	_	LangID=TT
+13	җитәчәк	җит	VERB	_	Tense=Fut|VerbForm=Part	3	parataxis	_	LangID=TT|SpaceAfter=No
+14	.	.	PUNCT	_	_	3	punct	_	LangID=OTHER
+
+# sent_id = 5853693_14
+# link = https://tatar-inform.tatar/news/bu-atnada-tatarstanda-hava-temperaturasy-23s-ylylyktan-2-graduska-kadar-tosacak-5853693
+# genre = ecology
+# text = Төньяк һава агымнары республика өстеннән пәнҗешәмбе көнне – 28 апрельдә узачак.
+1	Төньяк	төньяк	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	LangID=TT
+2	һава	һава	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	LangID=TT
+3	агымнары	агым	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	11	nsubj	_	LangID=TT
+4	республика	республика	NOUN	_	Case=Nom|Number=Sing	5	nmod	_	LangID=RU
+5	өстеннән	өс	NOUN	_	Case=Abl|Number=Sing|Person[psor]=3	11	obl	_	LangID=TT
+6	пәнҗешәмбе	пәнҗешәмбе	NOUN	_	Case=Nom|Number=Sing	7	nmod	_	LangID=TT
+7	көнне	көн	NOUN	_	Case=Acc|Number=Sing	11	obl	_	LangID=TT
+8	–	–	PUNCT	_	_	10	punct	_	LangID=OTHER
+9	28	28	NUM	_	NumType=Ord	10	amod	_	LangID=TT
+10	апрельдә	апрель	NOUN	_	Case=Loc|Number=Sing	7	appos	_	CSPoint=апрель§дә|LangID=MIXED[RU§TT]
+11	узачак	уз	VERB	_	Tense=Fut|VerbForm=Part	0	root	_	LangID=TT|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	punct	_	LangID=OTHER
+
+# sent_id = 5853693_15
+# link = https://tatar-inform.tatar/news/bu-atnada-tatarstanda-hava-temperaturasy-23s-ylylyktan-2-graduska-kadar-tosacak-5853693
+# genre = ecology
+# text = Яңгыр яву һәм яшен булу ихтималы саклана.
+1	Яңгыр	яңгыр	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	LangID=TT
+2	яву	яу	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	6	nmod	_	LangID=TT
+3	һәм	һәм	CCONJ	_	_	5	cc	_	LangID=TT
+4	яшен	яшен	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	LangID=TT
+5	булу	бул	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	2	conj	_	LangID=TT
+6	ихтималы	ихтимал	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	7	nsubj	_	LangID=TT
+7	саклана	сакла	VERB	_	Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	LangID=TT|SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	_	LangID=OTHER
+
+# sent_id = 5853693_19
+# link = https://tatar-inform.tatar/news/bu-atnada-tatarstanda-hava-temperaturasy-23s-ylylyktan-2-graduska-kadar-tosacak-5853693
+# genre = ecology
+# text = Фаразлар буенча, җомга һәм шимбә көннәрендә республикада һава торышы югары атмосфера басымы йогынтысында булачак.
+1	Фаразлар	фараз	NOUN	_	Case=Nom|Number=Plur	15	obl	_	LangID=TT
+2	буенча	буенча	ADP	_	_	1	case	_	LangID=TT|SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	_	LangID=OTHER
+4	җомга	җомга	NOUN	_	Case=Nom|Number=Sing	7	nmod	_	LangID=TT
+5	һәм	һәм	CCONJ	_	_	6	cc	_	LangID=TT
+6	шимбә	шимбә	NOUN	_	Case=Nom|Number=Sing	4	conj	_	LangID=TT
+7	көннәрендә	көн	NOUN	_	Case=Loc|Number=Plur|Person[psor]=3	15	obl	_	LangID=TT
+8	республикада	республика	NOUN	_	Case=Loc|Number=Sing	15	obl	_	CSPoint=республика§да|LangID=MIXED[RU§TT]
+9	һава	һава	NOUN	_	Case=Nom|Number=Sing	10	nmod	_	LangID=TT
+10	торышы	торыш	VERB	_	Case=Nom|Number=Sing|Person[psor]=3	15	nsubj	_	LangID=TT
+11	югары	югары	ADJ	_	_	13	amod	_	LangID=TT
+12	атмосфера	атмосфера	NOUN	_	Case=Nom|Number=Sing	13	nmod	_	LangID=RU
+13	басымы	басым	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	14	nmod	_	LangID=TT
+14	йогынтысында	йогынты	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	15	obl	_	LangID=TT
+15	булачак	бул	VERB	_	Tense=Fut|VerbForm=Part	0	root	_	LangID=TT|SpaceAfter=No
+16	.	.	PUNCT	_	_	15	punct	_	LangID=OTHER
+
+# sent_id = 5853693_2
+# link = https://tatar-inform.tatar/news/bu-atnada-tatarstanda-hava-temperaturasy-23s-ylylyktan-2-graduska-kadar-tosacak-5853693
+# genre = ecology
+# text = Һава торышын өйрәнүче белгечләр сүзләренчә, сишәмбе, 26 апрельдә, Татарстан циклонның җылы секторында тотрыксыз һава массасында булачак.
+1	Һава	һава	NOUN	_	Case=Nom|Number=Sing	2	nmod	_	LangID=TT
+2	торышын	торыш	NOUN	_	Case=Acc|Number=Sing|Person[psor]=3	3	obj	_	LangID=TT
+3	өйрәнүче	өйрән	VERB	_	Tense=Pres|VerbForm=Part	4	acl	_	LangID=TT
+4	белгечләр	белгеч	NOUN	_	Case=Nom|Number=Plur	5	nmod	_	LangID=TT
+5	сүзләренчә	сүз	NOUN	_	Case=Equ|Number=Plur|Person[psor]=3	19	obl	_	LangID=TT|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	LangID=OTHER
+7	сишәмбе	сишәмбе	NOUN	_	Case=Nom|Number=Sing	19	obl	_	LangID=TT|SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	LangID=OTHER
+9	26	26	NUM	_	_	10	amod	_	LangID=TT
+10	апрельдә	апрель	NOUN	_	Case=Loc|Number=Sing	7	appos	_	CSPoint=апрель§дә|LangID=MIXED[RU§TT]|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	punct	_	LangID=OTHER
+12	Татарстан	Татарстан	PROPN	_	Case=Nom|Number=Sing	19	nsubj	_	LangID=TT
+13	циклонның	циклон	NOUN	_	Case=Gen|Number=Sing	15	nmod	_	CSPoint=циклон§ның|LangID=MIXED[RU§TT]
+14	җылы	җылы	ADJ	_	_	15	amod	_	LangID=TT
+15	секторында	сектор	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	19	obl	_	CSPoint=сектор§ында|LangID=MIXED[RU§TT]
+16	тотрыксыз	тотрыксыз	ADJ	_	_	18	amod	_	LangID=TT
+17	һава	һава	NOUN	_	Case=Nom|Number=Sing	18	nsubj	_	LangID=TT
+18	массасында	масса	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	19	obl	_	CSPoint=масса§сында|LangID=MIXED[RU§TT]
+19	булачак	бул	VERB	_	Tense=Fut|VerbForm=Part	0	root	_	LangID=TT|SpaceAfter=No
+20	.	.	PUNCT	_	_	19	punct	_	LangID=OTHER
+
+# sent_id = 5853693_20
+# link = https://tatar-inform.tatar/news/bu-atnada-tatarstanda-hava-temperaturasy-23s-ylylyktan-2-graduska-kadar-tosacak-5853693
+# genre = ecology
+# text = Явым-төшем көтелми.
+1	Явым-төшем	явым-төшем	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	LangID=TT
+2	көтелми	көт	VERB	_	Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	LangID=TT|SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	LangID=OTHER
+
+# sent_id = 5853693_27
+# link = https://tatar-inform.tatar/news/bu-atnada-tatarstanda-hava-temperaturasy-23s-ylylyktan-2-graduska-kadar-tosacak-5853693
+# genre = ecology
+# text = Моңа кадәр республиканың Гидрометеоүзәге Татарстан халкын яшенләр көтелүе һәм көчле җил турында кисәткән иде.
+1	Моңа	бу	PRON	_	Case=Dat|Number=Sing|PronType=Dem	13	obl	_	LangID=TT
+2	кадәр	кадәр	ADP	_	_	1	case	_	LangID=TT
+3	республиканың	республика	NOUN	_	Case=Gen|Number=Sing	4	nmod	_	CSPoint=республика§ның|LangID=MIXED[RU§TT]
+4	Гидрометеоүзәге	гидрометеоүзәк	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	13	nsubj	_	CSPoint=Гидрометео§үзәге|LangID=MIXED[RU§TT]
+5	Татарстан	Татарстан	PROPN	_	Case=Nom|Number=Sing	6	nmod	_	LangID=TT
+6	халкын	халык	NOUN	_	Case=Acc|Number=Sing|Person[psor]=3	13	obj	_	LangID=TT
+7	яшенләр	яшен	NOUN	_	Case=Nom|Number=Plur	8	nmod	_	LangID=TT
+8	көтелүе	көт	VERB	_	Case=Nom|Number=Sing|Person[psor]=3|VerbForm=Vnoun|Voice=Pass	13	obl	_	LangID=TT
+9	һәм	һәм	CCONJ	_	_	11	cc	_	LangID=TT
+10	көчле	көчле	ADJ	_	_	11	amod	_	LangID=TT
+11	җил	җил	NOUN	_	Case=Nom|Number=Sing	8	conj	_	LangID=TT
+12	турында	турында	ADP	_	_	8	case	_	LangID=TT
+13	кисәткән	кисәт	VERB	_	Tense=Past|VerbForm=Part	0	root	_	LangID=TT
+14	иде	иде	AUX	_	Person=3|Tense=Past|VerbForm=Fin	13	aux	_	LangID=TT|SpaceAfter=No
+15	.	.	PUNCT	_	_	13	punct	_	LangID=OTHER
+
+# sent_id = 5853693_3
+# link = https://tatar-inform.tatar/news/bu-atnada-tatarstanda-hava-temperaturasy-23s-ylylyktan-2-graduska-kadar-tosacak-5853693
+# genre = ecology
+# text = Төнлә бераз яңгыр яварга мөмкин, ләкин көндез һәм кичен яшенле яңгыр көтелә.
+1	Төнлә	төнлә	ADV	_	_	4	advmod	_	LangID=TT
+2	бераз	бераз	ADV	_	_	4	advmod	_	LangID=TT
+3	яңгыр	яңгыр	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	LangID=TT
+4	яварга	яу	VERB	_	VerbForm=Inf	0	root	_	LangID=TT
+5	мөмкин	мөмкин	AUX	_	_	4	aux	_	LangID=TT|SpaceAfter=No
+6	,	,	PUNCT	_	_	13	punct	_	LangID=OTHER
+7	ләкин	ләкин	CCONJ	_	_	13	cc	_	LangID=TT
+8	көндез	көндез	ADV	_	_	13	advmod	_	LangID=TT
+9	һәм	һәм	CCONJ	_	_	10	cc	_	LangID=TT
+10	кичен	кичен	ADV	_	_	8	conj	_	LangID=TT
+11	яшенле	яшенле	ADJ	_	_	12	amod	_	LangID=TT
+12	яңгыр	яңгыр	NOUN	_	Case=Nom|Number=Sing	13	nsubj	_	LangID=TT
+13	көтелә	көт	VERB	_	Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	4	conj	_	LangID=TT|SpaceAfter=No
+14	.	.	PUNCT	_	_	4	punct	_	LangID=OTHER
+
+# sent_id = 5853693_4
+# link = https://tatar-inform.tatar/news/bu-atnada-tatarstanda-hava-temperaturasy-23s-ylylyktan-2-graduska-kadar-tosacak-5853693
+# genre = ecology
+# text = Җилнең көче секундына 15 - 20 метр булыр дип фаразлана.
+1	Җилнең	җил	NOUN	_	Case=Gen|Number=Sing	2	nmod	_	LangID=TT
+2	көче	көч	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	8	nsubj	_	LangID=TT
+3	секундына	секунд	NOUN	_	Case=Dat|Number=Sing|Person[psor]=3	7	nmod	_	CSPoint=секунд§ына|LangID=MIXED[RU§TT]
+4	15	15	NUM	_	_	7	nummod	_	LangID=TT
+5	-	-	PUNCT	_	_	4	punct	_	LangID=OTHER
+6	20	20	NUM	_	_	4	flat	_	LangID=TT
+7	метр	метр	NOUN	_	Case=Nom|Number=Sing	8	xcomp	_	LangID=RU
+8	булыр	бул	VERB	_	Mood=Irr|Tense=Fut|VerbForm=Part	10	advcl	_	LangID=TT
+9	дип	ди	VERB	_	VerbForm=Conv	8	mark	_	LangID=TT
+10	фаразлана	фаразла	VERB	_	Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	LangID=TT|SpaceAfter=No
+11	.	.	PUNCT	_	_	10	punct	_	LangID=OTHER
+
+# sent_id = 5853703_0
+# link = https://tatar-inform.tatar/news/aznakaida-tatar-xalyk-goref-gadatlarena-bagyslangan-fotokurgazma-acyldy-5853703
+# genre = culture
+# text = Азнакайның Яңа юл бистәсендәге күп функцияле үзәктә биредә туып-үскән Рамил Фәттаховның фотокүргәзмәсе тәкъдим ителгән.
+1	Азнакайның	Азнакай	PROPN	_	Case=Gen|Number=Sing	4	nmod	_	LangID=TT
+2	Яңа	яңа	ADJ	_	_	3	amod	_	LangID=TT
+3	юл	юл	NOUN	_	Case=Nom|Number=Sing	4	nmod	_	LangID=TT
+4	бистәсендәге	бистә	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	7	amod	_	LangID=TT
+5	күп	күп	ADJ	_	_	6	amod	_	LangID=TT
+6	функцияле	функцияле	ADJ	_	_	7	amod	_	LangID=TT
+7	үзәктә	үзәк	NOUN	_	Case=Loc|Number=Sing	16	obl	_	LangID=TT
+8	биредә	биредә	ADV	_	_	11	obl	_	LangID=TT
+9	туып	ту	VERB	_	VerbForm=Conv	11	advcl	_	LangID=TT|SpaceAfter=No
+10	-	-	PUNCT	_	_	11	punct	_	LangID=TT|SpaceAfter=No
+11	үскән	үс	VERB	_	Tense=Past|VerbForm=Part	12	acl	_	LangID=TT
+12	Рамил	Рамил	PROPN	_	Case=Nom|Number=Sing	14	nmod	_	LangID=TT
+13	Фәттаховның	Фәттахов	PROPN	_	Case=Gen|Number=Sing	12	flat	_	LangID=TT
+14	фотокүргәзмәсе	фотокүргәзмә	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	16	nsubj	_	CSPoint=фото§күргәзмәсе|LangID=MIXED[RU§TT]
+15	тәкъдим	тәкъдим	NOUN	_	Case=Nom|Number=Sing	16	compound:lvc	_	LangID=TT
+16	ителгән	ит	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	LangID=TT|SpaceAfter=No
+17	.	.	PUNCT	_	_	16	punct	_	LangID=OTHER
+
+# sent_id = 5853703_1
+# link = https://tatar-inform.tatar/news/aznakaida-tatar-xalyk-goref-gadatlarena-bagyslangan-fotokurgazma-acyldy-5853703
+# genre = culture
+# text = Рамил Фәттахов үзенең фотоларында һәр мизгелне чагылдырган.
+1	Рамил	рамил	PROPN	_	Case=Nom|Number=Sing	7	nsubj	_	LangID=TT
+2	Фәттахов	Фәттахов	PROPN	_	Case=Nom|Number=Sing	1	flat	_	CSPoint=Фәттах§ов|LangID=MIXED[TT§RU]
+3	үзенең	үз	PRON	_	Case=Gen|Number=Sing|Person[psor]=3|Reflex=Yes	4	nmod	_	LangID=TT
+4	фотоларында	фото	NOUN	_	Case=Loc|Number=Plur|Person[psor]=3	7	obl	_	CSPoint=фото§ларында|LangID=MIXED[RU§TT]
+5	һәр	һәр	ADJ	_	_	6	amod	_	LangID=TT
+6	мизгелне	мизгел	NOUN	_	Case=Acc|Number=Sing	7	obj	_	LangID=TT
+7	чагылдырган	чагыл	VERB	_	Tense=Past|VerbForm=Part|Voice=Cau	0	root	_	LangID=TT|SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	_	LangID=OTHER
+
+# sent_id = 5853703_2
+# link = https://tatar-inform.tatar/news/aznakaida-tatar-xalyk-goref-gadatlarena-bagyslangan-fotokurgazma-acyldy-5853703
+# genre = culture
+# text = Үзебезнең тәбигать, кешеләр, аларның эчке кичерешләре, тарихыбыз, йолаларыбыз - барысы да фотода.
+1	Үзебезнең	үз	PRON	_	Case=Gen|Number[psor]=Plur|Person[psor]=1	2	nmod	_	LangID=TT
+2	тәбигать	тәбигать	NOUN	_	Case=Nom|Number=Sing	16	nsubj	_	LangID=TT|SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	LangID=OTHER
+4	кешеләр	кеше	NOUN	_	Case=Nom|Number=Plur	2	conj	_	LangID=TT|SpaceAfter=No
+5	,	,	PUNCT	_	_	8	punct	_	LangID=OTHER
+6	аларның	алар	PRON	_	Case=Gen|Number=Plur|PronType=Prs	8	nmod	_	LangID=TT
+7	эчке	эчке	ADJ	_	_	8	amod	_	LangID=TT
+8	кичерешләре	кичереш	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	2	conj	_	LangID=TT|SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	LangID=OTHER
+10	тарихыбыз	тарих	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=1	2	conj	_	LangID=TT|SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	LangID=OTHER
+12	йолаларыбыз	йола	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Plur|Person[psor]=1	2	conj	_	LangID=TT
+13	-	-	PUNCT	_	_	2	punct	_	LangID=OTHER
+14	барысы	бары	PRON	_	Case=Nom|Person[psor]=3|PronType=Tot	2	appos	_	LangID=TT
+15	да	да	ADV	_	_	14	advmod:emph	_	LangID=TT
+16	фотода	фото	NOUN	_	Case=Loc|Number=Sing	0	root	_	CSPoint=фото§да|LangID=MIXED[RU§TT]|SpaceAfter=No
+17	.	.	PUNCT	_	_	16	punct	_	LangID=OTHER
+
+# sent_id = 5853703_3
+# text = Бу турыда «Маяк» газетасы хәбәр итә.
+1	Бу	бу	PRON	_	_	8	obl	_	LangID=TT
+2	турыда	турыда	ADP	_	_	1	case	_	LangID=TT
+3	«	«	PUNCT	_	_	4	punct	_	LangID=TT|SpaceAfter=No
+4	Маяк	Маяк	PROPN	_	Case=Nom|Number=Sing	6	nmod	_	LangID=TT|SpaceAfter=No
+5	»	»	PUNCT	_	_	4	punct	_	LangID=OTHER
+6	газетасы	газета	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	8	nsubj	_	CSPoint=газета§сы|LangID=MIXED[RU§TT]
+7	хәбәр	хәбәр	NOUN	_	Case=Nom|Number=Sing	8	compound:lvc	_	LangID=TT
+8	итә	и	VERB	_	Tense=Pres|VerbForm=Fin	0	root	_	LangID=TT|SpaceAfter=No
+9	.	.	PUNCT	_	_	8	punct	_	LangID=OTHER
+
+# sent_id = 5853703_4
+# link = https://tatar-inform.tatar/news/aznakaida-tatar-xalyk-goref-gadatlarena-bagyslangan-fotokurgazma-acyldy-5853703
+# genre = culture
+# text = Күргәзмә 10 майга хәтле эшләвен дәвам итәчәк.
+1	Күргәзмә	күргәзмә	NOUN	_	Case=Nom|Number=Sing	7	nsubj	_	LangID=TT
+2	10	10	NUM	_	NumType=Ord	3	amod	_	LangID=TT
+3	майга	май	NOUN	_	Case=Dat|Number=Sing	7	obl	_	CSPoint=май§га|LangID=MIXED[RU§TT]
+4	хәтле	хәтле	ADP	_	_	3	case	_	LangID=TT
+5	эшләвен	эшлә	VERB	_	Case=Acc|Number=Sing|Person[psor]=3|VerbForm=Vnoun	7	obj	_	LangID=TT
+6	дәвам	дәвам	NOUN	_	Case=Nom|Number=Sing	7	compound:lvc	_	LangID=TT
+7	итәчәк	ит	VERB	_	Tense=Fut|VerbForm=Part	0	root	_	LangID=TT|SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	_	LangID=OTHER
+
+# sent_id = 5853708_0
+# link = https://tatar-inform.tatar/news/byel-rossiyadan-xaga-11-mennan-kubrak-kese-bara-alacak-5853708
+# genre = religion
+# text = Согуд Гарәбстаны рәсми рәвештә игълан итүенчә, быел бөтен дөньядан 1 млн кеше хаҗ кыла алачак.
+1	Согуд	Согуд	PROPN	_	Case=Nom|Number=Sing	2	nmod	_	LangID=TT
+2	Гарәбстаны	Гарәбстан	PROPN	_	Case=Nom|Number=Sing|Person[psor]=3	6	nmod	_	LangID=TT
+3	рәсми	рәсми	ADJ	_	_	4	amod	_	LangID=TT
+4	рәвештә	рәвеш	NOUN	_	Case=Loc|Number=Sing	6	obl	_	LangID=TT
+5	игълан	игълан	NOUN	_	Case=Nom|Number=Sing	6	compound:lvc	_	LangID=TT
+6	итүенчә	ит	VERB	_	Case=Equ|Person[psor]=3|VerbForm=Vnoun	15	advcl	_	LangID=TT|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	_	LangID=OTHER
+8	быел	быел	ADV	_	_	15	advmod	_	LangID=TT
+9	бөтен	бөтен	ADJ	_	_	10	amod	_	LangID=TT
+10	дөньядан	дөнья	NOUN	_	Case=Abl|Number=Sing	15	obl	_	LangID=TT
+11	1	1	NUM	_	NumType=Card	13	nummod	_	LangID=TT
+12	млн	млн	NUM	_	NumType=Card	11	flat	_	LangID=RU
+13	кеше	кеше	NOUN	_	Case=Nom|Number=Sing	15	nsubj	_	LangID=TT
+14	хаҗ	хаҗ	NOUN	_	Case=Nom|Number=Sing	15	compound:lvc	_	LangID=TT
+15	кыла	кыл	VERB	_	Aspect=Prog|VerbForm=Conv	0	root	_	LangID=TT
+16	алачак	ал	AUX	_	Tense=Fut|VerbForm=Part	15	aux	_	LangID=TT|SpaceAfter=No
+17	.	.	PUNCT	_	_	15	punct	_	LangID=OTHER
+
+# sent_id = 5853708_1
+# link = https://tatar-inform.tatar/news/byel-rossiyadan-xaga-11-mennan-kubrak-kese-bara-alacak-5853708
+# genre = religion
+# text = Россиядән 11318 кеше Хаҗга бара алачак.
+1	Россиядән	Россия	PROPN	_	Case=Abl|Number=Sing	5	obl	_	CSPoint=Россия§дән|LangID=MIXED[RU§TT]
+2	11318	11318	NUM	_	NumType=Card	3	nummod	_	LangID=TT
+3	кеше	кеше	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	LangID=TT
+4	Хаҗга	хаҗ	NOUN	_	Case=Dat|Number=Sing	5	obl	_	LangID=TT
+5	бара	бар	VERB	_	Aspect=Prog|VerbForm=Conv	0	root	_	LangID=TT
+6	алачак	ал	AUX	_	Tense=Fut|VerbForm=Part	5	aux	_	LangID=TT|SpaceAfter=No
+7	.	.	PUNCT	_	_	5	punct	_	LangID=OTHER
+
+# sent_id = 5853708_2
+# link = https://tatar-inform.tatar/news/byel-rossiyadan-xaga-11-mennan-kubrak-kese-bara-alacak-5853708
+# genre = religion
+# text = Быел Хаҗга бару өчен алдан түләү 2500 $ тәшкил итә.
+1	Быел	быел	ADV	_	_	3	advmod	_	LangID=TT
+2	Хаҗга	хаҗ	NOUN	_	Case=Dat|Number=Sing	3	obl	_	LangID=TT
+3	бару	бар	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	10	obl	_	LangID=TT
+4	өчен	өчен	ADP	_	_	3	case	_	LangID=TT
+5	алдан	ал	NOUN	_	Case=Abl|Number=Sing	6	obl	_	LangID=TT
+6	түләү	түлә	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	10	nsubj	_	LangID=TT
+7	2500	2500	NUM	_	NumType=Card	8	nummod	_	LangID=TT
+8	$	$	SYM	_	_	10	obj	_	LangID=OTHER
+9	тәшкил	тәшкил	NOUN	_	Case=Nom|Number=Sing	10	compound:lvc	_	LangID=TT
+10	итә	ит	VERB	_	Person=3|Tense=Pres|VerbForm=Fin	0	root	_	LangID=TT|SpaceAfter=No
+11	.	.	PUNCT	_	_	10	punct	_	LangID=OTHER
+
+# sent_id = 5853708_3
+# link = https://tatar-inform.tatar/news/byel-rossiyadan-xaga-11-mennan-kubrak-kese-bara-alacak-5853708
+# genre = religion
+# text = Юлламаларның төгәл бәясе соңрак мәгълүм булачак, дип хәбәр итә Россия мөселманнары шурасы матбугат хезмәте.
+1	Юлламаларның	юллама	NOUN	_	Case=Gen|Number=Plur	3	nmod	_	LangID=TT
+2	төгәл	төгәл	ADJ	_	_	3	amod	_	LangID=TT
+3	бәясе	бәя	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	6	nsubj	_	LangID=TT
+4	соңрак	соң	ADV	_	Degree=Cmp	6	advmod	_	LangID=TT
+5	мәгълүм	мәгълүм	ADJ	_	_	6	xcomp	_	LangID=TT
+6	булачак	бул	VERB	_	Tense=Fut|VerbForm=Part	10	advcl	_	LangID=TT|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	_	LangID=OTHER
+8	дип	ди	VERB	_	VerbForm=Conv	6	mark	_	LangID=TT
+9	хәбәр	хәбәр	NOUN	_	Case=Nom|Number=Sing	10	compound:lvc	_	LangID=TT
+10	итә	и	VERB	_	Person=3|Tense=Pres|VerbForm=Fin	0	root	_	LangID=TT
+11	Россия	Россия	PROPN	_	Case=Nom|Number=Sing	12	nmod	_	LangID=RU
+12	мөселманнары	мөселман	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	13	nmod	_	LangID=TT
+13	шурасы	шура	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	15	nmod	_	LangID=TT
+14	матбугат	матбугат	NOUN	_	Case=Nom|Number=Sing	15	nmod	_	LangID=TT
+15	хезмәте	хезмәт	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	10	nsubj	_	LangID=TT|SpaceAfter=No
+16	.	.	PUNCT	_	_	10	punct	_	LangID=OTHER
+
+# sent_id = 5853708_4
+# link = https://tatar-inform.tatar/news/byel-rossiyadan-xaga-11-mennan-kubrak-kese-bara-alacak-5853708
+# genre = religion
+# text = Быел хаҗга яше 65тән артмаган кешеләр бара алачак.
+1	Быел	быел	ADV	_	_	7	advmod	_	LangID=TT
+2	хаҗга	хаҗ	NOUN	_	Case=Dat|Number=Sing	7	obl	_	LangID=TT
+3	яше	яшь	ADJ	_	Case=Nom|Number=Sing|Person[psor]=3	5	nsubj	_	LangID=TT
+4	65тән	65тән	NUM	_	Case=Abl|NumType=Card	5	obl	_	LangID=TT
+5	артмаган	ар	VERB	_	Polarity=Neg|Tense=Past|VerbForm=Part	6	acl	_	LangID=TT
+6	кешеләр	кеше	NOUN	_	Case=Nom|Number=Plur	7	nsubj	_	LangID=TT
+7	бара	бар	VERB	_	Aspect=Prog|VerbForm=Conv	0	root	_	LangID=TT
+8	алачак	ал	AUX	_	Tense=Fut|VerbForm=Part	7	aux	_	LangID=TT|SpaceAfter=No
+9	.	.	PUNCT	_	_	7	punct	_	LangID=OTHER
+
+# sent_id = 5853708_5
+# link = https://tatar-inform.tatar/news/byel-rossiyadan-xaga-11-mennan-kubrak-kese-bara-alacak-5853708
+# genre = religion
+# text = Шулай ук үзең белән коронавируска каршы прививка ясатылган сертификат һәм ПЦР-тест булырга тиеш.
+1	Шулай	шулай	ADV	_	_	12	advmod	_	LangID=TT
+2	ук	ук	ADV	_	_	1	fixed	_	LangID=TT
+3	үзең	үз	PRON	_	Case=Nom|Number[psor]=Sing|Person[psor]=2	12	obl	_	LangID=TT
+4	белән	белән	ADP	_	_	3	case	_	LangID=TT
+5	коронавируска	коронавирус	NOUN	_	_	7	amod	_	CSPoint=коронавирус§ка|LangID=MIXED[RU§TT]
+6	каршы	каршы	ADP	_	_	5	case	_	LangID=TT
+7	прививка	прививка	NOUN	_	Case=Nom|Number=Sing	8	nsubj	_	LangID=RU
+8	ясатылган	яса	VERB	_	Tense=Past|VerbForm=Part|Voice=CauPass	9	acl	_	LangID=TT
+9	сертификат	сертификат	NOUN	_	Case=Nom|Number=Sing	12	nsubj	_	LangID=RU
+10	һәм	һәм	CCONJ	_	_	11	cc	_	LangID=TT
+11	ПЦР-тест	ПЦР-тест	NOUN	_	_	9	conj	_	LangID=RU
+12	булырга	бул	VERB	_	VerbForm=Inf	0	root	_	LangID=TT
+13	тиеш	тиеш	AUX	_	_	12	aux	_	LangID=TT|SpaceAfter=No
+14	.	.	PUNCT	_	_	12	punct	_	LangID=OTHER
+
 # sent_id = 5853685_14
+# link = https://tatar-inform.tatar/news/aigiz-baimoxammatov-kazan-utlary-zurnalyn-baskortlar-ale-da-kuplap-aldyra-5853685
+# genre = society
 # text = Монда үз милләтләренең асыл егетләре җыелган.
 1	Монда	бу	PRON	_	Case=Dat|Number=Sing|PronType=Dem	6	obl	_	LangID=TT
 2	үз	үз	PRON	_	Case=Nom|Number=Sing|PronType=Prs|Reflex=Yes	3	nmod	_	LangID=TT
 3	милләтләренең	милләт	NOUN	_	Case=Gen|Number=Plur|Person[psor]=3	5	nmod	_	LangID=TT
 4	асыл	асыл	ADJ	_	_	5	amod	_	LangID=TT
 5	егетләре	егет	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	6	nsubj	_	LangID=TT
-6	җыелган	җый	VERB	_	Tense=Past|VerbForm=Part|Voice=Mid	0	_	_	LangID=TT
+6	җыелган	җый	VERB	_	Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	LangID=TT|SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	LangID=OTHER
 
 # sent_id = 5853685_15
-# text = «Казан утлары» ның йөз еллыгы белән төрки дөньяның дуслыгын исбатладык.
+# link = https://tatar-inform.tatar/news/aigiz-baimoxammatov-kazan-utlary-zurnalyn-baskortlar-ale-da-kuplap-aldyra-5853685
+# genre = society
+# text = «Казан утлары» ның йөз еллыгы белән төрки дөньяның дуслыгын исбатладык.
 1	«	«	PUNCT	_	_	3	punct	_	LangID=TT|SpaceAfter=No
 2	Казан	Казан	PROPN	_	Case=Nom|Number=Sing	3	nmod	_	LangID=TT
-3	утлары	ут	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	7	nmod	_	LangID=TT
+3	утлары	ут	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	7	nmod	_	LangID=TT|SpaceAfter=No
 4	»	»	PUNCT	_	_	3	punct	_	LangID=OTHER
 5	ның	ның	ADP	_	Case=Gen	3	case	_	LangID=TT
-6	йөз	йөз	NUM	_	NumType=Card	7	nummod	_	LangID=TT
+6	йөз	йөз	NUM	_	NumType=Card	7	nummod	_	LangID=TT
 7	еллыгы	еллык	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	12	obl	_	LangID=TT
 8	белән	белән	ADP	_	_	7	case	_	LangID=TT
 9	төрки	төрки	ADJ	_	_	10	amod	_	LangID=TT
 10	дөньяның	дөнья	NOUN	_	Case=Gen|Number=Sing	11	nmod	_	LangID=TT
 11	дуслыгын	дуслык	NOUN	_	Case=Acc|Number=Sing|Person[psor]=3	12	obj	_	LangID=TT
-12	исбатладык	исбатла	VERB	_	Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	_	_	LangID=TT
+12	исбатладык	исбатла	VERB	_	Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	LangID=TT|SpaceAfter=No
 13	.	.	PUNCT	_	_	12	punct	_	LangID=OTHER
 
 # sent_id = 5853685_16
-# text = Язучылар - милләтнең йөзек кашы.
+# link = https://tatar-inform.tatar/news/aigiz-baimoxammatov-kazan-utlary-zurnalyn-baskortlar-ale-da-kuplap-aldyra-5853685
+# genre = society
+# text = Язучылар - милләтнең йөзек кашы.
 1	Язучылар	яз	VERB	_	Case=Nom|Number=Plur|VerbForm=NomAg	5	nsubj	_	LangID=TT
 2	-	-	PUNCT	_	_	5	punct	_	LangID=OTHER
 3	милләтнең	милләт	NOUN	_	Case=Gen|Number=Sing	5	nmod	_	LangID=TT
-4	йөзек	йөзек	NOUN	_	Case=Nom|Number=Sing	5	nmod	_	LangID=TT
-5	кашы	каш	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	0	_	_	LangID=TT
+4	йөзек	йөзек	NOUN	_	Case=Nom|Number=Sing	5	nmod	_	LangID=TT
+5	кашы	каш	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	0	root	_	LangID=TT|SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	LangID=OTHER
 
 # sent_id = 5853690_10
-# text = Искә алып, чын күңелдән котлыйбыз.
+# link = https://tatar-inform.tatar/news/samara-tatarlary-berdamlek-gazetasyn-tugan-kone-belan-kotlyi-5853690
+# genre = tatar publication
+# text = Искә алып, чын күңелдән котлыйбыз.
 1	Искә	ис	NOUN	_	Case=Dat|Number=Sing	2	obl	_	LangID=TT
-2	алып	ал	VERB	_	VerbForm=Conv	6	advcl	_	LangID=TT
+2	алып	ал	VERB	_	VerbForm=Conv	6	advcl	_	LangID=TT|SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	LangID=OTHER
 4	чын	чын	ADJ	_	_	5	amod	_	LangID=TT
 5	күңелдән	күңел	NOUN	_	Case=Abl|Number=Sing	6	obl	_	LangID=TT
-6	котлыйбыз	котла	VERB	_	Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	_	_	LangID=TT
+6	котлыйбыз	котла	VERB	_	Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	LangID=TT|SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	LangID=OTHER
 
 # sent_id = 5853690_3
+# link = https://tatar-inform.tatar/news/samara-tatarlary-berdamlek-gazetasyn-tugan-kone-belan-kotlyi-5853690
+# genre = tatar publication
 # text = Моннан 22 ел элек «Әбекәемнең күргәннәре» дип аталган язмадан башланган иҗат юлыма сезнең белән аяк бастым.
 1	Моннан	моннан	PRON	_	Case=Abl|Number=Sing|PronType=Dem	3	nmod	_	LangID=TT
 2	22	22	NUM	_	NumType=Card	3	nummod	_	LangID=TT
 3	ел	ел	NOUN	_	Case=Nom|Number=Sing	18	obl	_	LangID=TT
 4	элек	элек	ADP	_	_	3	case	_	LangID=TT
-5	«	«	PUNCT	_	_	7	punct	_	LangID=OTHER
+5	«	«	PUNCT	_	_	7	punct	_	LangID=OTHER|SpaceAfter=No
 6	Әбекәемнең	әбекәй	NOUN	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=1	7	nmod	_	LangID=TT
-7	күргәннәре	күр	VERB	_	Case=Nom|Number=Plur|Person[psor]=3|Tense=Past|VerbForm=Part	10	appos	_	LangID=TT
+7	күргәннәре	күр	VERB	_	Case=Nom|Number=Plur|Person[psor]=3|Tense=Past|VerbForm=Part	10	ccomp	_	LangID=TT|SpaceAfter=No
 8	»	»	PUNCT	_	_	7	punct	_	LangID=OTHER
 9	дип	дип	SCONJ	_	_	10	mark	_	LangID=TT
 10	аталган	ата	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	11	acl	_	LangID=TT
@@ -59,101 +1990,117 @@
 12	башланган	башла	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	14	acl	_	LangID=TT
 13	иҗат	иҗат	NOUN	_	Case=Nom|Number=Sing	14	nmod	_	LangID=TT
 14	юлыма	юл	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=1	18	obl	_	LangID=TT
-15	сезнең	сез	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Pers	18	obl	_	LangID=TT
+15	сезнең	сез	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	18	obl	_	LangID=TT
 16	белән	белән	ADP	_	_	15	case	_	LangID=TT
 17	аяк	аяк	NOUN	_	Case=Nom|Number=Sing	18	obj	_	LangID=TT
-18	бастым	бас	VERB	_	Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	_	_	LangID=TT
+18	бастым	бас	VERB	_	Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	LangID=TT|SpaceAfter=No
 19	.	.	PUNCT	_	_	18	punct	_	LangID=OTHER
 
 # sent_id = 5853690_4
-# text = Рәфгать абый (урыны җәннәттә булсын!): «Язмаң бигрәк ошады, тагын яз», — дигәч, газетага язгалый башладым.
+# link = https://tatar-inform.tatar/news/samara-tatarlary-berdamlek-gazetasyn-tugan-kone-belan-kotlyi-5853690
+# genre = tatar publication
+# text = Рәфгать абый (урыны җәннәттә булсын!): «Язмаң бигрәк ошады, тагын яз», — дигәч, газетага язгалый башладым.
 1	Рәфгать	Рәфгать	PROPN	_	Case=Nom|Number=Sing	20	nsubj	_	LangID=TT
-2	абый	абый	NOUN	_	Case=Nom|Number=Sing	1	flat	_	LangID=TT
-3	(	(	PUNCT	_	_	6	punct	_	LangID=OTHER
+2	абый	абый	NOUN	_	Case=Nom|Number=Sing	1	flat	_	LangID=TT
+3	(	(	PUNCT	_	_	6	punct	_	LangID=OTHER|SpaceAfter=No
 4	урыны	урын	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	6	nsubj	_	LangID=TT
 5	җәннәттә	җәннәт	NOUN	_	Case=Loc|Number=Sing	6	obl	_	LangID=TT
-6	булсын	бул	VERB	_	Mood=Imp|Person=3|VerbForm=Fin	1	parataxis	_	LangID=TT
-7	!	!	PUNCT	_	_	6	punct	_	LangID=OTHER
-8	)	)	PUNCT	_	_	6	punct	_	LangID=OTHER
+6	булсын	бул	VERB	_	Mood=Imp|Person=3|VerbForm=Fin	1	parataxis	_	LangID=TT|SpaceAfter=No
+7	!	!	PUNCT	_	_	6	punct	_	LangID=OTHER|SpaceAfter=No
+8	)	)	PUNCT	_	_	6	punct	_	LangID=OTHER|SpaceAfter=No
 9	:	:	PUNCT	_	_	1	punct	_	LangID=OTHER
-10	«	«	PUNCT	_	_	13	punct	_	LangID=OTHER
+10	«	«	PUNCT	_	_	13	punct	_	LangID=OTHER|SpaceAfter=No
 11	Язмаң	язма	NOUN	_	Case=Nom|Number=Sing|Person[psor]=2	13	nsubj	_	LangID=TT
 12	бигрәк	бик	ADV	_	Degree=Cmp	13	advmod	_	LangID=TT
-13	ошады	оша	VERB	_	Person=3|Tense=Past|VerbForm=Fin	0	_	_	LangID=TT
+13	ошады	оша	VERB	_	Person=3|Tense=Past|VerbForm=Fin	20	ccomp	_	LangID=TT|SpaceAfter=No
 14	,	,	PUNCT	_	_	16	punct	_	LangID=OTHER
 15	тагын	тагын	ADV	_	_	16	advmod	_	LangID=TT
-16	яз	яз	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	13	parataxis	_	LangID=TT
-17	»	»	PUNCT	_	_	13	punct	_	LangID=OTHER
+16	яз	яз	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	13	parataxis	_	LangID=TT|SpaceAfter=No
+17	»	»	PUNCT	_	_	13	punct	_	LangID=OTHER|SpaceAfter=No
 18	,	,	PUNCT	_	_	20	punct	_	LangID=OTHER
 19	—	—	PUNCT	_	_	20	punct	_	LangID=OTHER
-20	дигәч	ди	VERB	_	Aspect=Perf|VerbForm=Conv	23	advcl	_	LangID=TT
+20	дигәч	ди	VERB	_	Aspect=Perf|VerbForm=Conv	23	advcl	_	LangID=TT|SpaceAfter=No
 21	,	,	PUNCT	_	_	20	punct	_	LangID=OTHER
 22	газетага	газета	NOUN	_	Case=Dat|Number=Sing	23	obl	_	CSPoint=газета§га|LangID=MIXED[RU§TT]
-23	язгалый	яз	VERB	_	Aspect=Iter|Aspect=Prog|VerbForm=Conv	0	_	_	LangID=TT
-24	башладым	башла	AUX	_	Number=Sing|Person=1|Tense=Past|VerbForm=Fin	23	aux	_	LangID=TT
+23	язгалый	яз	VERB	_	Aspect=Iter|VerbForm=Conv	0	root	_	LangID=TT
+24	башладым	башла	AUX	_	Number=Sing|Person=1|Tense=Past|VerbForm=Fin	23	aux	_	LangID=TT|SpaceAfter=No
 25	.	.	PUNCT	_	_	23	punct	_	LangID=OTHER
 
 # sent_id = 5853690_5
+# link = https://tatar-inform.tatar/news/samara-tatarlary-berdamlek-gazetasyn-tugan-kone-belan-kotlyi-5853690
+# genre = tatar publication
 # text = Аннан туктап булмады.
 1	Аннан	ул	PRON	_	Case=Abl|Number=Sing|PronType=Dem	2	obl	_	LangID=TT
-2	туктап	тукта	VERB	_	VerbForm=Conv	0	_	_	LangID=TT
-3	булмады	бул	AUX	_	Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	2	aux	_	LangID=TT
+2	туктап	тукта	VERB	_	VerbForm=Conv	0	root	_	LangID=TT
+3	булмады	бул	AUX	_	Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	2	aux	_	LangID=TT|SpaceAfter=No
 4	.	.	PUNCT	_	_	2	punct	_	LangID=OTHER
 
 # sent_id = 5853690_6
+# link = https://tatar-inform.tatar/news/samara-tatarlary-berdamlek-gazetasyn-tugan-kone-belan-kotlyi-5853690
+# genre = tatar publication
 # text = Барлык язмаларымны да бастырып килдегез.
 1	Барлык	барлык	PRON	_	PronType=Tot	2	amod	_	LangID=TT
 2	язмаларымны	язма	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=1	4	obj	_	LangID=TT
 3	да	да	ADV	_	_	2	advmod:emph	_	LangID=TT
-4	бастырып	бас	VERB	_	VerbForm=Conv|Voice=Cau	0	_	_	LangID=TT
-5	килдегез	кил	AUX	_	Number=Plur|Person=2|Tense=Past|VerbForm=Fin	4	aux	_	LangID=TT
+4	бастырып	бас	VERB	_	VerbForm=Conv|Voice=Cau	0	root	_	LangID=TT
+5	килдегез	кил	AUX	_	Number=Plur|Person=2|Tense=Past|VerbForm=Fin	4	aux	_	LangID=TT|SpaceAfter=No
 6	.	.	PUNCT	_	_	4	punct	_	LangID=OTHER
 
 # sent_id = 5853690_7
+# link = https://tatar-inform.tatar/news/samara-tatarlary-berdamlek-gazetasyn-tugan-kone-belan-kotlyi-5853690
+# genre = tatar publication
 # text = Бик зур рәхмәт сезгә!
 1	Бик	бик	ADV	_	_	2	advmod	_	LangID=TT
 2	зур	зур	ADJ	_	_	3	amod	_	LangID=TT
-3	рәхмәт	рәхмәт	NOUN	_	Case=Nom|Number=Sing	0	_	_	LangID=TT
-4	сезгә	сез	PRON	_	Case=Dat|Number=Plur|PronType=Pers	3	obl	_	LangID=TT
+3	рәхмәт	рәхмәт	NOUN	_	Case=Nom|Number=Sing	0	root	_	LangID=TT
+4	сезгә	сез	PRON	_	Case=Dat|Number=Plur|PronType=Prs	3	obl	_	LangID=TT|SpaceAfter=No
 5	!	!	PUNCT	_	_	3	punct	_	LangID=OTHER
 
 # sent_id = 5853690_9
+# link = https://tatar-inform.tatar/news/samara-tatarlary-berdamlek-gazetasyn-tugan-kone-belan-kotlyi-5853690
+# genre = tatar publication
 # text = Хәл итү җиңел бирелә.
 1	Хәл	хәл	NOUN	_	Case=Nom|Number=Sing	2	compound:lvc	_	LangID=TT
 2	итү	ит	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	4	nsubj	_	LangID=TT
 3	җиңел	җиңел	ADJ	_	_	4	advmod	_	LangID=TT
-4	бирелә	бир	VERB	_	Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	_	_	LangID=TT
+4	бирелә	бир	VERB	_	Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	LangID=TT|SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	LangID=OTHER
 
 # sent_id = 5853694_1
+# link = https://tatar-inform.tatar/news/kamal-teatrynda-kazan-utlary-zurnalynyn-100-ellygyna-bagyslangan-kica-bara-5853694
+# genre = culture
 # text = Ул журналның туган телебез сагында торуын ассызыклады.
-1	Ул	ул	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	7	nsubj	_	LangID=TT
+1	Ул	ул	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	LangID=TT
 2	журналның	журнал	NOUN	_	Case=Gen|Number=Sing	6	nmod	_	CSPoint=журнал§ның|LangID=MIXED[RU§TT]
 3	туган	туган	ADJ	_	_	4	amod	_	LangID=TT
 4	телебез	тел	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=1	5	nmod	_	LangID=TT
 5	сагында	сак	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	6	obl	_	LangID=TT
 6	торуын	тор	VERB	_	Case=Acc|Number=Sing|Person[psor]=3|VerbForm=Vnoun	7	obj	_	LangID=TT
-7	ассызыклады	ассызыкла	VERB	_	Person=3|Tense=Past|VerbForm=Fin	0	_	_	LangID=TT
+7	ассызыклады	ассызыкла	VERB	_	Person=3|Tense=Past|VerbForm=Fin	0	root	_	LangID=TT|SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	LangID=OTHER
 
 # sent_id = 5853694_10
-# text = Кичәне «Татар - информ» агентлыгы онлайн күрсәтә.
+# link = https://tatar-inform.tatar/news/kamal-teatrynda-kazan-utlary-zurnalynyn-100-ellygyna-bagyslangan-kica-bara-5853694
+# genre = culture
+# text = Кичәне «Татар-информ» агентлыгы онлайн күрсәтә.
 1	Кичәне	кичә	NOUN	_	Case=Acc|Number=Sing	9	obj	_	LangID=TT
-2	«	«	PUNCT	_	_	3	punct	_	LangID=OTHER
-3	Татар	татар	NOUN	_	Case=Nom|Number=Sing	7	nmod	_	LangID=TT
-4	-	-	PUNCT	_	_	5	punct	_	LangID=OTHER
-5	информ	информ	NOUN	_	Case=Nom|Number=Sing	3	compound	_	LangID=RU
+2	«	«	PUNCT	_	_	3	punct	_	LangID=OTHER|SpaceAfter=No
+3	Татар	татар	NOUN	_	Case=Nom|Number=Sing	7	nmod	_	LangID=TT|SpaceAfter=No
+4	-	-	PUNCT	_	_	5	punct	_	LangID=OTHER|SpaceAfter=No
+5	информ	информ	NOUN	_	Case=Nom|Number=Sing	3	compound	_	LangID=RU|SpaceAfter=No
 6	»	»	PUNCT	_	_	3	punct	_	LangID=OTHER
 7	агентлыгы	агентлык	NOUN	Case=Nom|Number=Sing|Person[psor]=3	_	9	nsubj	_	CSPoint=агент§лыгы|LangID=MIXED
-8	онлайн	онлайн	ADV	_	_	9	advmod	_	LangID=RU
-9	күрсәтә	күрсәт	VERB	_	Person=3|Tense=Pers|VerbForm=Fin	0	_	_	LangID=TT
+8	онлайн	онлайн	ADV	_	_	9	advmod	_	LangID=RU
+9	күрсәтә	күрсәт	VERB	_	Person=3|Tense=Pres|VerbForm=Fin	0	root	_	LangID=TT|SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	LangID=OTHER
 
 # sent_id = 5853694_2
+# link = https://tatar-inform.tatar/news/kamal-teatrynda-kazan-utlary-zurnalynyn-100-ellygyna-bagyslangan-kica-bara-5853694
+# genre = culture
 # text = «Казан утлары» журналының алга таба да әдәби мирасны халыкка җиткерүен, әдәбият, журнал һәм укучы чылбырының өзелмәвен теләде.
-1	«	«	PUNCT	_	_	3	punct	_	LangID=OTHER
+1	«	«	PUNCT	_	_	3	punct	_	LangID=OTHER|SpaceAfter=No
 2	Казан	Казан	PROPN	_	Case=Nom|Number=Sing	3	nmod	_	LangID=TT
-3	утлары	ут	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	5	nmod	_	LangID=TT
+3	утлары	ут	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	5	nmod	_	LangID=TT|SpaceAfter=No
 4	»	»	PUNCT	_	_	3	punct	_	LangID=OTHER
 5	журналының	журнал	NOUN	_	Case=Gen|Number=Sing|Person[psor]=3	12	nmod	_	CSPoint=журнал§ының|LangID=MIXED[RU§TT]
 6	алга	ал	NOUN	_	Case=Dat|Number=Sing	12	obl	_	LangID=TT
@@ -162,25 +2109,27 @@
 9	әдәби	әдәби	ADJ	_	_	10	amod	_	LangID=TT
 10	мирасны	мирас	NOUN	_	Case=Acc|Number=Sing	12	obj	_	LangID=TT
 11	халыкка	халык	NOUN	_	Case=Dat|Number=Sing	12	obl	_	LangID=TT
-12	җиткерүен	җиткер	VERB	_	Case=Acc|Number=Sing|Person[psor]=3|VerbForm=Vnoun	21	obj	_	LangID=TT
+12	җиткерүен	җиткер	VERB	_	Case=Acc|Number=Sing|Person[psor]=3|VerbForm=Vnoun	21	obj	_	LangID=TT|SpaceAfter=No
 13	,	,	PUNCT	_	_	12	punct	_	LangID=OTHER
-14	әдәбият	әдәбият	NOUN	_	Case=Nom|Number=Sing	19	nmod	_	LangID=TT
+14	әдәбият	әдәбият	NOUN	_	Case=Nom|Number=Sing	19	nmod	_	LangID=TT|SpaceAfter=No
 15	,	,	PUNCT	_	_	16	punct	_	LangID=OTHER
 16	журнал	журнал	NOUN	_	Case=Nom|Number=Sing	14	conj	_	LangID=RU
 17	һәм	һәм	CCONJ	_	_	18	cc	_	LangID=TT
 18	укучы	укы	VERB	_	Case=Nom|Number=Sing|VerbForm=NomAg	14	conj	_	LangID=TT
 19	чылбырының	чылбыр	NOUN	_	Case=Gen|Number=Sing|Person[psor]=3	20	nmod	_	LangID=TT
 20	өзелмәвен	өз	VERB	_	Case=Acc|Number=Sing|Person[psor]=3|Polarity=Neg|VerbForm=Vnoun|Voice=Pass	12	conj	_	LangID=TT
-21	теләде	телә	VERB	_	Person=3|Tense=Past|VerbForm=Fin	0	_	_	LangID=TT
+21	теләде	телә	VERB	_	Person=3|Tense=Past|VerbForm=Fin	0	root	_	LangID=TT|SpaceAfter=No
 22	.	.	PUNCT	_	_	21	punct	_	LangID=OTHER
 
 # sent_id = 5853694_3
+# link = https://tatar-inform.tatar/news/kamal-teatrynda-kazan-utlary-zurnalynyn-100-ellygyna-bagyslangan-kica-bara-5853694
+# genre = culture
 # text = Марат Əхмәтов «Казан утлары» журналына Татарстан Президенты Рөстәм Миңнехановның һәм Татарстан Республикасы Дәүләт Советының Рәхмәт хатларын тапшырды.
 1	Марат	Марат	PROPN	_	Case=Nom|Number=Sing	19	nsubj	_	LangID=TT
 2	Əхмәтов	Əхмәтов	PROPN	_	Case=Nom|Number=Sing	1	flat	_	CSPoint=Əхмәт§ов|LangID=MIXED[TT§RU]
-3	«	«	PUNCT	_	_	5	punct	_	LangID=OTHER
+3	«	«	PUNCT	_	_	5	punct	_	LangID=OTHER|SpaceAfter=No
 4	Казан	Казан	PROPN	_	Case=Nom|Number=Sing	5	nmod	_	LangID=TT
-5	утлары	ут	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	7	nmod	_	LangID=TT
+5	утлары	ут	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	7	nmod	_	LangID=TT|SpaceAfter=No
 6	»	»	PUNCT	_	_	5	punct	_	LangID=OTHER
 7	журналына	журнал	NOUN	_	Case=Dat|Number=Sing|Person[psor]=3	19	obl	_	CSPoint=журнал§ына|LangID=MIXED[RU§TT]
 8	Татарстан	Татарстан	PROPN	_	Case=Nom|Number=Sing	9	nmod	_	LangID=TT
@@ -194,30 +2143,34 @@
 16	Советының	совет	NOUN	_	Case=Gen|Number=Sing|Person[psor]=3	9	conj	_	CSPoint=Совет§ының|LangID=MIXED[RU§TT]
 17	Рәхмәт	рәхмәт	NOUN	_	Case=Nom|Number=Sing	18	nmod	_	LangID=TT
 18	хатларын	хат	NOUN	_	Case=Acc|Number=Plur|Person[psor]=3	19	obj	_	LangID=TT
-19	тапшырды	тапшыр	VERB	_	Person=3|Tense=Past|VerbForm=Fin	0	_	_	LangID=TT
+19	тапшырды	тапшыр	VERB	_	Person=3|Tense=Past|VerbForm=Fin	0	root	_	LangID=TT|SpaceAfter=No
 20	.	.	PUNCT	_	_	19	punct	_	LangID=OTHER
 
 # sent_id = 5853694_5
-# text = Котлауларны журналның баш мөхәррире Рөстәм 5 кабул итеп алды.
+# link = https://tatar-inform.tatar/news/kamal-teatrynda-kazan-utlary-zurnalynyn-100-ellygyna-bagyslangan-kica-bara-5853694
+# genre = culture
+# text = Котлауларны журналның баш мөхәррире Рөстәм Галиуллин кабул итеп алды.
 1	Котлауларны	котла	VERB	_	Case=Acc|Number=Plur|VerbForm=Vnoun	8	obj	_	LangID=TT
 2	журналның	журнал	NOUN	_	Case=Gen|Number=Sing	4	nmod	_	CSPoint=журнал§ның|LangID=MIXED[RU§TT]
 3	баш	баш	ADJ	_	_	4	amod	_	LangID=TT
 4	мөхәррире	мөхәррир	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	8	nsubj	_	LangID=TT
 5	Рөстәм	Рөстәм	PROPN	_	Case=Nom|Number=Sing	4	appos	_	LangID=TT
-Case=Nom|Number=Sing	5	flat	_	CSPoint=Галиулл§ин|LangID=MIXED[TT§RU]
+6	Галиуллин	Галиуллин	PROPN	_	Case=Nom|Number=Sing	5	flat	_	CSPoint=Галиулл§ин|LangID=MIXED[TT§RU]
 7	кабул	кабул	NOUN	_	Case=Nom|Number=Sing	8	compound:lvc	_	LangID=TT
-8	итеп	ит	VERB	_	VerbForm=Conv	0	_	_	LangID=TT
-9	алды	ал	AUX	_	Person=3|Tense=Past|VerbForm=Fin	8	aux	_	LangID=TT
+8	итеп	ит	VERB	_	VerbForm=Conv	0	root	_	LangID=TT
+9	алды	ал	AUX	_	Person=3|Tense=Past|VerbForm=Fin	8	aux	_	LangID=TT|SpaceAfter=No
 10	.	.	PUNCT	_	_	8	punct	_	LangID=OTHER
 
 # sent_id = 5853694_6
+# link = https://tatar-inform.tatar/news/kamal-teatrynda-kazan-utlary-zurnalynyn-100-ellygyna-bagyslangan-kica-bara-5853694
+# genre = culture
 # text = Кичә «Казан утлары» журналы тарихы аша татар әдәбияты тарихын күз алдыннан үткәрә.
 1	Кичә	кичә	ADV	_	_	14	advmod	_	LangID=TT
-2	«	«	PUNCT	_	_	4	punct	_	LangID=OTHER
+2	«	«	PUNCT	_	_	4	punct	_	LangID=OTHER|SpaceAfter=No
 3	Казан	Казан	PROPN	_	Case=Nom|Number=Sing	4	nmod	_	LangID=TT
-4	утлары	ут	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	6	nmod	_	LangID=TT
+4	утлары	ут	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	6	nmod	_	LangID=TT|SpaceAfter=No
 5	»	»	PUNCT	_	_	4	punct	_	LangID=OTHER
-6	журналы	журнал	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	7	mod	_	CSPoint=журнал§ы|LangID=MIXED[RU§TT]
+6	журналы	журнал	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	7	nmod	_	CSPoint=журнал§ы|LangID=MIXED[RU§TT]
 7	тарихы	тарих	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	14	obl	_	LangID=TT
 8	аша	аша	ADP	_	_	7	case	_	LangID=TT
 9	татар	татар	NOUN	_	Case=Nom|Number=Sing	10	nmod	_	LangID=TT
@@ -225,20 +2178,22 @@ Case=Nom|Number=Sing	5	flat	_	CSPoint=Галиулл§ин|LangID=MIXED[TT§RU]
 11	тарихын	тарих	NOUN	_	Case=Acc|Number=Sing|Person[psor]=3	14	obj	_	LangID=TT
 12	күз	күз	NOUN	_	Case=Nom|Number=Sing	13	nmod	_	LangID=TT
 13	алдыннан	ал	NOUN	_	Case=Abl|Number=Sing|Person[psor]=3	14	obl	_	LangID=TT
-14	үткәрә	үткәр	VERB	_	Person=3|Tense=Pres|VerbForm=Fin	0	_	_	LangID=TT
+14	үткәрә	үткәр	VERB	_	Person=3|Tense=Pres|VerbForm=Fin	0	root	_	LangID=TT|SpaceAfter=No
 15	.	.	PUNCT	_	_	14	punct	_	LangID=OTHER
 
 # sent_id = 5853701_0
-# text = Быел Түбән Кама шәһәре һәм район җирлегендә юлларны төзекләндерүгә 1 млрд 955 млн сум акча сарыф итәргә ниятлиләр.
+# link = https://tatar-inform.tatar/news/tuban-kamada-avtomobil-yullaryn-remontlau-ocen-2-milliard-sumga-yakyn-akca-totylacak-5853701
+# genre = society
+# text = Быел Түбән Кама шәһәре һәм район җирлегендә юлларны төзекләндерүгә 1 млрд 955 млн сум акча сарыф итәргә ниятлиләр.
 1	Быел	быел	ADV	_	_	17	advmod	_	LangID=TT
 2	Түбән	түбән	ADJ	_	_	3	compound	_	LangID=TT
 3	Кама	Кама	PROPN	_	Case=Nom|Number=Sing	4	nmod	_	LangID=TT
 4	шәһәре	шәһәр	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	9	obl	_	LangID=TT
 5	һәм	һәм	CCONJ	_	_	7	cc	_	LangID=TT
-6	район	район	NOUN	_	Case=Nom|Number=Sing	7	nmod	_	LangID=RU
+6	район	район	NOUN	_	Case=Nom|Number=Sing	7	nmod	_	LangID=RU
 7	җирлегендә	җирлек	NOUN	Case=Loc|Number=Sing|Person[psor]=3	_	4	conj	_	LangID=TT
 8	юлларны	юл	NOUN	_	Case=Acc|Number=Plur	9	obj	_	LangID=TT
-9	төзекләндерүгә	төзеклән	VERB 	_	Case=Dat|Number=Sing|VerbForm=Vnoun|Voice=Cau	17	obl	_	LangID=TT
+9	төзекләндерүгә	төзеклән	VERB	_	Case=Dat|Number=Sing|VerbForm=Vnoun|Voice=Cau	17	obl	_	LangID=TT
 10	1	1	NUM	_	_	13	compound	_	LangID=TT
 11	млрд	млрд	NUM	_	_	13	compound	_	LangID=RU
 12	955	955	NUM	_	_	13	compound	_	LangID=TT
@@ -247,109 +2202,123 @@ Case=Nom|Number=Sing	5	flat	_	CSPoint=Галиулл§ин|LangID=MIXED[TT§RU]
 15	акча	акча	NOUN	_	Case=Nom|Number=Sing	17	obj	_	LangID=TT
 16	сарыф	сарыф	NOUN	_	Case=Nom|Number=Sing	17	compound:lvc	_	LangID=TT
 17	итәргә	ит	VERB	_	VerbForm=Inf	18	advcl	_	LangID=TT
-18	ниятлиләр	ниятлә	VERB	_	Number=Plur|Person=3|VerbForm=Fin	0	_	_	LangID=TT
+18	ниятлиләр	ниятлә	VERB	_	Number=Plur|Person=3|VerbForm=Fin	0	root	_	LangID=TT|SpaceAfter=No
 19	.	.	PUNCT	_	_	18	punct	_	LangID=TT
 
 # sent_id = 5853701_1
-# text = Бу хакта бүген «эшлекле дүшәмбе» дә Түбән Кама муниципаль районы Башкарма комитеты җитәкчесе урынбасары Радик Хаҗиев сөйләде.
+# link = https://tatar-inform.tatar/news/tuban-kamada-avtomobil-yullaryn-remontlau-ocen-2-milliard-sumga-yakyn-akca-totylacak-5853701
+# genre = society
+# text = Бу хакта бүген «эшлекле дүшәмбе» дә Түбән Кама муниципаль районы Башкарма комитеты җитәкчесе урынбасары Радик Хаҗиев сөйләде.
 1	Бу	бу	DET	_	_	2	det	_	LangID=TT
 2	хакта	хак	NOUN	_	Case=Loc|Number=Sing	19	obl	_	LangID=TT
 3	бүген	бүген	ADV	_	_	19	advmod	_	LangID=TT
-4	«	«	PUNCT	_	_	6	punct	_	LangID=OTHER
+4	«	«	PUNCT	_	_	6	punct	_	LangID=OTHER|SpaceAfter=No
 5	эшлекле	эшлекле	ADJ	_	_	6	amod	_	LangID=TT
-6	дүшәмбе	дүшәмбе	NOUN	_	Case=Nom|Number=Sing	19	obl	_	LangID=TT
-7	»	»	PUNCT	_	_	6	punct	_	LangID=OTHER 
+6	дүшәмбе	дүшәмбе	NOUN	_	Case=Nom|Number=Sing	19	obl	_	LangID=TT|SpaceAfter=No
+7	»	»	PUNCT	_	_	6	punct	_	LangID=OTHER
 8	дә	дә	ADP	_	_	6	case	_	LangID=TT
 9	Түбән	түбән	ADJ	_	_	10	amod	_	LangID=TT
 10	Кама	Кама	PROPN	_	Case=Nom|Number=Sing	12	nmod	_	LangID=RU
 11	муниципаль	муниципаль	ADJ	_	_	12	amod	_	LangID=TT
-12	районы	район	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	14	nmod	_	CSPoint=район§ы|LangID=MIXED[RU§TT]
-13	Башкарма	башкарма	ADJ 	_	_	14	amod	_	LangID=TT
+12	районы	район	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	14	nmod	_	CSPoint=район§ы|LangID=MIXED[RU§TT]
+13	Башкарма	башкарма	ADJ	_	_	14	amod	_	LangID=TT
 14	комитеты	комитет	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	15	nmod	_	CSPoint=комитет§ы|LangID=MIXED[RU§TT]
 15	җитәкчесе	җитәкче	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	16	nmod	_	LangID=TT
 16	урынбасары	урынбасар	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	19	nsubj	_	LangID=TT
 17	Радик	Радик	PROPN	_	Case=Nom|Number=Sing	16	flat	_	LangID=TT
 18	Хаҗиев	Хаҗиев	PROPN	_	Case=Nom|Number=Sing	16	flat	_	CSPoint=Хаҗи§ев|LangID=MIXED[TT§RU]
-19	сөйләде	сөйлә	VERB	_	Person=3|Tense=Past|VerbForm=Fin	0	_	_	LangID=TT
-20	.	.	PUNCT 	_	_	19	punct	_	LangID=OTHER
+19	сөйләде	сөйлә	VERB	_	Person=3|Tense=Past|VerbForm=Fin	0	root	_	LangID=TT|SpaceAfter=No
+20	.	.	PUNCT	_	_	19	punct	_	LangID=OTHER
 
 # sent_id = 5853701_3
-# text = Бу турыда Түбән Кама муниципаль районы рәсми сайтында хәбәр ителә.
+# link = https://tatar-inform.tatar/news/tuban-kamada-avtomobil-yullaryn-remontlau-ocen-2-milliard-sumga-yakyn-akca-totylacak-5853701
+# genre = society
+# text = Бу турыда Түбән Кама муниципаль районы рәсми сайтында хәбәр ителә.
 1	Бу	бу	PRON	_	PronType=Dem	10	obl	_	LangID=TT
 2	турыда	турыда	ADP	_	_	1	case	_	LangID=TT
 3	Түбән	түбән	ADJ	_	_	4	compound	_	LangID=TT
 4	Кама	Кама	PROPN	_	Case=Nom|Number=Sing	6	nmod	_	LangID=RU
 5	муниципаль	муниципаль	ADJ	_	_	6	amod	_	LangID=RU
-6	районы	район	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	8	nmod	_	CSPoint=район§ы|LangID=MIXED[TT§RU]
+6	районы	район	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	8	nmod	_	CSPoint=район§ы|LangID=MIXED[TT§RU]
 7	рәсми	рәсми	ADJ	_	_	8	amod	_	LangID=TT
-8	сайтында	сайт	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	10	obl	_	CSPoint=сайт§ында|LangID=MIXED[TT§RU]
+8	сайтында	сайт	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	10	obl	_	CSPoint=сайт§ында|LangID=MIXED[TT§RU]
 9	хәбәр	хәбәр	NOUN	_	Case=Nom|Number=Sing	10	compound:lvc	_	LangID=TT
-10	ителә	ит	VERB	_	Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	_	_	LangID=TT
+10	ителә	ит	VERB	_	Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	LangID=TT|SpaceAfter=No
 11	.	.	PUNCT	_	_	10	punct	_	LangID=OTHER
 
 # sent_id = 5853701_10
+# link = https://tatar-inform.tatar/news/tuban-kamada-avtomobil-yullaryn-remontlau-ocen-2-milliard-sumga-yakyn-akca-totylacak-5853701
+# genre = society
 # text = «Безнең бурыч - планлаштырылган эшләрне нәтиҗәле башкару.
-1	«	«	PUNCT	_	_	8	punct	_	LangID=OTHER
-2	Безнең	без	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Pers	3	nmod	_	LangID=TT
+1	«	«	PUNCT	_	_	8	punct	_	LangID=OTHER|SpaceAfter=No
+2	Безнең	без	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	3	nmod	_	LangID=TT
 3	бурыч	бурыч	NOUN	_	Case=Nom|Number=Sing	8	nsubj	_	LangID=TT
 4	-	-	PUNCT	_	_	8	punct	_	LangID=TT
 5	планлаштырылган	планлаштыр	VERB	_	Tense=Past|VerbForm=Part	6	acl	_	CSPoint=план§лаштырылган|LangID=MIXED[RU§TT]
 6	эшләрне	эш	NOUN	_	Case=Acc|Number=Plur	8	obj	_	LangID=TT
 7	нәтиҗәле	нәтиҗәле	ADJ	_	_	8	advmod	_	LangID=TT
-8	башкару	башкар	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	0	_	_	LangID=TT
+8	башкару	башкар	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	0	root	_	LangID=TT|SpaceAfter=No
 9	.	.	PUNCT	_	_	8	punct	_	LangID=OTHER
 
 # sent_id = 5853701_11
+# link = https://tatar-inform.tatar/news/tuban-kamada-avtomobil-yullaryn-remontlau-ocen-2-milliard-sumga-yakyn-akca-totylacak-5853701
+# genre = society
 # text = Халыкның бу эшне аңлап кабул итүләрен сорыйм.
 1	Халыкның	халык	NOUN	_	Case=Gen|Number=Sing	6	nmod	_	LangID=TT
 2	бу	бу	DET	_	_	3	det	_	LangID=TT
 3	эшне	эш	NOUN	_	Case=Acc|Number=Sing	4	obj	_	LangID=TT
-4	аңлап	аңла	VERB	_	VerbForm=Conv	6	advmod	_	LangID=TT
+4	аңлап	аңла	VERB	_	VerbForm=Conv	6	advcl	_	LangID=TT
 5	кабул	кабул	NOUN	_	_	6	compound:lvc	_	LangID=TT
 6	итүләрен	ит	VERB	_	Case=Acc|Number=Plur|Person[psor]=3|VerbForm=Vnoun	7	obj	_	LangID=TT
-7	сорыйм	сора	VERB	_	Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	_	_	LangID=TT
+7	сорыйм	сора	VERB	_	Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	LangID=TT|SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	LangID=OTHER
 
 # sent_id = 5853701_12
+# link = https://tatar-inform.tatar/news/tuban-kamada-avtomobil-yullaryn-remontlau-ocen-2-milliard-sumga-yakyn-akca-totylacak-5853701
+# genre = society
 # text = Без проект якынча 2 миллиард сум тәшкил итә.
-1	Без	без	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Pers	2	nmod	_	LangID=TT
+1	Без	без	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nmod	_	LangID=TT
 2	проект	проект	NOUN	_	Case=Nom|Number=Sing	8	nsubj	_	LangID=RU
 3	якынча	якынча	ADV	_	_	5	advmod	_	LangID=TT
 4	2	2	NUM	_	NumType=Card	5	compound	_	LangID=TT
 5	миллиард	миллиард	NUM	_	NumType=Card	6	nummod	_	LangID=RU
 6	сум	сум	NOUN	_	Case=Nom|Number=Sing	8	obj	_	LangID=TT
 7	тәшкил	тәшкил	NOUN	_	Case=Nom|Number=Sing	8	compound:lvc	_	LangID=TT
-8	итә	итә	VERB	_	Person=3|Tense=Pres|VerbForm=Fin	0	_	_	LangID=TT
+8	итә	итә	VERB	_	Person=3|Tense=Pres|VerbForm=Fin	0	root	_	LangID=TT|SpaceAfter=No
 9	.	.	PUNCT	_	_	8	punct	_	LangID=OTHER
 
 # sent_id = 5853701_13
-# text = Шуңа да карамастан, шәһәр һәм районда ремонт таләп итә торган автоюллар күләме бик зур кала бирә һәм шикаятьләр күп килә.
+# link = https://tatar-inform.tatar/news/tuban-kamada-avtomobil-yullaryn-remontlau-ocen-2-milliard-sumga-yakyn-akca-totylacak-5853701
+# genre = society
+# text = Шуңа да карамастан, шәһәр һәм районда ремонт таләп итә торган автоюллар күләме бик зур кала бирә һәм шикаятьләр күп килә.
 1	Шуңа	шуңа	PRON	_	Case=Dat|Number=Sing|PronType=Dem	16	obl	_	LangID=TT
 2	да	да	ADV	_	_	1	advmod	_	LangID=TT
-3	карамастан	карамастан	ADP	_	_	1	case	_	LangID=TT
+3	карамастан	карамастан	ADP	_	_	1	case	_	LangID=TT|SpaceAfter=No
 4	,	,	PUNCT	_	_	1	punct	_	LangID=OTHER
 5	шәһәр	шәһәр	NOUN	_	Case=Nom|Number=Sing	16	obl	_	LangID=TT
 6	һәм	һәм	CCONJ	_	_	7	cc	_	LangID=TT
-7	районда	район	NOUN	_	Case=Loc|Number=Sing	5	conj	_	CSPoint=район§да|LangID=MIXED[RU§TT]
+7	районда	район	NOUN	_	Case=Loc|Number=Sing	5	conj	_	CSPoint=район§да|LangID=MIXED[RU§TT]
 8	ремонт	ремонт	NOUN	_	Case=Nom|Number=Sing	10	obj	_	LangID=RU
 9	таләп	таләп	NOUN	_	Case=Nom|Number=Sing	10	compound:lvc	_	LangID=TT
-10	итә	ит	VERB	_	Aspect=Progr|VerbForm=Conv	12	acl	_	LangID=TT
+10	итә	ит	VERB	_	Aspect=Prog|VerbForm=Conv	12	acl	_	LangID=TT
 11	торган	тор	AUX	_	Tense=Past|VerbForm=Part	10	aux	_	LangID=TT
 12	автоюллар	автоюл	NOUN	_	Case=Nom|Number=Plur	13	nmod	_	CSPoint=авто§юллар|LangID=MIXED[RU§TT]
 13	күләме	күләм	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	16	nsubj	_	LangID=TT
 14	бик	бик	ADV	_	_	15	advmod	_	LangID=TT
 15	зур	зур	ADJ	_	_	16	xcomp	_	LangID=TT
-16	кала	кал	VERB	_	Aspect=Progr|VerbForm=Conv	0	_	_	LangID=TT
-17	бирә	бир	AUX	_	Number=3|Tense=Pres|VerbForm=Fin	16	aux	_	LangID=TT
+16	кала	кал	VERB	_	Aspect=Prog|VerbForm=Conv	0	root	_	LangID=TT
+17	бирә	бир	AUX	_	Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	LangID=TT
 18	һәм	һәм	CCONJ	_	_	21	cc	_	LangID=TT
 19	шикаятьләр	шикаять	NOUN	_	Case=Nom|Number=Plur	21	nsubj	_	LangID=TT
 20	күп	күп	ADJ	_	_	21	advmod	_	LangID=TT
-21	килә	кил	VERB	_	Number=3|Tense=Pres|VerbForm=Fin	16	conj	_	LangID=TT
+21	килә	кил	VERB	_	Person=3|Tense=Pres|VerbForm=Fin	16	conj	_	LangID=TT|SpaceAfter=No
 22	.	.	PUNCT	_	_	16	punct	_	LangID=OTHER
 
 # sent_id = 5853701_14
+# link = https://tatar-inform.tatar/news/tuban-kamada-avtomobil-yullaryn-remontlau-ocen-2-milliard-sumga-yakyn-akca-totylacak-5853701
+# genre = society
 # text = Әлбәттә, бер ел эчендә барысын да эшләп бетерү мөмкин түгел.
-1	Әлбәттә	әлбәттә	ADV	_	_	10	advmod	_	LangID=TT
+1	Әлбәттә	әлбәттә	ADV	_	_	10	advmod	_	LangID=TT|SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	LangID=OTHER
 3	бер	бер	NUM	_	NumType=Card	4	nummod	_	LangID=TT
 4	ел	ел	NOUN	_	Case=Nom|Number=Sing	5	nmod	_	LangID=TT
@@ -358,11 +2327,13 @@ Case=Nom|Number=Sing	5	flat	_	CSPoint=Галиулл§ин|LangID=MIXED[TT§RU]
 7	да	да	ADV	_	_	6	advmod	_	LangID=TT
 8	эшләп	эшлә	VERB	_	VerbForm=Conv	10	nsubj	_	LangID=TT
 9	бетерү	бетер	AUX	_	Case=Nom|Number=Sing|VerbForm=Vnoun	8	aux	_	LangID=TT
-10	мөмкин	мөмкин	ADJ	_	_	0	_	_	LangID=TT
-11	түгел	түгел	AUX	_	_	10	aux	_	LangID=TT
+10	мөмкин	мөмкин	ADJ	_	_	0	root	_	LangID=TT
+11	түгел	түгел	AUX	_	_	10	aux	_	LangID=TT|SpaceAfter=No
 12	.	.	PUNCT	_	_	10	punct	_	LangID=OTHER
 
 # sent_id = 5853701_15
+# link = https://tatar-inform.tatar/news/tuban-kamada-avtomobil-yullaryn-remontlau-ocen-2-milliard-sumga-yakyn-akca-totylacak-5853701
+# genre = society
 # text = Шәһәр җирлегенә генә дә 15 миллиард тирәсе акча кирәк», - диде Рамил Муллин.
 1	Шәһәр	шәһәр	NOUN	_	Case=Nom|Number=Sing	2	nmod	_	LangID=TT
 2	җирлегенә	җирлек	NOUN	_	Case=Dat|Number=Sing|Person[psor]=3	9	obl	_	LangID=TT
@@ -372,21 +2343,23 @@ Case=Nom|Number=Sing	5	flat	_	CSPoint=Галиулл§ин|LangID=MIXED[TT§RU]
 6	миллиард	миллиард	NUM	_	NumType=Card	8	nummod	_	LangID=RU
 7	тирәсе	тирәсе	ADV	_	_	6	advmod	_	LangID=TT
 8	акча	акча	NOUN	_	Case=Nom|Number=Sing	9	nsubj	_	LangID=TT
-9	кирәк	кирәк	ADJ	_	_	13	parataxis	_	LangID=TT
-10	»	»	PUNCT	_	_	9	punct	_	LangID=OTHER
+9	кирәк	кирәк	ADJ	_	_	13	parataxis	_	LangID=TT|SpaceAfter=No
+10	»	»	PUNCT	_	_	9	punct	_	LangID=OTHER|SpaceAfter=No
 11	,	,	PUNCT	_	_	9	punct	_	LangID=OTHER
 12	-	-	PUNCT	_	_	9	punct	_	LangID=OTHER
-13	диде	ди	VERB	_	Person=3|Tense=Past|VerbForm=Fin	0	_	_	LangID=TT
+13	диде	ди	VERB	_	Person=3|Tense=Past|VerbForm=Fin	0	root	_	LangID=TT
 14	Рамил	Рамил	PROPN	_	Case=Nom|Number=Sing	13	nsubj	_	LangID=TT
-15	Муллин	Муллин	PROPN	_	Case=Nom|Number=Sing	14	flat	_	CSPoint=Мулл§ин|LangID=MIXED[TT§RU]
+15	Муллин	Муллин	PROPN	_	Case=Nom|Number=Sing	14	flat	_	CSPoint=Мулл§ин|LangID=MIXED[TT§RU]|SpaceAfter=No
 16	.	.	PUNCT	_	_	13	punct	_	LangID=OTHER
 
 # sent_id = 5853701_4
-# text = Түбән Кама муниципаль районы Башкарма комитеты җитәкчесе Рамил Муллинның ТР Президентына шәхси мөрәҗәгате нәтиҗәсендә, Түбән Камага бер миллиард сум күләмендә өстәмә акча бүлеп бирү турында карар кабул ителде.
+# link = https://tatar-inform.tatar/news/tuban-kamada-avtomobil-yullaryn-remontlau-ocen-2-milliard-sumga-yakyn-akca-totylacak-5853701
+# genre = society
+# text = Түбән Кама муниципаль районы Башкарма комитеты җитәкчесе Рамил Муллинның ТР Президентына шәхси мөрәҗәгате нәтиҗәсендә, Түбән Камага бер миллиард сум күләмендә өстәмә акча бүлеп бирү турында карар кабул ителде.
 1	Түбән	түбән	ADJ	_	_	4	nmod	_	LangID=TT
 2	Кама	Кама	PROPN	_	Case=Nom|Number=Sing	1	compound	_	LangID=RU
 3	муниципаль	муниципаль	ADJ	_	_	4	amod	_	LangID=RU
-4	районы	район	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	6	nmod	_	CSPoint=район§ы|LangID=MIXED[RU§TT]
+4	районы	район	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	6	nmod	_	CSPoint=район§ы|LangID=MIXED[RU§TT]
 5	Башкарма	башкарма	ADJ	_	_	6	amod	_	LangID=TT
 6	комитеты	комитет	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	7	nmod	_	CSPoint=комитет§ы|LangID=MIXED[RU§TT]
 7	җитәкчесе	җитәкче	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	13	nmod	_	LangID=TT
@@ -396,7 +2369,7 @@ Case=Nom|Number=Sing	5	flat	_	CSPoint=Галиулл§ин|LangID=MIXED[TT§RU]
 11	Президентына	президент	NOUN	_	Case=Dat|Number=Sing|Person[psor]=3	13	nmod	_	CSPoint=президент§ына|LangID=MIXED[RU§TT]
 12	шәхси	шәхси	ADJ	_	_	13	amod	_	LangID=TT
 13	мөрәҗәгате	мөрәҗәгать	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	14	nmod	_	LangID=TT
-14	нәтиҗәсендә	нәтиҗә	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	29	obl	_	LangID=TT
+14	нәтиҗәсендә	нәтиҗә	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	29	obl	_	LangID=TT|SpaceAfter=No
 15	,	,	PUNCT	_	_	14	punct	_	LangID=OTHER
 16	Түбән	түбән	ADJ	_	_	25	obl	_	LangID=TT
 17	Камага	Кама	PROPN	_	Case=Dat|Number=Sing	16	compound	_	CSPoint=Кама§га|LangID=MIXED[RU§TT]
@@ -411,10 +2384,12 @@ Case=Nom|Number=Sing	5	flat	_	CSPoint=Галиулл§ин|LangID=MIXED[TT§RU]
 26	турында	турында	ADP	_	_	25	case	_	LangID=TT
 27	карар	карар	NOUN	_	Case=Nom|Number=Sing	29	nsubj	_	LangID=TT
 28	кабул	кабул	NOUN	_	Case=Nom|Number=Sing	29	compound:lvc	_	LangID=TT
-29	ителде	ит	VERB	_	Number=Sing|Person=3|Tense=Past|Voice=Pass|VerbForm=Fin	0	_	_	LangID=TT
+29	ителде	ит	VERB	_	Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	LangID=TT|SpaceAfter=No
 30	.	.	PUNCT	_	_	29	punct	_	LangID=OTHER
 
 # sent_id = 5853701_5
+# link = https://tatar-inform.tatar/news/tuban-kamada-avtomobil-yullaryn-remontlau-ocen-2-milliard-sumga-yakyn-akca-totylacak-5853701
+# genre = society
 # text = Автомобиль юлларының асфальт - бетон катламын ремонтлау 100 миллион сумга башкарылачак.
 1	Автомобиль	автомобиль	NOUN	_	_	2	nmod	_	LangID=RU
 2	юлларының	юл	NOUN	_	Case=Gen|Number=Plur|Person[psor]=3	6	nmod	_	LangID=TT
@@ -426,24 +2401,26 @@ Case=Nom|Number=Sing	5	flat	_	CSPoint=Галиулл§ин|LangID=MIXED[TT§RU]
 8	100	100	NUM	_	NumType=Card	9	compound	_	LangID=TT
 9	миллион	миллион	NUM	_	NumType=Card	10	nummod	_	LangID=RU
 10	сумга	сум	NOUN	_	Case=Dat|Number=Sing	11	obl	_	LangID=TT
-11	башкарылачак	башкар	VERB	_	Person=3|Tense=Fut|VerbForm=Part|Voice=Pass	0	_	_	LangID=TT
+11	башкарылачак	башкар	VERB	_	Person=3|Tense=Fut|VerbForm=Part|Voice=Pass	0	root	_	LangID=TT|SpaceAfter=No
 12	.	.	PUNCT	_	_	11	punct	_	LangID=OTHER
 
 # sent_id = 5853701_6
-# text = Түбән Кама районының торак пунктларында «Юл - урам челтәрен норматив хәлгә китерү» программасы буенча 50 миллион сумлык эшләр планлаштырылган, моңа Борок, Югары Чаллы, Актүбә, Сухрау, Каенлы, Олы Афанас авыллары керә.
+# link = https://tatar-inform.tatar/news/tuban-kamada-avtomobil-yullaryn-remontlau-ocen-2-milliard-sumga-yakyn-akca-totylacak-5853701
+# genre = society
+# text = Түбән Кама районының торак пунктларында «Юл - урам челтәрен норматив хәлгә китерү» программасы буенча 50 миллион сумлык эшләр планлаштырылган, моңа Борок, Югары Чаллы, Актүбә, Сухрау, Каенлы, Олы Афанас авыллары керә.
 1	Түбән	түбән	ADJ	_	_	3	nmod	_	LangID=TT
 2	Кама	Кама	PROPN	_	Case=Nom|Number=Sing	1	compound	_	LangID=RU
-3	районының	район	NOUN	_	Case=Gen|Number=Sing|Person[psor]=3	5	nmod	_	CSPoint=район§ының|LangID=MIXED[RU§TT]
+3	районының	район	NOUN	_	Case=Gen|Number=Sing|Person[psor]=3	5	nmod	_	CSPoint=район§ының|LangID=MIXED[RU§TT]
 4	торак	торак	NOUN	_	Case=Nom|Number=Sing	5	nmod	_	LangID=TT
 5	пунктларында	пункт	NOUN	_	Case=Loc|Number=Plur	21	obl	_	LangID=TT
-6	«	«	PUNCT	_	_	13	punct	_	LangID=OTHER
+6	«	«	PUNCT	_	_	13	punct	_	LangID=OTHER|SpaceAfter=No
 7	Юл	юл	NOUN	_	Case=Nom|Number=Sing	10	nmod	_	LangID=TT
 8	-	-	PUNCT	_	_	9	punct	_	LangID=TT
 9	урам	урам	NOUN	_	Case=Nom|Number=Sing	7	compound	_	LangID=TT
 10	челтәрен	челтәр	NOUN	_	Case=Acc|Number=Sing|Person[psor]=3	13	obj	_	LangID=TT
 11	норматив	норматив	ADJ	_	_	12	amod	_	LangID=TT
 12	хәлгә	хәл	NOUN	_	Case=Dat|Number=Sing	13	obl	_	LangID=TT
-13	китерү	китер	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	15	nmod	_	LangID=TT
+13	китерү	китер	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	15	nmod	_	LangID=TT|SpaceAfter=No
 14	»	»	PUNCT	_	_	13	punct	_	LangID=OTHER
 15	программасы	программа	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	21	obl	_	LangID=TT
 16	буенча	буенча	ADP	_	_	15	case	_	LangID=TT
@@ -451,29 +2428,31 @@ Case=Nom|Number=Sing	5	flat	_	CSPoint=Галиулл§ин|LangID=MIXED[TT§RU]
 18	миллион	миллион	NUM	_	NumType=Card	19	nummod	_	LangID=TT
 19	сумлык	сумлык	ADJ	_	_	20	amod	_	LangID=TT
 20	эшләр	эш	NOUN	_	Case=Nom|Number=Plur	21	nsubj	_	LangID=TT
-21	планлаштырылган	планлаштыр	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	0	_	_	LangID=TT
+21	планлаштырылган	планлаштыр	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	LangID=TT|SpaceAfter=No
 22	,	,	PUNCT	_	_	21	punct	_	LangID=OTHER
 23	моңа	бу	PRON	_	Case=Dat|Number=Sing|PronType=Dem	38	obl	_	LangID=TT
-24	Борок	Борок	PROPN	_	Case=Nom|Number=Sing	37	nmod	_	LangID=TT
+24	Борок	Борок	PROPN	_	Case=Nom|Number=Sing	37	nmod	_	LangID=TT|SpaceAfter=No
 25	,	,	PUNCT	_	_	26	punct	_	LangID=OTHER
 26	Югары	югары	ADJ	_	_	24	conj	_	LangID=TT
-27	Чаллы	Чаллы	PROPN	_	Case=Nom|Number=Sing	26	compound	_	LangID=TT
+27	Чаллы	Чаллы	PROPN	_	Case=Nom|Number=Sing	26	compound	_	LangID=TT|SpaceAfter=No
 28	,	,	PUNCT	_	_	29	punct	_	LangID=OTHER
-29	Актүбә	Актүбә	PROPN	_	Case=Nom|Number=Sing	24	conj	_	LangID=TT
+29	Актүбә	Актүбә	PROPN	_	Case=Nom|Number=Sing	24	conj	_	LangID=TT|SpaceAfter=No
 30	,	,	PUNCT	_	_	31	punct	_	LangID=OTHER
-31	Сухрау	Сухрау	PROPN	_	Case=Nom|Number=Sing	24	conj	_	LangID=TT
+31	Сухрау	Сухрау	PROPN	_	Case=Nom|Number=Sing	24	conj	_	LangID=TT|SpaceAfter=No
 32	,	,	PUNCT	_	_	33	punct	_	LangID=OTHER
-33	Каенлы	Каенлы	PROPN	_	Case=Nom|Number=Sing	24	conj	_	LangID=TT
+33	Каенлы	Каенлы	PROPN	_	Case=Nom|Number=Sing	24	conj	_	LangID=TT|SpaceAfter=No
 34	,	,	PUNCT	_	_	35	punct	_	LangID=OTHER
 35	Олы	олы	ADJ	_	_	24	conj	_	LangID=TT
 36	Афанас	Афанас	PROPN	_	Case=Nom|Number=Sing	35	compound	_	LangID=TT
 37	авыллары	авыл	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	38	nsubj	_	LangID=TT
-38	керә	кер	VERB	_	Person=3|Tense=Pres|VerbForm=Fin	0	_	_	LangID=TT
+38	керә	кер	VERB	_	Person=3|Tense=Pres|VerbForm=Fin	21	parataxis	_	LangID=TT|SpaceAfter=No
 39	.	.	PUNCT	_	_	38	punct	_	LangID=OTHER
 
 # sent_id = 5853701_7
-# text = Чистай - Түбән Кама автоюлының Ширәмәт авылы янындагы өлешен 120 миллион сумга ремонтлау планлаштырылган.
-1	Чистай	Чистай	PROPN	_	Case=Nom|Number=Sing	5	nmod	_	LangID=TT
+# link = https://tatar-inform.tatar/news/tuban-kamada-avtomobil-yullaryn-remontlau-ocen-2-milliard-sumga-yakyn-akca-totylacak-5853701
+# genre = society
+# text = Чистай - Түбән Кама автоюлының Ширәмәт авылы янындагы өлешен 120 миллион сумга ремонтлау планлаштырылган.
+1	Чистай	Чистай	PROPN	_	Case=Nom|Number=Sing	5	nmod	_	LangID=TT
 2	-	-	PUNCT	_	_	3	punct	_	LangID=OTHER
 3	Түбән	түбән	ADJ	_	_	1	conj	_	LangID=TT
 4	Кама	Кама	PROPN	_	Case=Nom|Number=Sing	3	compound	_	LangID=RU
@@ -486,32 +2465,36 @@ Case=Nom|Number=Sing	5	flat	_	CSPoint=Галиулл§ин|LangID=MIXED[TT§RU]
 11	миллион	миллион	NUM	_	NumType=Card	12	nummod	_	LangID=RU
 12	сумга	сум	NOUN	_	Case=Dat|Number=Sing	13	obl	_	LangID=TT
 13	ремонтлау	ремонтла	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	14	nsubj	_	CSPoint=ремонт§лау|LangID=MIXED[RU§TT]
-14	планлаштырылган	планлаштыр	VERB 	_	Tense=Past|VerbForm=Part|Voice=Pass	0	_	_	CSPoint=план§лаштырылган|LangID=MIXED[RU§TT]
+14	планлаштырылган	планлаштыр	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	CSPoint=план§лаштырылган|LangID=MIXED[RU§TT]|SpaceAfter=No
 15	.	.	PUNCT	_	_	14	punct	_	LangID=OTHER
 
 # sent_id = 5853701_8
+# link = https://tatar-inform.tatar/news/tuban-kamada-avtomobil-yullaryn-remontlau-ocen-2-milliard-sumga-yakyn-akca-totylacak-5853701
+# genre = society
 # text = Чокырларны ямау, бордюрлар кую, Кама Аланында җәяүлеләр юлларын төзү өчен, 57 миллион сумлык чыгым тотыла.
 1	Чокырларны	чокыр	NOUN	_	Case=Acc|Number=Plur	2	obj	_	LangID=TT
-2	ямау	яма	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	18	obl	_	LangID=TT
+2	ямау	яма	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	18	obl	_	LangID=TT|SpaceAfter=No
 3	,	,	PUNCT	_	_	5	punct	_	LangID=OTHER
 4	бордюрлар	бордюр	NOUN	_	Case=Nom|Number=Plur	5	obj	_	CSPoint=бордюр§лар|LangID=MIXED[RU§TT]
-5	кую	куй	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	2	conj	_	LangID=TT
+5	кую	куй	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	2	conj	_	LangID=TT|SpaceAfter=No
 6	,	,	PUNCT	_	_	11	punct	_	LangID=OTHER
 7	Кама	Кама	PROPN	_	Case=Nom|Number=Sing	11	obl	_	LangID=RU
 8	Аланында	Аланы	PROPN	_	Case=Loc|Number=Sing|Person[psor]=3	7	compound	_	LangID=TT
 9	җәяүлеләр	җәяүле	ADJ	_	Case=Nom|Number=Plur	10	nmod	_	LangID=TT
 10	юлларын	юл	NOUN	_	Case=Acc|Number=Sing|Person[psor]=3	11	obj	_	LangID=TT
 11	төзү	төз	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	2	conj	_	LangID=TT
-12	өчен	өчен	ADP	_	_	11	case	_	LangID=TT
+12	өчен	өчен	ADP	_	_	11	case	_	LangID=TT|SpaceAfter=No
 13	,	,	PUNCT	_	_	2	punct	_	LangID=OTHER
 14	57	57	NUM	_	NumType=Card	15	compound	_	LangID=TT
 15	миллион	миллион	NUM	_	NumType=Card	16	nummod	_	LangID=RU
 16	сумлык	сумлык	ADJ	_	_	17	amod	_	LangID=TT
 17	чыгым	чыгым	NOUN	_	Case=Nom|Number=Sing	18	nsubj	_	LangID=TT
-18	тотыла	тот	VERB	_	Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	_	_	LangID=TT
+18	тотыла	тот	VERB	_	Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	LangID=TT|SpaceAfter=No
 19	.	.	PUNCT	_	_	18	punct	_	LangID=OTHER
 
 # sent_id = 5853701_9
+# link = https://tatar-inform.tatar/news/tuban-kamada-avtomobil-yullaryn-remontlau-ocen-2-milliard-sumga-yakyn-akca-totylacak-5853701
+# genre = society
 # text = Автомобиль юлларына агымдагы ремонт һәм шәһәрнең магистраль автомобиль юлларын төзекләндерү 17 миллион сумга төшәчәк.
 1	Автомобиль	автомобиль	NOUN	_	Case=Nom|Number=Sing	2	nmod	_	LangID=RU
 2	юлларына	юл	NOUN	_	Case=Dat|Number=Plur|Person[psor]=3	4	nmod	_	LangID=TT
@@ -526,10 +2509,12 @@ Case=Nom|Number=Sing	5	flat	_	CSPoint=Галиулл§ин|LangID=MIXED[TT§RU]
 11	17	17	NUM	_	NumType=Card	12	compound	_	LangID=TT
 12	миллион	миллион	NUM	_	NumType=Card	13	nummod	_	LangID=RU
 13	сумга	сум	NOUN	_	Case=Dat|Number=Sing	14	obl	_	LangID=TT
-14	төшәчәк	төш	VERB	_	Person=3|Tense=Fut|VerbForm=Part	0	_	_	LangID=TT
+14	төшәчәк	төш	VERB	_	Person=3|Tense=Fut|VerbForm=Part	0	root	_	LangID=TT|SpaceAfter=No
 15	.	.	PUNCT	_	_	14	punct	_	LangID=OTHER
 
 # sent_id = 5853705_1
+# link = http://almet-rt.ru/news/kht/51977
+# genre = society
 # text = Шәһәр һәм авыл территорияләрен чистартуга 10 мең тирәсе кеше чыкты.
 1	Шәһәр	шәһәр	NOUN	_	Case=Nom|Number=Sing	4	nmod	_	LangID=TT
 2	һәм	һәм	CCONJ	_	_	3	cc	_	LangID=LangID=TT
@@ -540,37 +2525,41 @@ Case=Nom|Number=Sing	5	flat	_	CSPoint=Галиулл§ин|LangID=MIXED[TT§RU]
 7	мең	мең	NUM	_	NumType=Card	9	nummod	_	LangID=TT
 8	тирәсе	тирәсе	ADV	_	_	7	advmod	_	LangID=TT
 9	кеше	кеше	NOUN	_	Case=Nom|Number=Sing	10	nsubj	_	LangID=TT
-10	чыкты	чык	VERB	_	Person=3|Tense=Past|VerbForm=Fin	0	_	_	LangID=TT
+10	чыкты	чык	VERB	_	Person=3|Tense=Past|VerbForm=Fin	0	root	_	LangID=TT|SpaceAfter=No
 11	.	.	PUNCT	_	_	10	punct	_	LangID=OTHER
 
 # sent_id = 5853705_2
-# text = Бу хакта Әлмәт районы башлыгы телеграм - каналда хәбәр итте.
+# link = http://almet-rt.ru/news/kht/51977
+# genre = society
+# text = Бу хакта Әлмәт районы башлыгы телеграм - каналда хәбәр итте.
 1	Бу	бу	DET	_	_	2	det	_	LangID=TT
 2	хакта	хак	NOUN	_	Case=Loc|Number=Sing	10	obl	_	LangID=TT
 3	Әлмәт	Әлмәт	PROPN	_	_	4	nmod	_	LangID=TT
-4	районы	район	NOUN	_	_	5	nmod	_	CSPoint=район§ы|LangID=MIXED[RU§TT]
+4	районы	район	NOUN	_	_	5	nmod	_	CSPoint=район§ы|LangID=MIXED[RU§TT]
 5	башлыгы	башлык	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	10	nsubj	_	LangID=LangID=TT
 6	телеграм	телеграм	NOUN	_	_	10	obl	_	LangID=RU
 7	-	-	PUNCT	_	_	8	punct	_	LangID=OTHER
 8	каналда	канал	NOUN	_	_	6	compound	_	CSPoint=канал§да|LangID=MIXED[RU§TT]
 9	хәбәр	хәбәр	NOUN	_	Case=Nom|Number=Sing	10	compound:lvc	_	LangID=LangID=TT
-10	итте	ит	VERB	_	Person=3|Tense=Past|VerbForm=Fin	0	root	_	LangID=LangID=TT
+10	итте	ит	VERB	_	Person=3|Tense=Past|VerbForm=Fin	0	root	_	LangID=LangID=TT|SpaceAfter=No
 11	.	.	PUNCT	_	_	10	punct	_	LangID=LangID=OTHER
 
 # sent_id = 5853705_3
+# link = http://almet-rt.ru/news/kht/51977
+# genre = society
 # text = Җыештыруда муниципаль учреждениеләр хезмәткәрләре, волонтерлар, мәктәп укучылары, идарәче компанияләр, эшмәкәрләр һәм шәһәр предприятиеләре катнашты.
-1	Җыештыруда	җыештыр	NOUN	_	Case=Loc|Number=Sing|VerbForm=Vnoun	18	obl	_	LangID=TT
+1	Җыештыруда	җыештыр	VERB	_	Case=Loc|Number=Sing|VerbForm=Vnoun	18	obl	_	LangID=TT
 2	муниципаль	муниципаль	ADJ	_	_	3	amod	_	LangID=RU
 3	учреждениеләр	учреждение	NOUN	_	Case=Nom|Number=Plur	4	nmod	_	CSPoint=учреждение§ләр|LangID=MIXED[RU§TT]
-4	хезмәткәрләре	хезмәткәр	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	18	nsubj	_	LangID=TT
+4	хезмәткәрләре	хезмәткәр	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	18	nsubj	_	LangID=TT|SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	_	LangID=OTHER
-6	волонтерлар	волонтер	NOUN	_	Case=Nom|Number=Plur	4	conj	_	CSPoint=волонтер§лар|LangID=MIXED[RU§TT]
+6	волонтерлар	волонтер	NOUN	_	Case=Nom|Number=Plur	4	conj	_	CSPoint=волонтер§лар|LangID=MIXED[RU§TT]|SpaceAfter=No
 7	,	,	PUNCT	_	_	9	punct	_	LangID=OTHER
 8	мәктәп	мәктәп	NOUN	_	Case=Nom|Number=Sing	9	nmod	_	LangID=TT
-9	укучылары	укучы	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	4	conj	_	LangID=TT
+9	укучылары	укучы	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	4	conj	_	LangID=TT|SpaceAfter=No
 10	,	,	PUNCT	_	_	12	punct	_	LangID=OTHER
 11	идарәче	идарәче	ADJ	_	_	12	amod	_	LangID=TT
-12	компанияләр	компания	NOUN	_	Case=Nom|Number=Plur	4	conj	_	CSPoint=компания§ләр|LangID=MIXED[RU§TT]
+12	компанияләр	компания	NOUN	_	Case=Nom|Number=Plur	4	conj	_	CSPoint=компания§ләр|LangID=MIXED[RU§TT]|SpaceAfter=No
 13	,	,	PUNCT	_	_	14	punct	_	LangID=OTHER
 14	эшмәкәрләр	эшмәкәр	NOUN	_	Case=Nom|Number=Plur	4	conj	_	LangID=TT
 15	һәм	һәм	CCONJ	_	_	17	cc	_	LangID=TT
@@ -580,147 +2569,167 @@ Case=Nom|Number=Sing	5	flat	_	CSPoint=Галиулл§ин|LangID=MIXED[TT§RU]
 19	.	.	PUNCT	_	_	18	punct	_	LangID=OTHER
 
 # sent_id = 5853705_4
-# text = Бу турыда «Әлмәт таңнары» сайтында хәбәр ителә.
+# link = http://almet-rt.ru/news/kht/51977
+# genre = society
+# text = Бу турыда «Әлмәт таңнары» сайтында хәбәр ителә.
 1	Бу	бу	PRON	_	Case=Nom|Number=Sing|PronType=Dem	9	obl	_	LangID=TT
 2	турыда	турыда	ADP	_	_	1	case	_	LangID=TT
 3	«	«	PUNCT	_	_	5	punct	_	LangID=TT|SpaceAfter=No
 4	Әлмәт	Әлмәт	PROPN	_	Case=Nom|Number=Sing	5	nmod	_	LangID=TT
-5	таңнары	таң	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	7	nmod	_	LangID=TT
+5	таңнары	таң	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	7	nmod	_	LangID=TT|SpaceAfter=No
 6	»	»	PUNCT	_	_	5	punct	_	LangID=OTHER
-7	сайтында	сайт	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	9	obl	_	CSPoint=сайт§ында|LangID=MIXED[RU§TT]
+7	сайтында	сайт	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	9	obl	_	CSPoint=сайт§ында|LangID=MIXED[RU§TT]
 8	хәбәр	хәбәр	NOUN	_	Case=Nom|Number=Sing	9	compound:lvc	_	LangID=TT
 9	ителә	ит	VERB	_	Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	LangID=TT|SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	LangID=OTHER
 
 # sent_id = 5853705_5
-# text = Барлык территорияләрдә дә эш кайнады, музыка яңгырады, кыр кухнясы кайнар аш белән тәэмин итте.
+# link = http://almet-rt.ru/news/kht/51977
+# genre = society
+# text = Барлык территорияләрдә дә эш кайнады, музыка яңгырады, кыр кухнясы кайнар аш белән тәэмин итте.
 1	Барлык	барлык	ADJ	_	_	2	amod	_	LangID=TT
 2	территорияләрдә	территория	NOUN	_	Case=Loc|Number=Plur	5	obl	_	CSPoint=территория§ләрдә|LangID=MIXED[RU§TT]
 3	дә	да	ADV	_	_	2	advmod:emph	_	LangID=TT
 4	эш	эш	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	LangID=TT
-5	кайнады	кайна	VERB	_	Person=3|Tense=Past|VerbForm=Fin	0	_	_	LangID=TT
+5	кайнады	кайна	VERB	_	Person=3|Tense=Past|VerbForm=Fin	0	root	_	LangID=TT|SpaceAfter=No
 6	,	,	PUNCT	_	_	8	punct	_	LangID=OTHER
 7	музыка	музыка	NOUN	_	Case=Nom|Number=Sing	8	nsubj	_	LangID=RU
-8	яңгырады	яңгыра	VERB	_	Person=3|Tense=Past|VerbForm=Fin	5	parataxis	_	LangID=TT
+8	яңгырады	яңгыра	VERB	_	Person=3|Tense=Past|VerbForm=Fin	5	parataxis	_	LangID=TT|SpaceAfter=No
 9	,	,	PUNCT	_	_	16	punct	_	LangID=OTHER
 10	кыр	кыр	NOUN	_	Case=Nom|Number=Sing	11	nmod	_	LangID=TT
 11	кухнясы	кухня	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	16	nsubj	_	CSPoint=кухня§сы|LangID=MIXED[RU§TT]
-12	кайнар	кайнар	ADJ	_	_	13	amod	_	LangID=TT
+12	кайнар	кайнар	ADJ	_	_	13	amod	_	LangID=TT
 13	аш	аш	NOUN	_	Case=Nom|Number=Sing	16	obl	_	LangID=TT
 14	белән	белән	ADP	_	_	13	case	_	LangID=TT
 15	тәэмин	тәэмин	NOUN	_	Case=Nom|Number=Sing	16	compound:lvc	_	LangID=TT
-16	итте	ит	VERB	_	Person=3|Tense=Past|VerbForm=Fin	5	parataxis	_	LangID=TT
+16	итте	ит	VERB	_	Person=3|Tense=Past|VerbForm=Fin	5	parataxis	_	LangID=TT|SpaceAfter=No
 17	.	.	PUNCT	_	_	16	punct	_	LangID=OTHER
 
 # sent_id = 5853705_6
-# text = Өмә барышында үзбушаткычлар һәм төягечләр җәлеп ителде, чүп-чар җыю һәм чыгару оештырылды, юл буйлары тәртипкә китерелде, чүп үләннәре бетерелде, коры ботаклар киселде.
+# link = http://almet-rt.ru/news/kht/51977
+# genre = society
+# text = Өмә барышында үзбушаткычлар һәм төягечләр җәлеп ителде, чүп-чар җыю һәм чыгару оештырылды, юл буйлары тәртипкә китерелде, чүп үләннәре бетерелде, коры ботаклар киселде.
 1	Өмә	өмә	NOUN	_	Case=Nom|Number=Sing	2	nmod	_	LangID=TT
 2	барышында	барыш	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	7	obl	_	LangID=TT
 3	үзбушаткычлар	үзбушаткыч	NOUN	_	Case=Nom|Number=Plur	7	nsubj	_	LangID=TT
 4	һәм	һәм	CCONJ	_	_	5	cc	_	LangID=TT
 5	төягечләр	төягеч	NOUN	_	Case=Nom|Number=Plur	3	conj	_	LangID=TT
 6	җәлеп	җәлеп	NOUN	_	Case=Nom|Number=Sing	7	compound:lvc	_	LangID=TT
-7	ителде	ит	VERB	_	Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	_	_	LangID=TT
+7	ителде	ит	VERB	_	Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	LangID=TT|SpaceAfter=No
 8	,	,	PUNCT	_	_	13	punct	_	LangID=OTHER
 9	чүп-чар	чүп-чар	NOUN	_	Case=Nom|Number=Sing	10	obj	_	LangID=TT
-10	җыю	җый	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	0	_	_	LangID=TT
+10	җыю	җый	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	13	obj	_	LangID=TT
 11	һәм	һәм	CCONJ	_	_	12	cc	_	LangID=TT
 12	чыгару	чык	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun|Voice=Cau	10	conj	_	LangID=TT
-13	оештырылды	оеш	VERB	_	Person=3|Tense=Past|VerbForm=Fin|Voice=CauPass	7	parataxis	_	LangID=TT
+13	оештырылды	оеш	VERB	_	Person=3|Tense=Past|VerbForm=Fin|Voice=CauPass	7	parataxis	_	LangID=TT|SpaceAfter=No
 14	,	,	PUNCT	_	_	18	punct	_	LangID=OTHER
 15	юл	юл	NOUN	_	Case=Nom|Number=Sing	16	nmod	_	LangID=TT
-16	буйлары	буй	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	18	nsubj	_	LangID=TT
+16	буйлары	буй	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	18	nsubj	_	LangID=TT
 17	тәртипкә	тәртип	NOUN	_	Case=Dat|Number=Sing	18	obl	_	LangID=TT
-18	китерелде	китер	VERB	_	Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	7	parataxis	_	LangID=TT
+18	китерелде	китер	VERB	_	Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	7	parataxis	_	LangID=TT|SpaceAfter=No
 19	,	,	PUNCT	_	_	22	punct	_	LangID=OTHER
 20	чүп	чүп	NOUN	_	Case=Nom|Number=Sing	21	nmod	_	LangID=TT
 21	үләннәре	үлән	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	22	nsubj	_	LangID=TT
-22	бетерелде	бет	VERB	_	Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	7	parataxis	_	LangID=TT
+22	бетерелде	бет	VERB	_	Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	7	parataxis	_	LangID=TT|SpaceAfter=No
 23	,	,	PUNCT	_	_	26	punct	_	LangID=OTHER
 24	коры	коры	ADJ	_	_	25	amod	_	LangID=TT
 25	ботаклар	ботак	NOUN	_	Case=Nom|Number=Plur	26	nsubj	_	LangID=TT
-26	киселде	кис	VERB	_	Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	7	parataxis	_	LangID=TT
+26	киселде	кис	VERB	_	Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	7	parataxis	_	LangID=TT|SpaceAfter=No
 27	.	.	PUNCT	_	_	7	punct	_	LangID=OTHER
 
 # sent_id = 5853706_10
+# link = https://tatar-inform.tatar/news/cally-su-kanaly-oesmasyn-ham-idara-itu-kompaniyalaren-tikseracaklar-5853706
+# genre = society
 # text = Административ характердагы барлык гамәлләрне кулланырга кирәк.
 1	Административ	административ	ADJ	_	_	2	amod	_	LangID=RU
 2	характердагы	характер	NOUN	_	Case=Loc|Number=Sing	4	amod	_	CSPoint=характер§дагы|LangID=MIXED[RU§TT]
 3	барлык	барлык	ADJ	_	_	4	amod	_	LangID=TT
 4	гамәлләрне	гамәл	NOUN	_	Case=Acc|Number=Plur	5	obj	_	LangID=TT
-5	кулланырга	куллан	VERB	_	VerbForm=Inf	0	_	_	LangID=TT
-6	кирәк	кирәк	AUX	_	_	5	aux	_	LangID=TT
+5	кулланырга	куллан	VERB	_	VerbForm=Inf	0	root	_	LangID=TT
+6	кирәк	кирәк	AUX	_	_	5	aux	_	LangID=TT|SpaceAfter=No
 7	.	.	PUNCT	_	_	5	punct	_	LangID=OTHER
 
 # sent_id = 5853706_11
-# text = Сыйфатсыз су өчен кире исәпләүләр үткәрергә кирәк дисәгез, ясагыз.
-1	Сыйфатсыз	сыйфатсыз	ADJ	_	_	2	amod	_	LangID=TT
+# link = https://tatar-inform.tatar/news/cally-su-kanaly-oesmasyn-ham-idara-itu-kompaniyalaren-tikseracaklar-5853706
+# genre = society
+# text = Сыйфатсыз су өчен кире исәпләүләр үткәрергә кирәк дисәгез, ясагыз.
+1	Сыйфатсыз	сыйфатсыз	ADJ	_	_	2	amod	_	LangID=TT
 2	су	су	NOUN	_	Case=Nom|Number=Sing	6	obl	_	LangID=TT
 3	өчен	өчен	ADP	_	_	2	case	_	LangID=TT
 4	кире	кире	ADV	_	_	5	advmod	_	LangID=TT
 5	исәпләүләр	исәплә	VERB	_	Case=Nom|Number=Plur|VerbForm=Vnoun	6	obj	_	LangID=TT
 6	үткәрергә	үткәр	VERB	_	VerbForm=Inf	8	ccomp	_	LangID=TT
 7	кирәк	кирәк	AUX	_	_	6	aux	_	LangID=TT
-8	дисәгез	ди	VERB	_	Mood=Cnd|Number=Plur|Person=2|VerbForm=Conv	10	advmod	_	LangID=TT
+8	дисәгез	ди	VERB	_	Mood=Cnd|Number=Plur|Person=2|VerbForm=Conv	10	advcl	_	LangID=TT|SpaceAfter=No
 9	,	,	PUNCT	_	_	8	punct	_	LangID=OTHER
-10	ясагыз	яса	VERB	_	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	_	_	LangID=TT
+10	ясагыз	яса	VERB	_	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	LangID=TT|SpaceAfter=No
 11	.	.	PUNCT	_	_	10	punct	_	LangID=OTHER
 
 # sent_id = 5853706_12
+# link = https://tatar-inform.tatar/news/cally-su-kanaly-oesmasyn-ham-idara-itu-kompaniyalaren-tikseracaklar-5853706
+# genre = society
 # text = Беркем дә каршы килми.
 1	Беркем	беркем	PRON	_	PronType=Neg	4	nsubj	_	LangID=TT
 2	дә	дә	ADV	_	_	1	advmod:emph	_	LangID=TT
 3	каршы	каршы	ADV	_	_	4	advmod	_	LangID=TT
-4	килми	кил	VERB 	_	Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	_	_	LangID=TT
+4	килми	кил	VERB	_	Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	LangID=TT|SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	LangID=OTHER
 
 # sent_id = 5853706_13
-# text = Халыкка күрсәтелә торган хезмәтләр сыйфатлы, билгеләнгән таләпләргә җавап бирергә тиеш», – диде шәһәр башлыгы Наил Мәһдиев.
+# link = https://tatar-inform.tatar/news/cally-su-kanaly-oesmasyn-ham-idara-itu-kompaniyalaren-tikseracaklar-5853706
+# genre = society
+# text = Халыкка күрсәтелә торган хезмәтләр сыйфатлы, билгеләнгән таләпләргә җавап бирергә тиеш», – диде шәһәр башлыгы Наил Мәһдиев.
 1	Халыкка	халык	NOUN	_	Case=Dat|Number=Sing	2	obl	_	LangID=TT
 2	күрсәтелә	күрсәт	VERB	_	Aspect=Prog|VerbForm=Conv|Voice=Pass	4	acl	_	LangID=TT
 3	торган	тор	AUX	_	Tense=Past|VerbForm=Part	2	aux	_	LangID=TT
 4	хезмәтләр	хезмәт	NOUN	_	Case=Nom|Number=Plur	5	nsubj	_	LangID=TT
-5	сыйфатлы	сыйфатлы	ADJ	_	_	15	ccomp	_	LangID=TT
+5	сыйфатлы	сыйфатлы	ADJ	_	_	15	ccomp	_	LangID=TT|SpaceAfter=No
 6	,	,	PUNCT	_	_	10	punct	_	LangID=OTHER
 7	билгеләнгән	билгелә	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	8	acl	_	LangID=TT
 8	таләпләргә	таләп	NOUN	_	Case=Dat|Number=Plur	10	obl	_	LangID=TT
 9	җавап	җавап	NOUN	_	Case=Nom|Number=Sing	10	obj	_	LangID=TT
 10	бирергә	бир	VERB	_	VerbForm=Inf	5	parataxis	_	LangID=TT
-11	тиеш	тиеш	AUX	_	_	10	aux	_	LangID=TT
-12	»	»	PUNCT	_	_	5	punct	_	LangID=OTHER
+11	тиеш	тиеш	AUX	_	_	10	aux	_	LangID=TT|SpaceAfter=No
+12	»	»	PUNCT	_	_	5	punct	_	LangID=OTHER|SpaceAfter=No
 13	,	,	PUNCT	_	_	15	punct	_	LangID=OTHER
 14	–	–	PUNCT	_	_	15	punct	_	LangID=TT
-15	диде	ди	VERB	_	Person=3|Tense=Pres|VerbForm=Fin	0	_	_	LangID=TT
+15	диде	ди	VERB	_	Person=3|Tense=Pres|VerbForm=Fin	0	root	_	LangID=TT
 16	шәһәр	шәһәр	NOUN	_	Case=Nom|Number=Sing	17	nmod	_	LangID=TT
 17	башлыгы	башлык	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	15	nsubj	_	LangID=TT
 18	Наил	Наил	PROPN	_	Case=Nom|Number=Sing	17	appos	_	LangID=TT
-19	Мәһдиев	Мәһдиев	PROPN	_	Case=Nom|Number=Sing	18	flat	_	CSPoint=Мәһди§ев|LangID=MIXED[TT§RU]
+19	Мәһдиев	Мәһдиев	PROPN	_	Case=Nom|Number=Sing	18	flat	_	CSPoint=Мәһди§ев|LangID=MIXED[TT§RU]|SpaceAfter=No
 20	.	.	PUNCT	_	_	15	punct	_	LangID=OTHER
 
 # sent_id = 5853706_5
-# text = Гади сүз белән әйткәндә суда тутык бар.
+# link = https://tatar-inform.tatar/news/cally-su-kanaly-oesmasyn-ham-idara-itu-kompaniyalaren-tikseracaklar-5853706
+# genre = society
+# text = Гади сүз белән әйткәндә суда тутык бар.
 1	Гади	гади	ADJ	_	_	2	amod	_	LangID=TT
 2	сүз	сүз	NOUN	_	Case=Nom|Number=Sing	4	obl	_	LangID=TT
 3	белән	белән	ADP	_	_	2	case	_	LangID=TT
-4	әйткәндә	әйт	VERB	_	Case=Loc|Number=Sing|Tense=Past|VerbForm=Part	7	advcl	_	LangID=TT
+4	әйткәндә	әйт	VERB	_	Case=Loc|Number=Sing|Tense=Past|VerbForm=Part	7	advcl	_	LangID=TT
 5	суда	су	NOUN	_	Case=Loc|Number=Sing	7	obl	_	LangID=TT
 6	тутык	тутык	NOUN	_	Case=Nom|Number=Sing	7	nsubj	_	LangID=TT
-7	бар	бар	ADJ	_	_	0	_	_	LangID=TT
+7	бар	бар	ADJ	_	_	0	root	_	LangID=TT|SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	LangID=OTHER
 
 # sent_id = 5853706_6
-# text = Без вазифаи затларны чакыртып сөйләшүләр үткәрдек.
-1	Без	без	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Pers	6	nsubj	_	LangID=TT
+# link = https://tatar-inform.tatar/news/cally-su-kanaly-oesmasyn-ham-idara-itu-kompaniyalaren-tikseracaklar-5853706
+# genre = society
+# text = Без вазифаи затларны чакыртып сөйләшүләр үткәрдек.
+1	Без	без	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	LangID=TT
 2	вазифаи	вазифаи	ADJ	_	_	3	amod	_	LangID=TT
 3	затларны	зат	NOUN	_	Case=Acc|Number=Plur	4	obj	_	LangID=TT
 4	чакыртып	чакырт	VERB	_	VerbForm=Conv	6	advcl	_	LangID=TT
-5	сөйләшүләр	сөйлә	VERB	_	Case=Nom|Number=Plur|VerbForm=Vnoun|Voice=Rcp	6	obj	_	LangID=TT
-6	үткәрдек	үткәр	VERB	_	Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	_	_	LangID=TT
+5	сөйләшүләр	сөйлә	VERB	_	Case=Nom|Number=Plur|VerbForm=Vnoun|Voice=Rcp	6	obj	_	LangID=TT
+6	үткәрдек	үткәр	VERB	_	Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	LangID=TT|SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	LangID=OTHER
 
 # sent_id = 5853706_7
+# link = https://tatar-inform.tatar/news/cally-su-kanaly-oesmasyn-ham-idara-itu-kompaniyalaren-tikseracaklar-5853706
+# genre = society
 # text = Соңыннан прокуратурага Чаллы су каналы һәм идарә итүче компанияләренә планнан тыш тикшерүләр белән чыгуларын сорадык», – диде Илгизәр Бариев.
-1	Соңыннан	соң	NOUN	_	Case=Abl|Number=Sing|Person[psor]=3	15	advmod	_	LangID=TT
+1	Соңыннан	соң	NOUN	_	Case=Abl|Number=Sing|Person[psor]=3	15	obl	_	LangID=TT
 2	прокуратурага	прокуратура	NOUN	_	Case=Dat|Number=Sing	15	obl	_	CSPoint=прокуратура§га|LangID=MIXED[RU§TT]
 3	Чаллы	Чаллы	PROPN	_	Case=Nom|Number=Sing	5	nmod	_	LangID=TT
 4	су	су	NOUN	_	Case=Nom|Number=Sing	5	nmod	_	LangID=TT
@@ -734,48 +2743,52 @@ Case=Nom|Number=Sing	5	flat	_	CSPoint=Галиулл§ин|LangID=MIXED[TT§RU]
 12	тикшерүләр	тикшер	VERB	_	Case=Nom|Number=Plur|VerbForm=Vnoun	14	obl	_	LangID=TT
 13	белән	белән	ADP	_	_	12	case	_	LangID=TT
 14	чыгуларын	чык	VERB	_	Case=Acc|Number=Plur|Person[psor]=3|VerbForm=Vnoun	15	obj	_	LangID=TT
-15	сорадык	сора	VERB	_	Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	_	_	LangID=TT
-16	»	»	PUNCT	_	_	15	punct	_	LangID=OTHER
+15	сорадык	сора	VERB	_	Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	LangID=TT|SpaceAfter=No
+16	»	»	PUNCT	_	_	15	punct	_	LangID=OTHER|SpaceAfter=No
 17	,	,	PUNCT	_	_	19	punct	_	LangID=OTHER
 18	–	–	PUNCT	_	_	19	punct	_	LangID=TT
 19	диде	ди	VERB	_	Person=3|Tense=Past|VerbForm=Fin	15	appos	_	LangID=TT
 20	Илгизәр	Илгизәр	PROPN	_	Case=Nom|Number=Sing	19	nsubj	_	LangID=TT
-21	Бариев	Бариев	PROPN	_	Case=Nom|Number=Sing	20	flat	_	LangID=TT
+21	Бариев	Бариев	PROPN	_	Case=Nom|Number=Sing	20	flat	_	LangID=TT|SpaceAfter=No
 22	.	.	PUNCT	_	_	19	punct	_	LangID=OTHER
 
 # sent_id = 5853706_8
+# link = https://tatar-inform.tatar/news/cally-su-kanaly-oesmasyn-ham-idara-itu-kompaniyalaren-tikseracaklar-5853706
+# genre = society
 # text = «Сез күзәтчелек органы, бары үз вәкаләтләрегезне куллануыгызны үтенәм.
-1	«	«	PUNCT	_	_	10	punct	_	LangID=OTHER
-2	Сез	сез	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Pers	9	nmod	_	LangID=TT
+1	«	«	PUNCT	_	_	10	punct	_	LangID=OTHER|SpaceAfter=No
+2	Сез	сез	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	9	nmod	_	LangID=TT
 3	күзәтчелек	күзәтчелек	NOUN	_	Case=Nom|Number=Sing	4	nmod	_	LangID=TT
-4	органы	орган	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	9	obj	_	CSPoint=орган§ы|LangID=MIXED[RU§TT]
+4	органы	орган	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	9	obj	_	CSPoint=орган§ы|LangID=MIXED[RU§TT]|SpaceAfter=No
 5	,	,	PUNCT	_	_	8	punct	_	LangID=OTHER
 6	бары	бар	PRON	_	Case=Nom|Number=Sing|PronType=Tot	8	nmod	_	LangID=TT
-7	үз	үз	PRON	_	Case=Nom|Number=Sing|PronType=Pers|Reflexive=Yes	8	nmod	_	LangID=TT
+7	үз	үз	PRON	_	Case=Nom|Number=Sing|PronType=Prs|Reflex=Yes	8	nmod	_	LangID=TT
 8	вәкаләтләрегезне	вәкаләт	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Plur|Person[psor]=2	4	parataxis	_	LangID=TT
 9	куллануыгызны	куллан	VERB	_	Case=Acc|Number=Sing|Number[psor]=Plur|Person[psor]=2|VerbForm=Vnoun	10	obj	_	LangID=TT
-10	үтенәм	үтен	VERB	_	Number=Sing|Person=1|Tense=Pers|VerbForm=Fin	0	_	_	LangID=TT
+10	үтенәм	үтен	VERB	_	Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	LangID=TT|SpaceAfter=No
 11	.	.	PUNCT	_	_	10	punct	_	LangID=OTHER
 
 # sent_id = 5853706_9
-# text = Чаллы су каналы һәм йортларны кайнар су белән тәэмин итүче оешмалар үз хезмәтләре өчен шәһәрдә яшәүчеләрдән акча ала.
+# link = https://tatar-inform.tatar/news/cally-su-kanaly-oesmasyn-ham-idara-itu-kompaniyalaren-tikseracaklar-5853706
+# genre = society
+# text = Чаллы су каналы һәм йортларны кайнар су белән тәэмин итүче оешмалар үз хезмәтләре өчен шәһәрдә яшәүчеләрдән акча ала.
 1	Чаллы	Чаллы	PROPN	_	Case=Nom|Number=Sing	3	nmod	_	LangID=TT
 2	су	су	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	LangID=TT
 3	каналы	канал	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	10	obj	_	LangID=TT
 4	һәм	һәм	CCONJ	_	_	5	cc	_	LangID=TT
-5	йортларны	йорт	NOUN	_	Case=Acc|Number=Plur	3	conj	_	LangID=TT
-6	кайнар	кайнар	ADJ	_	_	7	amod	_	LangID=TT
+5	йортларны	йорт	NOUN	_	Case=Acc|Number=Plur	3	conj	_	LangID=TT
+6	кайнар	кайнар	ADJ	_	_	7	amod	_	LangID=TT
 7	су	су	NOUN	_	Case=Nom|Number=Sing	10	obl	_	LangID=TT
 8	белән	белән	ADP	_	_	7	case	_	LangID=TT
 9	тәэмин	тәэмин	NOUN	_	Case=Nom|Number=Sing	10	compound:lvc	_	LangID=TT
 10	итүче	ит	VERB	_	VerbForm=NomAg	11	acl	_	LangID=TT
 11	оешмалар	оешма	NOUN	_	Case=Nom|Number=Plur	13	nmod	_	LangID=TT
-12	үз	үз	PRON	_	Case=Nom|Number=Sing|PronType=Pers|Reflexive=Yes	13	nmod	_	LangID=TT
+12	үз	үз	PRON	_	Case=Nom|Number=Sing|PronType=Prs|Reflex=Yes	13	nmod	_	LangID=TT
 13	хезмәтләре	хезмәт	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	18	obl	_	LangID=TT
 14	өчен	өчен	ADP	_	_	13	case	_	LangID=TT
 15	шәһәрдә	шәһәр	NOUN	_	Case=Loc|Number=Sing	16	obl	_	LangID=TT
 16	яшәүчеләрдән	яшә	VERB	_	Case=Abl|Number=Plur|VerbForm=NomAg	18	obl	_	LangID=TT
 17	акча	акча	NOUN	_	Case=Nom|Number=Sing	18	obj	_	LangID=TT
-18	ала	ал	VERB	_	Person=3|Tense=Pres|VerbForm=Fin	0	_	_	LangID=TT
+18	ала	ал	VERB	_	Person=3|Tense=Pres|VerbForm=Fin	0	root	_	LangID=TT|SpaceAfter=No
 19	.	.	PUNCT	_	_	18	punct	_	LangID=OTHER
 
