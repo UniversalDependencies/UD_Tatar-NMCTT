@@ -27,6 +27,11 @@ The building of this corpus is funded by CICP of Nara Institute of Science and T
 
 # Changelog
 
+* 2022-11-15 v2.11
+  * Added the new feature: `VerbForm=NomAg` for -учы verb forms.
+  * Added the new deprel: `advmod:emph`
+  * Added `VerbForm=Conv` for conditional adverbial form (along with `Mood=Cnd`)
+* 2022-05-15 v2.10
 * 2021-11-15 v2.9
   * Initial release in Universal Dependencies.
 
