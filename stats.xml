@@ -5,108 +5,111 @@
        fused is the number of tokens that are split to two or more syntactic words
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
-    <total><sentences>93</sentences><tokens>1458</tokens><words>1458</words><fused>0</fused></total>
+    <total><sentences>148</sentences><tokens>2280</tokens><words>2280</words><fused>0</fused></total>
     <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
-    <test><sentences>93</sentences><tokens>1458</tokens><words>1458</words><fused>0</fused></test>
+    <test><sentences>148</sentences><tokens>2280</tokens><words>2280</words><fused>0</fused></test>
   </size>
-  <lemmas unique="607" /><!-- ., ,, һәм, бул, «, ул, », ит, ал, Татарстан, белән, да, кеше, халык, өлкә -->
-  <forms unique="830" /><!-- ., ,, һәм, «, », белән, да, дип, ул, —, Татарстан, Төмән, бу, турында, хәбәр -->
+  <lemmas unique="837" /><!-- ., ,, һәм, «, », ит, бул, ул, Татарстан, ал, белән, бу, да, -, юл -->
+  <forms unique="1218" /><!-- ., ,, һәм, «, », белән, -, Татарстан, бу, да, Түбән, Кама, татар, ул, хәбәр -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="14">
-    <tag name="ADJ">137</tag><!-- дини, күп, мөмкин, түбән, яхшы, туган, төрле, фәнни, чит, яңа -->
-    <tag name="ADP">46</tag><!-- белән, турында, өчен, буенча, кадәр, каршы, турыда, буларак, кебек, менә -->
-    <tag name="ADV">56</tag><!-- да, шулай, бик, ук, хәзер, быел, бүген, ничек, аерым, акрынлап -->
-    <tag name="AUX">30</tag><!-- ал, иде, кал, кирәк, чык, мөмкин, тиеш, тор, бар, икән -->
-    <tag name="CCONJ">35</tag><!-- һәм, ә, ләкин, яки, әмма -->
-    <tag name="DET">10</tag><!-- бу, бернинди, берничә, ул, һәр, һәрбер -->
-    <tag name="NOUN">535</tag><!-- кеше, халык, өлкә, тел, мөселман, республика, хәбәр, эш, һава, вакцинация -->
-    <tag name="NUM">29</tag><!-- 11, 15, 20, 27, 5, бер, 1, 10, 11318, 12 -->
-    <tag name="PRON">34</tag><!-- ул, без, үз, бу, Россия, алар, бары, шул -->
-    <tag name="PROPN">94</tag><!-- Татарстан, Төмән, Кама, Россия, Чиләбе, Василий, Кырым, Ломанов, Марат, татар-информ -->
-    <tag name="PUNCT">221</tag><!-- ., ,, «, », —, -, – -->
-    <tag name="SCONJ">8</tag><!-- дип, чөнки, әгәр -->
+    <tag name="ADJ">195</tag><!-- түбән, күп, дини, муниципаль, мөмкин, барлык, башка, кирәк, туган, төрле -->
+    <tag name="ADP">68</tag><!-- белән, өчен, турында, буенча, турыда, кадәр, каршы, тыш, аша, буларак -->
+    <tag name="ADV">83</tag><!-- да, бик, шулай, ук, хәзер, быел, дә, бүген, кенә, ничек -->
+    <tag name="AUX">43</tag><!-- ал, кирәк, иде, тор, кал, мөмкин, тиеш, чык, кил, бар -->
+    <tag name="CCONJ">53</tag><!-- һәм, ә, әмма, ләкин, яки -->
+    <tag name="DET">13</tag><!-- бу, бернинди, берничә, ул, һәр, һәрбер -->
+    <tag name="NOUN">813</tag><!-- юл, халык, кеше, шәһәр, эш, татар, тел, республика, хәбәр, өлкә -->
+    <tag name="NUM">59</tag><!-- бер, миллион, 15, 20, миллиард, 1, 10, 11, 27, 5 -->
+    <tag name="PRON">58</tag><!-- ул, без, бу, үз, сез, Россия, алар, бар, барлык, бары -->
+    <tag name="PROPN">167</tag><!-- Татарстан, Кама, Казан, Төмән, Марат, Россия, Чиләбе, рамил, Әхмәтов, Василий -->
+    <tag name="PUNCT">368</tag><!-- ., ,, «, », -, —, –, !, (, ) -->
+    <tag name="SCONJ">9</tag><!-- дип, чөнки, әгәр -->
     <tag name="SYM">3</tag><!-- $, +, °С -->
-    <tag name="VERB">220</tag><!-- бул, ит, ди, сакла, ал, уз, яса, аңла, кер, көт -->
+    <tag name="VERB">348</tag><!-- ит, бул, ди, сакла, ал, чык, яса, бир, кер, аңла -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="45">
-    <feat name="Aspect" value="Perf" upos="VERB">1</feat><!-- башлангач -->
-    <feat name="Aspect" value="Prog" upos="VERB">7</feat><!-- бара, ачыклый, куллана, кыла, югалта, җиңә -->
-    <feat name="Case" value="Abl" upos="NOUN,NUM,PRON,PROPN">19</feat><!-- тарафыннан, коронавирустан, 65тән, Covid-19дан, Кырымнан, Моннан, Россиядән, алдан, дөньядан, инфекциясеннән -->
-    <feat name="Case" value="Acc" upos="AUX,NOUN,PRON,VERB">52</feat><!-- ир-атны, булуын, көнне, милләтен, прививканы, торышын, укытучыларны, җәсәден, Белешмәлекне, Милләтебезне -->
-    <feat name="Case" value="Dat" upos="NOUN,PRON,VERB">41</feat><!-- безгә, хаҗга, секундына, хәбәрчесенә, юлга, Бәйгегә, Кызганычка, Монументына, Моңа, Президентыбызга -->
-    <feat name="Case" value="Equ" upos="NOUN,VERB">8</feat><!-- сүзләренчә, иткәнчә, ачыклаганча, итүенчә, әйтүенчә -->
-    <feat name="Case" value="Gen" upos="NOUN,PRON,PROPN,VERB">58</feat><!-- аның, өлкәсенең, Ломановның, Татарстанның, аларның, саклануның, Азнакайның, Бакиеваның, Безнең, Казанның -->
-    <feat name="Case" value="Loc" upos="ADJ,NOUN,NUM,PROPN,VERB">83</feat><!-- Татарстанда, апрельдә, көннәрендә, өлкәсендә, вакытында, октябрьдә, республикада, янында, 12дә, Казанда -->
-    <feat name="Case" value="Nom" upos="ADJ,AUX,NOUN,PRON,PROPN,VERB">459</feat><!-- Татарстан, Төмән, хәбәр, һава, кеше, мөселман, халык, татар, ул, Дәүләт -->
-    <feat name="Degree" value="Cmp" upos="ADJ,ADV">2</feat><!-- кимрәк, соңрак -->
+  <feats unique="48">
+    <feat name="Aspect" value="Iter" upos="VERB">1</feat><!-- язгалый -->
+    <feat name="Aspect" value="Perf" upos="VERB">2</feat><!-- башлангач, дигәч -->
+    <feat name="Aspect" value="Prog" upos="VERB">10</feat><!-- бара, ачыклый, итә, кала, куллана, кыла, күрсәтелә, югалта, җиңә -->
+    <feat name="Case" value="Abl" upos="NOUN,NUM,PRON,PROPN,VERB">27</feat><!-- тарафыннан, Моннан, коронавирустан, 65тән, Covid-19дан, Аннан, Кырымнан, Россиядән, Соңыннан, алдан -->
+    <feat name="Case" value="Acc" upos="ADJ,AUX,NOUN,PRON,VERB">92</feat><!-- ир-атны, булуын, көнне, милләтен, прививканы, торышын, укытучыларны, эшне, юлларын, җәсәден -->
+    <feat name="Case" value="Dat" upos="NOUN,PRON,PROPN,VERB">72</feat><!-- безгә, сумга, хаҗга, искә, моңа, секундына, халыкка, хәбәрчесенә, юлга, Бәйгегә -->
+    <feat name="Case" value="Equ" upos="NOUN,VERB">9</feat><!-- сүзләренчә, иткәнчә, ачыклаганча, итүенчә, әйтүенчә -->
+    <feat name="Case" value="Gen" upos="ADP,NOUN,PRON,PROPN,VERB">85</feat><!-- аның, Татарстанның, өлкәсенең, Безнең, Казанның, Ломановның, Республикасының, аларның, журналның, республиканың -->
+    <feat name="Case" value="Loc" upos="ADJ,NOUN,NUM,PROPN,VERB">108</feat><!-- Татарстанда, апрельдә, көннәрендә, сайтында, хакта, өлкәсендә, Очрашуда, вакытында, караганда, күләмендә -->
+    <feat name="Case" value="Nom" upos="ADJ,AUX,NOUN,PRON,PROPN,VERB">740</feat><!-- Татарстан, Кама, татар, хәбәр, Төмән, кеше, ул, һава, Дәүләт, Марат -->
+    <feat name="Degree" value="Cmp" upos="ADJ,ADV">3</feat><!-- бигрәк, кимрәк, соңрак -->
     <feat name="Foreign" value="Yes" upos="NOUN">1</feat><!-- Skoda -->
-    <feat name="Mood" value="Cnd" upos="VERB">5</feat><!-- булмаса, булса, карасаң, оештырылса -->
-    <feat name="Mood" value="Imp" upos="VERB">1</feat><!-- кимемәсен -->
+    <feat name="Mood" value="Cnd" upos="VERB">6</feat><!-- булмаса, булса, дисәгез, карасаң, оештырылса -->
+    <feat name="Mood" value="Imp" upos="VERB">4</feat><!-- булсын, кимемәсен, яз, ясагыз -->
     <feat name="Mood" value="Ind" upos="VERB">4</feat><!-- арттырылачак, булачак, кертеләчәк, төшәчәк -->
-    <feat name="Mood" value="Irr" upos="AUX,VERB">5</feat><!-- калыр, булыр, булышыр, теләр -->
-    <feat name="Number" value="Plur" upos="AUX,NOUN,PRON,VERB">131</feat><!-- безгә, балалар, берләшмәләре, вәкилләре, көннәрендә, сүзләренчә, алар, аларның, белгечләр, кешеләр -->
-    <feat name="Number" value="Sing" upos="ADJ,AUX,NOUN,NUM,PRON,PROPN,VERB">641</feat><!-- Татарстан, Төмән, хәбәр, һава, кеше, мөселман, халык, аның, вакцинация, татар -->
-    <feat name="Number[psor]" value="Plur" upos="NOUN,PRON">12</feat><!-- Милләтебезне, Президентыбызга, Республикабызда, йолаларыбыз, милләттәшләребез, ныклыгыбызны, тарихыбыз, телебез, телебезгә, халкыбызның -->
-    <feat name="Number[psor]" value="Sing" upos="PRON">1</feat><!-- үзең -->
-    <feat name="NumType" value="Card" upos="NUM">15</feat><!-- бер, 1, 11, 11318, 12дә, 2022, 23, 2500, 27, 5 -->
-    <feat name="NumType" value="Ord" upos="NUM">4</feat><!-- 10, 1942, 27, 28 -->
-    <feat name="Person" value="1" upos="AUX,PRON,VERB">9</feat><!-- безгә, Безнең, бәйлим, идем, өметләнәбез, өметләнәм -->
-    <feat name="Person" value="2" upos="VERB">1</feat><!-- карасаң -->
-    <feat name="Person" value="3" upos="AUX,PRON,VERB">93</feat><!-- аның, диде, ул, иде, итә, ала, алар, белдерде, булмаса, искәртте -->
-    <feat name="Person[psor]" value="1" upos="NOUN,PRON">12</feat><!-- Милләтебезне, Президентыбызга, Республикабызда, йолаларыбыз, милләттәшләребез, ныклыгыбызны, тарихыбыз, телебез, телебезгә, халкыбызның -->
-    <feat name="Person[psor]" value="2" upos="PRON">1</feat><!-- үзең -->
-    <feat name="Person[psor]" value="3" upos="ADJ,AUX,NOUN,PRON,PROPN,VERB">232</feat><!-- торышы, берләшмәләре, вәкилләре, көннәрендә, сүзләренчә, тарафыннан, үзәге, өлкәсе, өлкәсендә, өлкәсенең -->
-    <feat name="Polarity" value="Neg" upos="AUX,VERB">5</feat><!-- алмады, артмаган, булмаса, кимемәсен, көтелми -->
-    <feat name="PronType" value="Dem" upos="PRON">4</feat><!-- Бу, Моннан, Моңа, шуның -->
-    <feat name="PronType" value="Prs" upos="PRON">22</feat><!-- аның, ул, безгә, алар, аларның, Безнең, аларга, аны, үз -->
-    <feat name="PronType" value="Tot" upos="PRON">1</feat><!-- барысы -->
-    <feat name="Reflex" value="Yes" upos="PRON">3</feat><!-- үз, үзебезне, үзенең -->
-    <feat name="Tense" value="Fut" upos="AUX,VERB">21</feat><!-- булачак, алачак, итәчәк, калыр, узачак, арттырылачак, булыр, булышыр, кертеләчәк, сакланачак -->
-    <feat name="Tense" value="Past" upos="AUX,VERB">70</feat><!-- булган, диде, ителгән, белдерде, иде, искәртте, иткәнчә, итте, чыгарган, чыгарылган -->
-    <feat name="Tense" value="Pres" upos="AUX,VERB">44</feat><!-- итә, ала, саклана, тора, укытучыларны, фаразлана, яшәүчеләр, алган, алына, ассызыклый -->
-    <feat name="VerbForm" value="Conv" upos="VERB">28</feat><!-- бара, булып, дип, тотып, этеп, алып, ачыклый, башлангач, билгеләп, борчылып -->
-    <feat name="VerbForm" value="Fin" upos="AUX,VERB">58</feat><!-- диде, итә, ала, белдерде, иде, искәртте, итте, саклана, тора, фаразлана -->
-    <feat name="VerbForm" value="Inf" upos="VERB">16</feat><!-- булырга, ясатырга, аңлашырга, итәргә, укырга, эшләргә, югалтырга, яварга, ясарга, Үтерергә -->
-    <feat name="VerbForm" value="Part" upos="AUX,VERB">79</feat><!-- булган, булачак, алачак, ителгән, иткәнчә, итәчәк, калыр, узачак, укытучыларны, чыгарган -->
-    <feat name="VerbForm" value="Vnoun" upos="AUX,VERB">48</feat><!-- Тикшерү, бару, булуын, итү, калу, көтелүе, саклануның, җиңү, авырулар, алу -->
-    <feat name="Voice" value="Cau" upos="AUX,VERB">23</feat><!-- белдерде, чыгарган, ясатырга, Укытучыларны, аңлаттылар, аңлату, искәртте, оештырган, танытып, таптаткан -->
-    <feat name="Voice" value="CauPass" upos="VERB">7</feat><!-- чыгарылган, арттырылачак, кертеләчәк, оештырылса, ясатылган, үзәкләштерелгән -->
-    <feat name="Voice" value="Mid" upos="VERB">3</feat><!-- саклана, сакланачак -->
-    <feat name="Voice" value="Pass" upos="VERB">25</feat><!-- ителгән, көтелүе, саклануның, фаразлана, алына, башланган, башлангач, бирелгән, борчылып, иллюстрацияләнгән -->
-    <feat name="Voice" value="Rcp" upos="VERB">1</feat><!-- аңлашырга -->
+    <feat name="Mood" value="Irr" upos="ADJ,AUX,VERB">6</feat><!-- калыр, булыр, булышыр, кирәктер, теләр -->
+    <feat name="Number" value="Plur" upos="ADJ,AUX,NOUN,PRON,VERB">213</feat><!-- безгә, сүзләренчә, утлары, балалар, берләшмәләре, вәкилләре, көннәрендә, Без, Безнең, алар -->
+    <feat name="Number" value="Sing" upos="ADJ,AUX,NOUN,NUM,PRON,PROPN,VERB">986</feat><!-- Татарстан, Кама, татар, хәбәр, Төмән, кеше, ул, һава, Дәүләт, Марат -->
+    <feat name="Number[psor]" value="Plur" upos="NOUN,PRON,VERB">15</feat><!-- телебез, Милләтебезне, Президентыбызга, Республикабызда, вәкаләтләрегезне, йолаларыбыз, куллануыгызны, милләттәшләребез, ныклыгыбызны, тарихыбыз -->
+    <feat name="Number[psor]" value="Sing" upos="NOUN,PRON">4</feat><!-- юлыма, язмаларымны, үзең, Әбекәемнең -->
+    <feat name="NumType" value="Card" upos="NUM">39</feat><!-- бер, миллион, миллиард, 1, 10, 100, 11, 11318, 120, 12дә -->
+    <feat name="NumType" value="Ord" upos="NUM">6</feat><!-- 10, 1942, 27, 28, 7нче, III -->
+    <feat name="Person" value="1" upos="AUX,PRON,VERB">20</feat><!-- безгә, Без, Безнең, бастым, башладым, бәйлим, идем, исбатладык, котлыйбыз, сорадык -->
+    <feat name="Person" value="2" upos="AUX,PRON,VERB">7</feat><!-- Сез, дисәгез, карасаң, килдегез, сезнең, яз, ясагыз -->
+    <feat name="Person" value="3" upos="AUX,PRON,VERB">143</feat><!-- диде, аның, ул, итте, итә, ала, иде, ителә, әйтте, алар -->
+    <feat name="Person[psor]" value="1" upos="NOUN,PRON">16</feat><!-- телебез, Милләтебезне, Президентыбызга, Республикабызда, йолаларыбыз, милләттәшләребез, ныклыгыбызны, тарихыбыз, телебезгә, халкыбызның -->
+    <feat name="Person[psor]" value="2" upos="NOUN,PRON,VERB">4</feat><!-- Язмаң, вәкаләтләрегезне, куллануыгызны, үзең -->
+    <feat name="Person[psor]" value="3" upos="ADJ,AUX,NOUN,PRON,PROPN,VERB">341</feat><!-- министры, районы, сүзләренчә, торышы, урынбасары, утлары, башлыгы, берләшмәләре, вәкилләре, көннәрендә -->
+    <feat name="Polarity" value="Neg" upos="AUX,VERB">9</feat><!-- алмады, артмаган, бирелми, булмады, булмаса, килми, кимемәсен, көтелми, өзелмәвен -->
+    <feat name="PronType" value="Dem" upos="PRON">11</feat><!-- Бу, Моннан, моңа, Аннан, Монда, Шуңа, шуның -->
+    <feat name="PronType" value="Neg" upos="PRON">1</feat><!-- Беркем -->
+    <feat name="PronType" value="Prs" upos="PRON">35</feat><!-- ул, аның, безгә, үз, Без, Безнең, алар, аларның, Сез, аларга -->
+    <feat name="PronType" value="Tot" upos="PRON">4</feat><!-- Барлык, бары, барысы, барысын -->
+    <feat name="Reflex" value="Yes" upos="PRON">6</feat><!-- үз, үзебезне, үзенең -->
+    <feat name="Tense" value="Fut" upos="AUX,VERB">23</feat><!-- булачак, алачак, итәчәк, калыр, төшәчәк, узачак, арттырылачак, башкарылачак, булыр, булышыр -->
+    <feat name="Tense" value="Past" upos="AUX,VERB">113</feat><!-- булган, диде, итте, ителгән, планлаштырылган, әйтте, башланган, белдерде, иде, искәртте -->
+    <feat name="Tense" value="Pres" upos="AUX,VERB">49</feat><!-- итә, ала, ителә, керә, килә, саклана, тора, фаразлана, алына, ассызыклый -->
+    <feat name="VerbForm" value="Conv" upos="VERB">49</feat><!-- алып, бара, булмаса, булып, дип, итеп, тотып, этеп, ачыклый, аңлап -->
+    <feat name="VerbForm" value="Fin" upos="AUX,VERB">113</feat><!-- диде, итә, итте, ала, ителә, әйтте, белдерде, иде, искәртте, ителде -->
+    <feat name="VerbForm" value="Inf" upos="VERB">21</feat><!-- булырга, итәргә, ясатырга, аңлашырга, бирергә, кайтырга, кулланырга, укырга, эшләргә, югалтырга -->
+    <feat name="VerbForm" value="NomAg" upos="VERB">21</feat><!-- итүче, укытучыларны, яшәүчеләр, Язучылар, алган, итүчеләр, керүчеләрнең, теләүчеләр, тикшерүчеләр, тәрбияләнүче -->
+    <feat name="VerbForm" value="Part" upos="AUX,VERB">79</feat><!-- булган, булачак, алачак, ителгән, планлаштырылган, башланган, иткәнчә, итәчәк, калыр, караганда -->
+    <feat name="VerbForm" value="Vnoun" upos="AUX,VERB">87</feat><!-- саклау, Тикшерү, итү, Очрашуда, бару, булуын, калу, кую, көтелүе, ремонтлау -->
+    <feat name="Voice" value="Cau" upos="AUX,VERB">31</feat><!-- белдерде, чыгарган, ясатырга, үстерү, Укытучыларны, аңлаттылар, аңлату, бастырып, булдыру, искәртте -->
+    <feat name="Voice" value="CauPass" upos="VERB">8</feat><!-- чыгарылган, арттырылачак, кертеләчәк, оештырылды, оештырылса, ясатылган, үзәкләштерелгән -->
+    <feat name="Voice" value="Mid" upos="VERB">4</feat><!-- саклана, сакланачак, җыелган -->
+    <feat name="Voice" value="Pass" upos="VERB">44</feat><!-- ителгән, ителә, башланган, ителде, көтелүе, планлаштырылган, саклануның, фаразлана, алына, аталган -->
+    <feat name="Voice" value="Rcp" upos="VERB">4</feat><!-- Очрашуда, аңлашырга, сөйләшүләр -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
   <deps unique="28">
-    <dep name="acl">5</dep>
-    <dep name="advcl">31</dep>
-    <dep name="advmod">52</dep>
-    <dep name="advmod:emph">2</dep>
-    <dep name="amod">134</dep>
-    <dep name="appos">11</dep>
-    <dep name="aux">30</dep>
-    <dep name="case">47</dep>
-    <dep name="cc">39</dep>
-    <dep name="ccomp">3</dep>
-    <dep name="compound">2</dep>
-    <dep name="compound:lvc">21</dep>
-    <dep name="conj">51</dep>
-    <dep name="dep">1</dep>
-    <dep name="det">10</dep>
+    <dep name="acl">13</dep>
+    <dep name="advcl">42</dep>
+    <dep name="advmod">77</dep>
+    <dep name="advmod:emph">7</dep>
+    <dep name="amod">179</dep>
+    <dep name="appos">25</dep>
+    <dep name="aux">43</dep>
+    <dep name="case">69</dep>
+    <dep name="cc">57</dep>
+    <dep name="ccomp">7</dep>
+    <dep name="compound">28</dep>
+    <dep name="compound:lvc">36</dep>
+    <dep name="conj">92</dep>
+    <dep name="dep">2</dep>
+    <dep name="det">13</dep>
     <dep name="discourse">1</dep>
     <dep name="fixed">2</dep>
-    <dep name="flat">35</dep>
-    <dep name="mark">6</dep>
-    <dep name="nmod">266</dep>
-    <dep name="nsubj">113</dep>
-    <dep name="nummod">14</dep>
-    <dep name="obj">66</dep>
-    <dep name="obl">161</dep>
-    <dep name="parataxis">24</dep>
-    <dep name="punct">221</dep>
-    <dep name="root">93</dep>
-    <dep name="xcomp">17</dep>
+    <dep name="flat">56</dep>
+    <dep name="mark">7</dep>
+    <dep name="nmod">403</dep>
+    <dep name="nsubj">162</dep>
+    <dep name="nummod">30</dep>
+    <dep name="obj">120</dep>
+    <dep name="obl">238</dep>
+    <dep name="parataxis">37</dep>
+    <dep name="punct">368</dep>
+    <dep name="root">148</dep>
+    <dep name="xcomp">18</dep>
   </deps>
 </treebank>
