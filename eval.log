@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 04abe686385f14a9a6f68784bd723a6b60ded594
+commit e9726a6a7d6913193d90edb45a4cb549235c5b16
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 9 00:14:39 2023 +0200
+Date:   Sat Nov 4 17:10:55 2023 +0100
 Evaluating the following revision of UD_Tatar-NMCTT:
-commit a0105bc70daf1bae5986ea42ddceeb4f1955c9a9
+commit 50a0fe5ca3fa8698067ad6c91fdb7c9a9f55c58b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Mon Nov 14 12:41:19 2022 +0100
+Date:   Tue May 9 12:24:21 2023 +0200
 Size: counted 2280 of 2280 words (nodes).
 Size: min(0, log((N/1000)**2)) = 1.6483508859327.
 Size: maximum value 13.815511 is for 1000000 words or more.
