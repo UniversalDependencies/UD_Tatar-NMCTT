@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_Tatar-NMCTT:
-commit 63a31e80d1dc7337af50e8dfbbeb36b23bda1c03
-Merge: 0a0a261 97a77cd
+commit 4682325190677ef69ae7ca460f3b130386f89d32
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue Nov 11 20:55:47 2025 +0100
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'tt_nmctt'
 Language code (from CoNLL-U file name) = 'tt'
@@ -25,20 +25,26 @@ Universal relations: 26 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Genres: found 2 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang tt --max-err=10 UD_Tatar-NMCTT/tt_nmctt-ud-test.conllu
-[Line 11 Sent 5840560_0]: [L3 Warning verbform-fin-without-mood] Finite verb 'тора' lacks the 'Mood' feature
-[Line 22 Sent 5840560_1]: [L3 Warning pron-det-without-prontype] The word 'Бу' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 35 Sent 5840560_1]: [L3 Warning verbform-fin-without-mood] Finite verb 'әйтте' lacks the 'Mood' feature
-[Line 65 Sent 5840560_2]: [L3 Warning verbform-fin-without-mood] Finite verb 'китерелә' lacks the 'Mood' feature
-[Line 92 Sent 5840560_3]: [L3 Warning pron-det-without-prontype] The word 'бернинди' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 123 Sent 5840560_5]: [L3 Warning pron-det-without-prontype] The word 'Россия' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 132 Sent 5840560_5]: [L3 Warning verbform-fin-without-mood] Finite verb 'чакырды' lacks the 'Mood' feature
-[Line 143 Sent 5840560_6]: [L3 Warning verbform-fin-without-mood] Finite verb 'ассызыклый' lacks the 'Mood' feature
-[Line 153 Sent 5840560_6]: [L3 Warning verbform-fin-without-mood] Finite verb 'үтә' lacks the 'Mood' feature
-[Line 177 Sent 5840560_7]: [L3 Warning verbform-fin-without-mood] Finite verb 'катгыйланды' lacks the 'Mood' feature
-...suppressing further errors regarding Warning
-Warnings: 134
-*** PASSED ***
-Validity: 1
+[Line 11 Sent 5840560_0]: [L3 WARNING verbform-fin-without-mood] Finite verb 'тора' lacks the 'Mood' feature
+[Line 22 Sent 5840560_1]: [L3 WARNING pron-det-without-prontype] The word 'Бу' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 35 Sent 5840560_1]: [L3 WARNING verbform-fin-without-mood] Finite verb 'әйтте' lacks the 'Mood' feature
+[Line 65 Sent 5840560_2]: [L3 WARNING verbform-fin-without-mood] Finite verb 'китерелә' lacks the 'Mood' feature
+[Line 92 Sent 5840560_3]: [L3 WARNING pron-det-without-prontype] The word 'бернинди' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 123 Sent 5840560_5]: [L3 WARNING pron-det-without-prontype] The word 'Россия' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 132 Sent 5840560_5]: [L3 WARNING verbform-fin-without-mood] Finite verb 'чакырды' lacks the 'Mood' feature
+[Line 143 Sent 5840560_6]: [L3 WARNING verbform-fin-without-mood] Finite verb 'ассызыклый' lacks the 'Mood' feature
+[Line 153 Sent 5840560_6]: [L3 WARNING verbform-fin-without-mood] Finite verb 'үтә' lacks the 'Mood' feature
+[Line 177 Sent 5840560_7]: [L3 WARNING verbform-fin-without-mood] Finite verb 'катгыйланды' lacks the 'Mood' feature
+...suppressing further messages regarding WARNING/MORPHO
+[Line 1568 Sent 5853693_12]: [L3 WARNING fixed-without-extpos] Fixed expression 'Шулай ук' does not have the 'ExtPos' feature
+[Line 1907 Sent 5853708_5]: [L3 WARNING fixed-without-extpos] Fixed expression 'Шулай ук' does not have the 'ExtPos' feature
+[Line 2341 Sent 5853701_15]: [L3 SYNTAX obl-should-be-nmod] The parent (node [2] 'җирлегенә') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 2383 Sent 5853701_4]: [L3 SYNTAX obl-should-be-nmod] The parent (node [27] 'карар') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+Warnings: 132
+SYNTAX errors: 2
+*** FAILED *** with 2 errors
+Exit code: 1
+Validity: 0.01
 (weight=0.111111111111111) * (score{features}=1) = 0.111111111111111
 (weight=0.111111111111111) * (score{genres}=0.111111111111111) = 0.0123456790123457
 (weight=0.111111111111111) * (score{lemmas}=1) = 0.111111111111111
@@ -46,6 +52,6 @@ Validity: 1
 (weight=0.0740740740740741) * (score{split}=0.01) = 0.000740740740740741
 (weight=0.111111111111111) * (score{tags}=0.823529411764706) = 0.0915032679738562
 (weight=0.111111111111111) * (score{udeprels}=0.702702702702703) = 0.0780780780780781
-(TOTAL score=0.44907947531125) * (availability=1) * (validity=1) = 0.44907947531125
-STARS = 2
-UD_Tatar-NMCTT	0.44907947531125	2
+(TOTAL score=0.44907947531125) * (availability=1) * (validity=0.01) = 0.0044907947531125
+STARS = 0
+UD_Tatar-NMCTT	0.0044907947531125	0
