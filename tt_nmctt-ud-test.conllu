@@ -2338,7 +2338,7 @@
 1	Шәһәр	шәһәр	NOUN	_	Case=Nom|Number=Sing	2	nmod	_	LangID=TT
 2	җирлегенә	җирлек	NOUN	_	Case=Dat|Number=Sing|Person[psor]=3	9	obl	_	LangID=TT
 3	генә	генә	ADV	_	_	2	advmod	_	LangID=TT
-4	дә	дә	ADV	_	_	2	obl	_	LangID=TT
+4	дә	дә	ADV	_	_	2	advmod	_	LangID=TT
 5	15	15	NUM	_	NumType=Card	6	compound	_	LangID=TT
 6	миллиард	миллиард	NUM	_	NumType=Card	8	nummod	_	LangID=RU
 7	тирәсе	тирәсе	ADV	_	_	6	advmod	_	LangID=TT
@@ -2380,7 +2380,7 @@
 22	өстәмә	өстәмә	ADJ	_	_	23	amod	_	LangID=TT
 23	акча	акча	NOUN	_	Case=Nom|Number=Sing	25	obj	_	LangID=TT
 24	бүлеп	бүл	VERB	_	VerbForm=Conv	25	advcl	_	LangID=TT
-25	бирү	бир	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	27	obl	_	LangID=TT
+25	бирү	бир	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	27	advcl	_	LangID=TT
 26	турында	турында	ADP	_	_	25	case	_	LangID=TT
 27	карар	карар	NOUN	_	Case=Nom|Number=Sing	29	nsubj	_	LangID=TT
 28	кабул	кабул	NOUN	_	Case=Nom|Number=Sing	29	compound:lvc	_	LangID=TT
